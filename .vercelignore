@@ -1,0 +1,14 @@
+*.py
+*.pyc
+__pycache__/
+venv/
+.venv/
+env/
+.env
+scraper/
+interfaces/
+utils/
+logs/
+requirements.txt
+.git/
+.gitignore
