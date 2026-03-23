@@ -1,0 +1,40 @@
+{
+  "name": "Audi Q2",
+  "brand": "Audi",
+  "model": "Q2",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6398/medium/Audi_Q2_Front.jpg?1768563236",
+  "price_range": null,
+  "reviews": 2,
+  "link": "https://www.pakwheels.com/new-cars/audi/q2/",
+  "specifications": {
+    "Price": "PKR 70.50 - 72.50 lacs",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4191 x 1794 x 1508 mm",
+    "Ground Clearance": "145 - 147 mm",
+    "Displacement": "999 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "116 hp",
+    "Torque": "200 Nm",
+    "Boot Space": "405 L",
+    "Kerb Weight": "1325 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "13 - 15 KM/L",
+    "Fuel Tank Capacity": "65 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "190 - 200 KM/H",
+    "Tyre Size": "215/55/R17"
+  },
+  "variants": [
+    {
+      "name": "Audi Q2 1.0 TFSI Exclusive Line",
+      "price": "PKR 7,250,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/q2/1-0-tfsi-exclusive-line/"
+    },
+    {
+      "name": "Audi Q2 1.0 TFSI Standard Line",
+      "price": "PKR 7,050,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/q2/1-0-tfsi-standard-line/2017-present/"
+    }
+  ]
+}

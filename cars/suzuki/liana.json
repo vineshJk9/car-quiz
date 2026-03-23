@@ -1,0 +1,75 @@
+{
+  "name": "Suzuki Liana",
+  "brand": "Suzuki",
+  "model": "Liana",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/1026/medium/liana.jpg?1429727416",
+  "price_range": "PKR 7.00 - 17.64 lacs",
+  "reviews": 75,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/liana/",
+  "specifications": {
+    "Price": "PKR 7.80 - 17.50 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4350 x 1690 x 1545 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1300 - 1586 cc",
+    "Transmission": "Manual & Automatic",
+    "Horse Power": "90 - 115 hp",
+    "Torque": "116 - 141 Nm",
+    "Boot Space": "348 - 413 L",
+    "Kerb Weight": "1110 - 1225 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "13 - 18 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "4 - 5 - Persons",
+    "Top Speed": "140 - 200 KM/H",
+    "Tyre Size": "185/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Liana AXi",
+      "price": "PKR 1,100,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/liana/16l-axi/"
+    },
+    {
+      "name": "Suzuki Liana Eminent",
+      "price": "PKR 1,305,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/liana/1-3-lxi-eminent/"
+    },
+    {
+      "name": "Suzuki Liana Eminent Automatic",
+      "price": "PKR 1,404,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/liana/eminent-automatic/"
+    },
+    {
+      "name": "Suzuki Liana Eminent Automatic 1.3",
+      "price": "PKR 1,171,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/liana/eminent-automatic-1-3/"
+    },
+    {
+      "name": "Suzuki Liana LXi",
+      "price": "PKR 1,094,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/liana/lxi-13l-manual-transmission/"
+    },
+    {
+      "name": "Suzuki Liana LXi (CNG)",
+      "price": "PKR 1,487,500",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/liana/lxi-13l-manual-transmission-cng/"
+    },
+    {
+      "name": "Suzuki Liana LXi Sport",
+      "price": "PKR 1,089,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/liana/sports/"
+    },
+    {
+      "name": "Suzuki Liana RXi",
+      "price": "PKR 1,080,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/liana/rxi-1-3-manual-transmission/"
+    },
+    {
+      "name": "Suzuki Liana RXi (CNG)",
+      "price": "PKR 1,152,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/liana/rxi-cng/2004-2014/"
+    }
+  ]
+}

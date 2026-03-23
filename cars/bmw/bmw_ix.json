@@ -1,0 +1,42 @@
+{
+  "name": "BMW iX",
+  "brand": "Bmw",
+  "model": "BMW iX",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6407/medium/BMW_iX_Front.jpg?1768563436",
+  "price_range": "PKR 5.02 - 5.60 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/ix/",
+  "specifications": {
+    "Price": "PKR 5.02 - 5.60 crore",
+    "Body Type": "Crossover,SUV",
+    "Dimensions (Length x Width x Height)": "4953 x 1679 x 1695 mm",
+    "Ground Clearance": "203 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "326 - 536 hp",
+    "Torque": "-",
+    "Boot Space": "500 L",
+    "Kerb Weight": "2440 - 2585 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "71 - 111 kWh",
+    "Range": "429 - 701 km",
+    "Charging Time": "8 - 11 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "235/60/R20"
+  },
+  "variants": [
+    {
+      "name": "BMW iX xDrive60",
+      "price": "PKR 50,160,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/ix/xdrive60--2/"
+    },
+    {
+      "name": "BMW iX xDrive40",
+      "price": "PKR 56,033,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/ix/xdrive40/"
+    }
+  ]
+}

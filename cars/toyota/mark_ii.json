@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Mark II",
+  "brand": "Toyota",
+  "model": "Mark II",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16107/medium/Cover.jpg?1768567452",
+  "price_range": "PKR 23.20 - 29.65 lacs",
+  "reviews": 5,
+  "link": "https://www.pakwheels.com/new-cars/toyota/mark-ii/",
+  "specifications": {
+    "Price": "PKR 23.20 - 29.65 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4735 x 1760 x 1460 mm",
+    "Ground Clearance": "0 - 155 mm",
+    "Displacement": "1988 - 2491 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "158 - 280 hp",
+    "Torque": "200 - 378 Nm",
+    "Boot Space": "0 - 450 L",
+    "Kerb Weight": "1380 - 1530 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "9 - 11 KM/L",
+    "Fuel Tank Capacity": "70 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Mark II Grande 2.0",
+      "price": "PKR 2,320,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-ii/grande-2-0/"
+    },
+    {
+      "name": "Toyota Mark II Grande 2.5",
+      "price": "PKR 2,965,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-ii/grande-2-5/"
+    }
+  ]
+}

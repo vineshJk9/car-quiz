@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Matrix",
+  "brand": "Toyota",
+  "model": "Matrix",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6245/medium/Toyota_Matrix_Front_Right_Angled.jpg?1768567463",
+  "price_range": "PKR 46.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/matrix/",
+  "specifications": {
+    "Price": "PKR 46.00 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4368 x 1752 x 1549 mm",
+    "Ground Clearance": "134 mm",
+    "Displacement": "2365 cc",
+    "Transmission": "Manual",
+    "Horse Power": "158 hp",
+    "Torque": "220 Nm",
+    "Boot Space": "502 L",
+    "Kerb Weight": "1211 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "205/55/R16"
+  },
+  "variants": [
+    {
+      "name": "Toyota Matrix S",
+      "price": "PKR 4,600,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/matrix/s--37/"
+    }
+  ]
+}

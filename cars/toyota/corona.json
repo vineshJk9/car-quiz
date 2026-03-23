@@ -1,0 +1,45 @@
+{
+  "name": "Toyota Corona",
+  "brand": "Toyota",
+  "model": "Corona",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/15778/medium/Cover.jpg?1768567207",
+  "price_range": "PKR 14.82 - 17.07 lacs",
+  "reviews": 4,
+  "link": "https://www.pakwheels.com/new-cars/toyota/corona/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4480 x 1690 x 1370 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "1498 - 1998 cc",
+    "Transmission": "Manual & Automatic",
+    "Horse Power": "93 - 126 hp",
+    "Torque": "128 - 179 Nm",
+    "Boot Space": "396 L",
+    "Kerb Weight": "980 - 1190 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "6 - 15 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "175/80/R13"
+  },
+  "variants": [
+    {
+      "name": "Toyota Corona DX",
+      "price": "PKR 1,482,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corona/dx--6/"
+    },
+    {
+      "name": "Toyota Corona EX Saloon",
+      "price": "PKR 1,500,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corona/ex-saloon/"
+    },
+    {
+      "name": "Toyota Corona EX Saloon G",
+      "price": "PKR 1,707,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corona/ex-saloon-g/"
+    }
+  ]
+}

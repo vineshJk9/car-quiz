@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Splash",
+  "brand": "Suzuki",
+  "model": "Splash",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6264/medium/Suzuki_Splash_Front_RIght_Angled.jpg?1768566904",
+  "price_range": "PKR 41.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/splash/",
+  "specifications": {
+    "Price": "PKR 41.00 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3715 x 1680 x 1590 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1242 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "88 hp",
+    "Torque": "117 Nm",
+    "Boot Space": "257 L",
+    "Kerb Weight": "1050 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 13 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "160 KM/H",
+    "Tyre Size": "195/55/R14"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Splash GLS",
+      "price": "PKR 4,100,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/splash/gls--10/"
+    }
+  ]
+}

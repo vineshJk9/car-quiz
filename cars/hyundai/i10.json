@@ -1,0 +1,35 @@
+{
+  "name": "Hyundai i10",
+  "brand": "Hyundai",
+  "model": "i10",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/12407/medium/Cover.jpg?1768564574",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/i10/",
+  "specifications": {
+    "Price": "PKR 12.97 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3585 x 1590 x 1550 mm",
+    "Ground Clearance": "165 mm",
+    "Displacement": "1197 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "82 hp",
+    "Torque": "114 Nm",
+    "Boot Space": "252 L",
+    "Kerb Weight": "961 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 14 KM/L",
+    "Fuel Tank Capacity": "37 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "175/60/R15"
+  },
+  "variants": [
+    {
+      "name": "Hyundai i10 Asta",
+      "price": "PKR 1,296,684",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/i10/asta/"
+    }
+  ]
+}

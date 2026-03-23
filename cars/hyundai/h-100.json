@@ -1,0 +1,45 @@
+{
+  "name": "Hyundai H-100",
+  "brand": "Hyundai",
+  "model": "H-100",
+  "status": "new",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/12392/medium/Cover.jpg?1768564562",
+  "price_range": "PKR 43.95 - 44.35 lacs",
+  "reviews": 2,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/h-100/",
+  "specifications": {
+    "Price": "PKR 43.95 - 44.35 lacs",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "4850 x 1740 x 1970 mm",
+    "Ground Clearance": "0 mm",
+    "Displacement": "2607 cc",
+    "Transmission": "Manual",
+    "Horse Power": "79 hp",
+    "Torque": "167 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "0 KG",
+    "Fuel Type": "Diesel",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "65 L",
+    "Seating Capacity": "2 - 3 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/70/R15"
+  },
+  "variants": [
+    {
+      "name": "Hyundai H-100 Deckless",
+      "price": "PKR 4,395,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/h-100/deckless--3/"
+    },
+    {
+      "name": "Hyundai H-100 Flat Deck",
+      "price": "PKR 4,415,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/h-100/flat-deck/"
+    },
+    {
+      "name": "Hyundai H-100 High Deck",
+      "price": "PKR 4,435,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/h-100/2-6-mt/"
+    }
+  ]
+}

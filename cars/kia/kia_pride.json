@@ -1,0 +1,40 @@
+{
+  "name": "KIA Pride",
+  "brand": "Kia",
+  "model": "KIA Pride",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12673/medium/Cover.jpg?1768564741",
+  "price_range": "PKR 3.85 - 4.72 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/kia/pride/",
+  "specifications": {
+    "Price": "PKR 3.85 - 4.72 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3565 x 1605 x 1460 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "1138 - 1324 cc",
+    "Transmission": "Manual",
+    "Horse Power": "52 - 60 hp",
+    "Torque": "86 - 100 Nm",
+    "Boot Space": "330 L",
+    "Kerb Weight": "850 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "38 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "165/70/R12"
+  },
+  "variants": [
+    {
+      "name": "KIA Pride 1.1",
+      "price": "PKR 385,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/pride/1-1/"
+    },
+    {
+      "name": "KIA Pride 1.3",
+      "price": "PKR 472,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/pride/1-3--3/"
+    }
+  ]
+}

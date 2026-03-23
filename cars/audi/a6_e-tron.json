@@ -1,0 +1,42 @@
+{
+  "name": "Audi A6 e-tron",
+  "brand": "Audi",
+  "model": "A6 e-tron",
+  "status": "new",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/10365/medium/Cover.jpg?1768471992",
+  "price_range": "PKR 2.90 - 4.20 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/audi/a6-e-tron/",
+  "specifications": {
+    "Price": "PKR 2.90 - 4.20 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4928 x 1923 x 1487 mm",
+    "Ground Clearance": "175 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "282 hp",
+    "Torque": "-",
+    "Boot Space": "502 L",
+    "Kerb Weight": "2100 - 2245 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "83.0 kWh",
+    "Range": "571 km",
+    "Charging Time": "8.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "210 KM/H",
+    "Tyre Size": "235/45/R20"
+  },
+  "variants": [
+    {
+      "name": "Audi A6 e-tron Signature Sportback",
+      "price": "PKR 29,000,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a6-e-tron/signature-sportback/"
+    },
+    {
+      "name": "Audi A6 e-tron Executive Edition Sportback",
+      "price": "PKR 42,000,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a6-e-tron/executive-edition-sportback/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Alphard",
+  "brand": "Toyota",
+  "model": "Alphard",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/15482/medium/Cover.jpg?1768567030",
+  "price_range": "PKR 1.83 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/alphard/",
+  "specifications": {
+    "Price": "PKR 1.83 crore",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "4945 x 1850 x 1935 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "3456 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "296 hp",
+    "Torque": "361 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "2150 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "6 - 8 KM/L",
+    "Fuel Tank Capacity": "75 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "225/60/R17"
+  },
+  "variants": [
+    {
+      "name": "Toyota Alphard 3.5",
+      "price": "PKR 18,280,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/alphard/3-5/"
+    }
+  ]
+}

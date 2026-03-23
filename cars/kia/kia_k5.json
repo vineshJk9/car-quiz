@@ -1,0 +1,35 @@
+{
+  "name": "KIA K5",
+  "brand": "Kia",
+  "model": "KIA K5",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7502/medium/kia-K5.jpg?1768564729",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/kia/k5/",
+  "specifications": {
+    "Price": "PKR 2.29 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4905 x 1860 x 1445 mm",
+    "Ground Clearance": "135 mm",
+    "Displacement": "2497 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "290 hp",
+    "Torque": "422 Nm",
+    "Boot Space": "453 L",
+    "Kerb Weight": "1603 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 14 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "245/40/R19"
+  },
+  "variants": [
+    {
+      "name": "KIA K5 GT",
+      "price": "PKR 22,937,200",
+      "link": "https://www.pakwheels.com/new-cars/kia/k5/gt--6/"
+    }
+  ]
+}

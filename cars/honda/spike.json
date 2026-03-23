@@ -1,0 +1,35 @@
+{
+  "name": "Honda Spike",
+  "brand": "Honda",
+  "model": "Spike",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6123/medium/Honda_Spike_Front_Right_Angled.jpg?1768564467",
+  "price_range": "PKR 35.85 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/spike/",
+  "specifications": {
+    "Price": "PKR 35.85 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4265 x 1695 x 1710 mm",
+    "Ground Clearance": "135 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "140 hp (Combined)",
+    "Torque": "294 Nm (Combined)",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1340 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "25 - 27 KM/L",
+    "Fuel Tank Capacity": "36 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Honda Spike + Hybrid EX",
+      "price": "PKR 3,585,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/spike/hybrid-ex--3/"
+    }
+  ]
+}

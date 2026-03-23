@@ -1,0 +1,65 @@
+{
+  "name": "Toyota Corolla Axio",
+  "brand": "Toyota",
+  "model": "Corolla Axio",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/2861/medium/Toyota_Corolla_Axio_11th.jpg?1768567173",
+  "price_range": "PKR 30.00 - 57.44 lacs",
+  "reviews": 22,
+  "link": "https://www.pakwheels.com/new-cars/toyota/corolla-axio/",
+  "specifications": {
+    "Price": "PKR 83.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4400 x 1695 x 1460 mm",
+    "Ground Clearance": "155 mm",
+    "Displacement": "1329 - 1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "74 - 109 hp (Combined)",
+    "Torque": "111 - 136 Nm (Combined)",
+    "Boot Space": "0 - 450 L",
+    "Kerb Weight": "1050 - 1140 KG",
+    "Fuel Type": "Petrol & Hybrid",
+    "Mileage": "11 - 34 KM/L",
+    "Fuel Tank Capacity": "36 - 42 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "175/70/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Corolla Axio G",
+      "price": "PKR 4,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-axio/1-5-g/"
+    },
+    {
+      "name": "Toyota Corolla Axio Hybrid 1.5",
+      "price": "PKR 4,228,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-axio/hybrid--3/"
+    },
+    {
+      "name": "Toyota Corolla Axio Luxel 1.5",
+      "price": "PKR 3,740,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-axio/luxel-1-5/"
+    },
+    {
+      "name": "Toyota Corolla Axio WXB",
+      "price": "PKR 5,744,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-axio/wxb/"
+    },
+    {
+      "name": "Toyota Corolla Axio X 1.3",
+      "price": "PKR 3,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-axio/1-3-x/"
+    },
+    {
+      "name": "Toyota Corolla Axio X 1.5",
+      "price": "PKR 4,590,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-axio/1-5-x/"
+    },
+    {
+      "name": "Toyota Corolla Axio X G Edition 1.3",
+      "price": "PKR 3,990,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-axio/x-g-edition-1-3/"
+    }
+  ]
+}

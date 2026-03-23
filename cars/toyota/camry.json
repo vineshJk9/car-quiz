@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Camry",
+  "brand": "Toyota",
+  "model": "Camry",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6756/medium/3.jpg?1768567110",
+  "price_range": null,
+  "reviews": 11,
+  "link": "https://www.pakwheels.com/new-cars/toyota/camry/",
+  "specifications": {
+    "Price": "PKR 1.57 - 1.61 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4885 x 1840 x 1445 mm",
+    "Ground Clearance": "145 - 155 mm",
+    "Displacement": "2487 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "176 - 205 hp (Combined)",
+    "Torque": "221 Nm (Combined)",
+    "Boot Space": "424 - 524 L",
+    "Kerb Weight": "1625 - 1650 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "8 - 25 KM/L",
+    "Fuel Tank Capacity": "50 - 55 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 - 240 KM/H",
+    "Tyre Size": "215/55/R17"
+  },
+  "variants": [
+    {
+      "name": "Toyota Camry High Grade",
+      "price": "PKR 15,720,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/camry/high-grade/2018-present/"
+    },
+    {
+      "name": "Toyota Camry Low Grade",
+      "price": "PKR 16,050,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/camry/low-grade/2018-present/"
+    }
+  ]
+}

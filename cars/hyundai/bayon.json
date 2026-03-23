@@ -1,0 +1,35 @@
+{
+  "name": "Hyundai Bayon",
+  "brand": "Hyundai",
+  "model": "Bayon",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/8852/medium/Cover.jpg?1747034850",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/bayon/",
+  "specifications": {
+    "Price": "PKR 80.00 lacs",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4180 x 1775 x 1500 mm",
+    "Ground Clearance": "185 mm",
+    "Displacement": "996 cc",
+    "Transmission": "Manual",
+    "Horse Power": "98 hp",
+    "Torque": "172 Nm",
+    "Boot Space": "410 L",
+    "Kerb Weight": "970 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 18 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/65/R16"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Bayon SE Connect",
+      "price": "PKR 8,000,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/bayon/se-connect/"
+    }
+  ]
+}

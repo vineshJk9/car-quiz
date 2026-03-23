@@ -1,0 +1,35 @@
+{
+  "name": "Honda CR-V",
+  "brand": "Honda",
+  "model": "CR-V",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/4772/medium/Honda_CR-V.jpg?1519205461",
+  "price_range": "PKR 1.07 crore",
+  "reviews": 4,
+  "link": "https://www.pakwheels.com/new-cars/honda/cr-v/",
+  "specifications": {
+    "Price": "PKR 1.07 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4591 x 1855 x 1679 mm",
+    "Ground Clearance": "192 mm",
+    "Displacement": "1997 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "113 hp",
+    "Torque": "189 Nm",
+    "Boot Space": "522 L",
+    "Kerb Weight": "1474 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "57 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "235/65/R17"
+  },
+  "variants": [
+    {
+      "name": "Honda CR-V 2.0 CVT",
+      "price": "PKR 10,700,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/cr-v/2-0-cvt/"
+    }
+  ]
+}

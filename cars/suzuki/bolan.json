@@ -1,0 +1,45 @@
+{
+  "name": "Suzuki Bolan",
+  "brand": "Suzuki",
+  "model": "Bolan",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/2975/medium/Suzuki_Bolan_2012.jpg?1768566786",
+  "price_range": "PKR 9.00 - 19.14 lacs",
+  "reviews": 13,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/bolan/",
+  "specifications": {
+    "Price": "PKR 1.80 - 19.50 lacs",
+    "Body Type": "Mini Van,Van, Micro Van",
+    "Dimensions (Length x Width x Height)": "3255 x 1395 x 1845 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "796 cc",
+    "Transmission": "Manual",
+    "Horse Power": "37 hp",
+    "Torque": "62 Nm",
+    "Boot Space": "0 - 550 L",
+    "Kerb Weight": "0 - 550 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 14 KM/L",
+    "Fuel Tank Capacity": "36 L",
+    "Seating Capacity": "2 - 5 - Persons",
+    "Top Speed": "120 KM/H",
+    "Tyre Size": "145/50/R12"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Bolan Cargo Van Euro ll",
+      "price": "PKR 900,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/bolan/st-cargo/"
+    },
+    {
+      "name": "Suzuki Bolan VX Euro II",
+      "price": "PKR 922,600",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/bolan/vx-euro-ii--2/"
+    },
+    {
+      "name": "Suzuki Bolan VX Euro II AC",
+      "price": "PKR 1,914,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/bolan/vx-euro-ii-a-c/"
+    }
+  ]
+}

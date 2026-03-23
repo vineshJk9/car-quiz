@@ -1,0 +1,35 @@
+{
+  "name": "Hyundai Elantra",
+  "brand": "Hyundai",
+  "model": "Elantra",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/9800/medium/Cover.jpg?1760439908",
+  "price_range": "PKR 98.95 lacs",
+  "reviews": 39,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/elantra/",
+  "specifications": {
+    "Price": "PKR 98.95 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4710 x 1825 x 1430 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1580 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "139 hp (Combined)",
+    "Torque": "264 Nm (Combined)",
+    "Boot Space": "402 L",
+    "Kerb Weight": "1385 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "22 - 24 KM/L",
+    "Fuel Tank Capacity": "42 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "205/55/R16"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Elantra Hybrid",
+      "price": "PKR 9,895,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/elantra/blue/"
+    }
+  ]
+}

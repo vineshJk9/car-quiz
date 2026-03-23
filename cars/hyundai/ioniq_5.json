@@ -1,0 +1,37 @@
+{
+  "name": "Hyundai Ioniq 5",
+  "brand": "Hyundai",
+  "model": "Ioniq 5",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/8966/medium/Cover.jpg?1750740733",
+  "price_range": null,
+  "reviews": 2,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/ioniq/",
+  "specifications": {
+    "Price": "PKR 1.20 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4635 x 1890 x 1647 mm",
+    "Ground Clearance": "170 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "305 hp",
+    "Torque": "-",
+    "Boot Space": "770 L",
+    "Kerb Weight": "2100 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "72.6 kWh",
+    "Range": "430 km",
+    "Charging Time": "8.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "255/45/R20"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Ioniq 5 EV",
+      "price": "PKR 12,000,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/ioniq/5-ev/2021-present/"
+    }
+  ]
+}

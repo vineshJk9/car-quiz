@@ -1,0 +1,35 @@
+{
+  "name": "Audi A1",
+  "brand": "Audi",
+  "model": "A1",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10406/medium/Cover.jpg?1768563174",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/audi/a1/",
+  "specifications": {
+    "Price": "PKR 95.88 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4029 x 1740 x 1409 mm",
+    "Ground Clearance": "136 mm",
+    "Displacement": "999 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "116 hp",
+    "Torque": "200 Nm",
+    "Boot Space": "335 L",
+    "Kerb Weight": "1125 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "15 - 18 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "203 KM/H",
+    "Tyre Size": "195/55/R16"
+  },
+  "variants": [
+    {
+      "name": "Audi A1 Sportback S line",
+      "price": "PKR 9,588,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a1/sportback--2/"
+    }
+  ]
+}

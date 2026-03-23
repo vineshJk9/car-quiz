@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Fj Cruiser",
+  "brand": "Toyota",
+  "model": "Fj Cruiser",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/4546/medium/Toyota_Fj_Cruiser_2017.jpg?1768567309",
+  "price_range": "PKR 1.52 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/fj-cruiser/",
+  "specifications": {
+    "Price": "PKR 1.52 crore",
+    "Body Type": "Off-Road Vehicles",
+    "Dimensions (Length x Width x Height)": "4635 x 1905 x 1840 mm",
+    "Ground Clearance": "230 mm",
+    "Displacement": "3955 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "270 hp",
+    "Torque": "380 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1954 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "4 - 6 KM/L",
+    "Fuel Tank Capacity": "72 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "265/70/R17"
+  },
+  "variants": [
+    {
+      "name": "Toyota Fj Cruiser Automatic",
+      "price": "PKR 15,240,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/fj-cruiser/automatic--2/"
+    }
+  ]
+}

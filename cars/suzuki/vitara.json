@@ -1,0 +1,40 @@
+{
+  "name": "Suzuki Vitara",
+  "brand": "Suzuki",
+  "model": "Vitara",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/4306/medium/Suzuki_Vitara_2016_Pakistan.jpg?1768566968",
+  "price_range": "PKR 37.30 - 46.20 lacs",
+  "reviews": 14,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/vitara/",
+  "specifications": {
+    "Price": "PKR 37.30 - 46.20 lacs",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4175 x 1775 x 1610 mm",
+    "Ground Clearance": "185 mm",
+    "Displacement": "1586 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "115 hp",
+    "Torque": "156 Nm",
+    "Boot Space": "375 L",
+    "Kerb Weight": "1185 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "13 - 14 KM/L",
+    "Fuel Tank Capacity": "47 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "215/60/16"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Vitara GL+ 1.6",
+      "price": "PKR 3,730,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/vitara/gl-1-6/"
+    },
+    {
+      "name": "Suzuki Vitara GLX 1.6",
+      "price": "PKR 4,620,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/vitara/glx-1-6/"
+    }
+  ]
+}

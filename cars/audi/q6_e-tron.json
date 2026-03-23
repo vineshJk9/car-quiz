@@ -1,0 +1,47 @@
+{
+  "name": "Audi Q6 e-tron",
+  "brand": "Audi",
+  "model": "Q6 e-tron",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/10040/medium/Cover.jpg?1762865872",
+  "price_range": "PKR 2.78 - 4.20 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/audi/q6-e-tron/",
+  "specifications": {
+    "Price": "PKR 2.78 - 4.20 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4771 x 1939 x 1685 mm",
+    "Ground Clearance": "175 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "248 - 382 hp",
+    "Torque": "-",
+    "Boot Space": "526 L",
+    "Kerb Weight": "2125 - 2400 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "83 - 94 kWh",
+    "Range": "470 - 550 km",
+    "Charging Time": "9.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "210 KM/H",
+    "Tyre Size": "255/55/R19"
+  },
+  "variants": [
+    {
+      "name": "Audi Q6 e-tron Signature",
+      "price": "PKR 27,800,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/q6-e-tron/signature--3/"
+    },
+    {
+      "name": "Audi Q6 e-tron Special",
+      "price": "PKR 29,500,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/q6-e-tron/special--5/"
+    },
+    {
+      "name": "Audi Q6 e-tron Performance",
+      "price": "PKR 42,000,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/q6-e-tron/performance--5/"
+    }
+  ]
+}

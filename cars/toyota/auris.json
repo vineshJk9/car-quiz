@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Auris",
+  "brand": "Toyota",
+  "model": "Auris",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/15522/medium/Cover.jpg?1768567049",
+  "price_range": null,
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/toyota/auris/",
+  "specifications": {
+    "Price": "PKR 1.56 crore",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4370 x 1790 x 1460 mm",
+    "Ground Clearance": "0 mm",
+    "Displacement": "1798 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "140 hp (Combined)",
+    "Torque": "142 Nm (Combined)",
+    "Boot Space": "361 L",
+    "Kerb Weight": "1410 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "16 - 18 KM/L",
+    "Fuel Tank Capacity": "43 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/65/R16"
+  },
+  "variants": [
+    {
+      "name": "Toyota Auris 1.8 Hybrid",
+      "price": "PKR 15,600,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/auris/1-8-hybrid/"
+    }
+  ]
+}

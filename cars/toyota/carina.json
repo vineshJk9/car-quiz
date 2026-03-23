@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Carina",
+  "brand": "Toyota",
+  "model": "Carina",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/15648/medium/Cover.jpg?1768567118",
+  "price_range": "PKR 30.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/carina/",
+  "specifications": {
+    "Price": "PKR 30.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4495 x 1695 x 1410 mm",
+    "Ground Clearance": "155 mm",
+    "Displacement": "1762 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "115 hp",
+    "Torque": "155 Nm",
+    "Boot Space": "434 L",
+    "Kerb Weight": "1150 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "185/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Carina 1.8 Si",
+      "price": "PKR 3,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/carina/1-8-si/"
+    }
+  ]
+}

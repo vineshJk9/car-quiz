@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Cressida",
+  "brand": "Toyota",
+  "model": "Cressida",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/15781/medium/Cover.jpg?1768567212",
+  "price_range": "PKR 18.50 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/toyota/cressida/",
+  "specifications": {
+    "Price": "PKR 18.50 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4815 x 1710 x 1385 mm",
+    "Ground Clearance": "155 mm",
+    "Displacement": "2954 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "190 hp",
+    "Torque": "185 Nm",
+    "Boot Space": "354 L",
+    "Kerb Weight": "1560 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "19 - 24 KM/L",
+    "Fuel Tank Capacity": "70 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "175 KM/H",
+    "Tyre Size": "195/65/15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Cressida GL",
+      "price": "PKR 1,850,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/cressida/gl--8/"
+    }
+  ]
+}

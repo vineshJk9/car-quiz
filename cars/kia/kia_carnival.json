@@ -1,0 +1,35 @@
+{
+  "name": "KIA Carnival",
+  "brand": "Kia",
+  "model": "KIA Carnival",
+  "status": "new",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7988/medium/Cover.jpg?1737101800",
+  "price_range": "PKR 1.82 crore",
+  "reviews": 11,
+  "link": "https://www.pakwheels.com/new-cars/kia/carnival/",
+  "specifications": {
+    "Price": "PKR 1.82 crore",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "5155 x 1995 x 1775 mm",
+    "Ground Clearance": "172 mm",
+    "Displacement": "3500 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "268 hp",
+    "Torque": "332 Nm",
+    "Boot Space": "990 L",
+    "Kerb Weight": "1984 - 1985 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "72 L",
+    "Seating Capacity": "11 - Persons",
+    "Top Speed": "160 - 180 KM/H",
+    "Tyre Size": "235/55/R19"
+  },
+  "variants": [
+    {
+      "name": "KIA Carnival 3.5L V6",
+      "price": "PKR 18,200,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/carnival/3-5l-v6/"
+    }
+  ]
+}

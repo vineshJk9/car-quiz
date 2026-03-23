@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Aerio",
+  "brand": "Suzuki",
+  "model": "Aerio",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/10054/medium/Cover_%2814%29.jpg?1764226685",
+  "price_range": "PKR 16.50 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/aerio/",
+  "specifications": {
+    "Price": "PKR 16.50 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4351 x 1720 x 1545 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "2297 cc",
+    "Transmission": "Manual",
+    "Horse Power": "155 hp",
+    "Torque": "206 Nm",
+    "Boot Space": "388 L",
+    "Kerb Weight": "1228 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "14 - 17 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/55/R15"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Aerio SX",
+      "price": "PKR 1,650,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/aerio/sx/"
+    }
+  ]
+}

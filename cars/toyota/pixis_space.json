@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Pixis Space",
+  "brand": "Toyota",
+  "model": "Pixis Space",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16175/medium/Cover.jpg?1768567495",
+  "price_range": "PKR 15.53 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/pixis-space/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Mini Vehicles",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1655 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "51 hp",
+    "Torque": "60 Nm",
+    "Boot Space": "150 L",
+    "Kerb Weight": "830 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 24 KM/L",
+    "Fuel Tank Capacity": "36 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "155/65/14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Pixis Space L",
+      "price": "PKR 1,553,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/pixis-space/l--29/"
+    }
+  ]
+}

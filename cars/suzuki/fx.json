@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki FX",
+  "brand": "Suzuki",
+  "model": "FX",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15104/medium/Cover.jpg?1768566813",
+  "price_range": "PKR 1.84 lacs",
+  "reviews": 3,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/fx/",
+  "specifications": {
+    "Price": "PKR 1.40 - 5.50 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3295 x 1415 x 1335 mm",
+    "Ground Clearance": "200 mm",
+    "Displacement": "796 cc",
+    "Transmission": "Manual",
+    "Horse Power": "40 hp",
+    "Torque": "58 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "570 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "30 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "125/80/R12"
+  },
+  "variants": [
+    {
+      "name": "Suzuki FX GA",
+      "price": "PKR 184,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/fx/ga--3/"
+    }
+  ]
+}

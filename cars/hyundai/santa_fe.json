@@ -1,0 +1,40 @@
+{
+  "name": "Hyundai Santa Fe",
+  "brand": "Hyundai",
+  "model": "Santa Fe",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7593/medium/Santa--fe-cover.jpg?1768564602",
+  "price_range": "PKR 1.25 - 1.39 crore",
+  "reviews": 22,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/santa-fe/",
+  "specifications": {
+    "Price": "PKR 1.25 - 1.39 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4785 x 1900 x 1710 mm",
+    "Ground Clearance": "176 mm",
+    "Displacement": "1598 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "227 hp (Combined)",
+    "Torque": "350 Nm (Combined)",
+    "Boot Space": "782 L",
+    "Kerb Weight": "1780 - 1845 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "13 - 15 KM/L",
+    "Fuel Tank Capacity": "67 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "235/55/R19"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Santa Fe Smart",
+      "price": "PKR 12,450,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/santa-fe/smart/"
+    },
+    {
+      "name": "Hyundai Santa Fe Signature",
+      "price": "PKR 13,895,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/santa-fe/signature/"
+    }
+  ]
+}

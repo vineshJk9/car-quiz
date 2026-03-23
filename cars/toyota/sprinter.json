@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Sprinter",
+  "brand": "Toyota",
+  "model": "Sprinter",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/16383/medium/Cover.jpg?1768568131",
+  "price_range": "PKR 30.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/sprinter/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4310 x 1690 x 1400 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "2479 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "213 hp",
+    "Torque": "264 Nm",
+    "Boot Space": "120 L",
+    "Kerb Weight": "1050 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "205/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Sprinter 250L",
+      "price": "PKR 3,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/sprinter/250l/"
+    }
+  ]
+}

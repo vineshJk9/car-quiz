@@ -1,0 +1,40 @@
+{
+  "name": "Audi A3",
+  "brand": "Audi",
+  "model": "A3",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/5683/medium/61f9b21c0de14e30a4d7ae577e8cb4dc.jpg?1768563180",
+  "price_range": null,
+  "reviews": 6,
+  "link": "https://www.pakwheels.com/new-cars/audi/a3/",
+  "specifications": {
+    "Price": "PKR 75.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4495 x 1816 x 1425 mm",
+    "Ground Clearance": "165 mm",
+    "Displacement": "1500 - 2000 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "187 hp",
+    "Torque": "250 - 320 Nm",
+    "Boot Space": "425 - 480 L",
+    "Kerb Weight": "1320 - 1465 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "14 - 19 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "232 - 248 KM/H",
+    "Tyre Size": "205/55/16"
+  },
+  "variants": [
+    {
+      "name": "Audi A3 35 TFSI S tronic",
+      "price": "PKR 7,500,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a3/35-tfsi-s-tronic/"
+    },
+    {
+      "name": "Audi A3 40 TFSI quattro S tronic",
+      "price": "PKR 7,500,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a3/40-tfsi-quattro-s-tronic/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "MG 5",
+  "brand": "Mg",
+  "model": "MG 5",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/13585/medium/Cover.jpg?1768565646",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/mg/5/",
+  "specifications": {
+    "Price": "PKR 50.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4601 x 1818 x 1489 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "1500 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "118 hp",
+    "Torque": "150 Nm",
+    "Boot Space": "512 L",
+    "Kerb Weight": "1230 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 16 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/65/15"
+  },
+  "variants": [
+    {
+      "name": "MG 5 1.5L STD CVT",
+      "price": "PKR 5,000,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/5/1-5l-std-cvt/"
+    }
+  ]
+}

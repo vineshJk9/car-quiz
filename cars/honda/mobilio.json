@@ -1,0 +1,35 @@
+{
+  "name": "Honda Mobilio",
+  "brand": "Honda",
+  "model": "Mobilio",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12140/medium/Cover.jpg?1768564418",
+  "price_range": "PKR 95.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/mobilio/",
+  "specifications": {
+    "Price": "PKR 95.00 lacs",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4398 x 1683 x 1603 mm",
+    "Ground Clearance": "189 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Manual",
+    "Horse Power": "119 hp",
+    "Torque": "145 Nm",
+    "Boot Space": "235 L",
+    "Kerb Weight": "1161 KG",
+    "Fuel Type": "Diesel",
+    "Mileage": "15 - 17 KM/L",
+    "Fuel Tank Capacity": "42 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Honda Mobilio RS",
+      "price": "PKR 9,500,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/mobilio/rs--13/"
+    }
+  ]
+}

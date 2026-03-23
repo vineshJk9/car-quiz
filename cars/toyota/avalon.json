@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Avalon",
+  "brand": "Toyota",
+  "model": "Avalon",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/15533/medium/Cover.jpg?1768567053",
+  "price_range": "PKR 3.01 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/avalon/",
+  "specifications": {
+    "Price": "PKR 3.01 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4975 x 1849 x 1435 mm",
+    "Ground Clearance": "134 mm",
+    "Displacement": "2497 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "215 hp (Combined)",
+    "Torque": "202 Nm (Combined)",
+    "Boot Space": "455 L",
+    "Kerb Weight": "1671 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "43 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "260 KM/H",
+    "Tyre Size": "235/40/R19"
+  },
+  "variants": [
+    {
+      "name": "Toyota Avalon XSE Hybrid Nightside",
+      "price": "PKR 30,097,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/avalon/xse-hybrid-nightside/"
+    }
+  ]
+}

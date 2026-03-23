@@ -1,0 +1,35 @@
+{
+  "name": "Audi S5",
+  "brand": "Audi",
+  "model": "S5",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7554/medium/latest-s5.jpg?1768563279",
+  "price_range": "PKR 2.50 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/audi/s5/",
+  "specifications": {
+    "Price": "PKR 2.50 crore",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "4691 x 2029 x 1369 mm",
+    "Ground Clearance": "117 mm",
+    "Displacement": "3000 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "350 hp",
+    "Torque": "500 Nm",
+    "Boot Space": "328 L",
+    "Kerb Weight": "1745 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "7 - 9 KM/L",
+    "Fuel Tank Capacity": "58 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "245/40/R18"
+  },
+  "variants": [
+    {
+      "name": "Audi S5 Sportback 3.0 TFSI",
+      "price": "PKR 25,000,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/s5/sportback-3-0-tfsi/"
+    }
+  ]
+}

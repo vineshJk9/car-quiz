@@ -1,0 +1,55 @@
+{
+  "name": "Honda N Wgn",
+  "brand": "Honda",
+  "model": "N Wgn",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/12187/medium/Cover.jpg?1768564448",
+  "price_range": null,
+  "reviews": 14,
+  "link": "https://www.pakwheels.com/new-cars/honda/n-wgn/",
+  "specifications": {
+    "Price": "PKR 33.85 - 37.60 lacs",
+    "Body Type": "Hatchback, Mini Van",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1695 mm",
+    "Ground Clearance": "140 - 145 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "58 - 64 hp",
+    "Torque": "65 - 104 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "850 - 930 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "20 - 30 KM/L",
+    "Fuel Tank Capacity": "27 L",
+    "Seating Capacity": "4 - 5 - Persons",
+    "Top Speed": "140 - 160 KM/H",
+    "Tyre Size": "155/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Honda N Wgn Custom",
+      "price": "PKR 3,385,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-wgn/custom--8/"
+    },
+    {
+      "name": "Honda N Wgn Custom L Turbo",
+      "price": "PKR 3,759,800",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-wgn/custom-l-turbo/"
+    },
+    {
+      "name": "Honda N Wgn G",
+      "price": "PKR 3,400,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-wgn/g--52/"
+    },
+    {
+      "name": "Honda N Wgn G Turbo",
+      "price": "PKR 3,474,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-wgn/g-turbo-package--4/"
+    },
+    {
+      "name": "Honda N Wgn L",
+      "price": "PKR 3,590,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-wgn/l--30/"
+    }
+  ]
+}

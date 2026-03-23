@@ -1,0 +1,37 @@
+{
+  "name": "MG EP",
+  "brand": "Mg",
+  "model": "MG EP",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/7249/medium/1.jpg?1768565662",
+  "price_range": "PKR 1.00 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/mg/ep/",
+  "specifications": {
+    "Price": "PKR 1.00 crore",
+    "Body Type": "Station Wagon",
+    "Dimensions (Length x Width x Height)": "4544 x 1818 x 1521 mm",
+    "Ground Clearance": "0 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "160 hp",
+    "Torque": "0 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1574 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "50.3 kWh",
+    "Range": "380 km",
+    "Charging Time": "12.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "205/60/R16"
+  },
+  "variants": [
+    {
+      "name": "MG EP Plus",
+      "price": "PKR 10,000,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/ep/plus--7/"
+    }
+  ]
+}

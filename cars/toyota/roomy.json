@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Roomy",
+  "brand": "Toyota",
+  "model": "Roomy",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/10052/medium/Cover_%2812%29.jpg?1768567634",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/roomy/",
+  "specifications": {
+    "Price": "PKR 36.00 - 47.00 lacs",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "3705 x 1670 x 1735 mm",
+    "Ground Clearance": "130 - 413 mm",
+    "Displacement": "996 - 1000 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "69 hp",
+    "Torque": "94 Nm",
+    "Boot Space": "145 L",
+    "Kerb Weight": "1070 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 20 KM/L",
+    "Fuel Tank Capacity": "36 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "165/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Roomy X",
+      "price": "PKR 3,500,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/roomy/x--51/"
+    },
+    {
+      "name": "Toyota Roomy XS",
+      "price": "PKR 3,195,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/roomy/xs--10/"
+    }
+  ]
+}

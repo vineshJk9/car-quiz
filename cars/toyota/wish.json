@@ -1,0 +1,50 @@
+{
+  "name": "Toyota Wish",
+  "brand": "Toyota",
+  "model": "Wish",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16523/medium/Cover.jpg?1768568226",
+  "price_range": "PKR 27.15 - 40.00 lacs",
+  "reviews": 3,
+  "link": "https://www.pakwheels.com/new-cars/toyota/wish/",
+  "specifications": {
+    "Price": "PKR 27.15 - 40.00 lacs",
+    "Body Type": "Mini Van, MPV",
+    "Dimensions (Length x Width x Height)": "4590 x 1695 x 1590 mm",
+    "Ground Clearance": "150 - 160 mm",
+    "Displacement": "1794 - 1797 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "144 hp",
+    "Torque": "173 - 176 Nm",
+    "Boot Space": "0 - 400 L",
+    "Kerb Weight": "1340 - 1370 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 14 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Wish 1.8S",
+      "price": "PKR 3,700,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/wish/s-1-8--2/"
+    },
+    {
+      "name": "Toyota Wish 1.8S Monotone",
+      "price": "PKR 3,920,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/wish/s-monotone-1-8/"
+    },
+    {
+      "name": "Toyota Wish 1.8X",
+      "price": "PKR 4,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/wish/x-1-8--3/"
+    },
+    {
+      "name": "Toyota Wish X HID Selection",
+      "price": "PKR 2,715,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/wish/x-hid-selection/"
+    }
+  ]
+}

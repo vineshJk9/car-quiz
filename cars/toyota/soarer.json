@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Soarer",
+  "brand": "Toyota",
+  "model": "Soarer",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16372/medium/Cover.jpg?1768568118",
+  "price_range": "PKR 1.20 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/soarer/",
+  "specifications": {
+    "Price": "PKR 1.20 crore",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "4515 x 1825 x 1355 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "4300 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "280 hp",
+    "Torque": "430 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1730 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "75 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "245/40/R18"
+  },
+  "variants": [
+    {
+      "name": "Toyota Soarer 430SCV",
+      "price": "PKR 12,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/soarer/430scv/"
+    }
+  ]
+}

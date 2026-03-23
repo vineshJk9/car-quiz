@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Raum",
+  "brand": "Toyota",
+  "model": "Raum",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16300/medium/Cover.jpg?1768567614",
+  "price_range": "PKR 25.30 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/raum/",
+  "specifications": {
+    "Price": "PKR 25.30 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4045 x 1690 x 1535 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "109 hp",
+    "Torque": "141 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "0 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "7 - 14 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "175/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Raum 1.5",
+      "price": "PKR 2,530,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/raum/1-5--4/"
+    }
+  ]
+}

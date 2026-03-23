@@ -1,0 +1,35 @@
+{
+  "name": "Audi Q5",
+  "brand": "Audi",
+  "model": "Q5",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/10519/medium/Cover.jpg?1768563254",
+  "price_range": "PKR 1.30 crore",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/audi/q5/",
+  "specifications": {
+    "Price": "PKR 1.30 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4644 x 1911 x 1624 mm",
+    "Ground Clearance": "200 mm",
+    "Displacement": "1984 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "226 hp",
+    "Torque": "350 Nm",
+    "Boot Space": "550 L",
+    "Kerb Weight": "1820 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "13 - 15 KM/L",
+    "Fuel Tank Capacity": "70 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "237 KM/H",
+    "Tyre Size": "235/60/R18"
+  },
+  "variants": [
+    {
+      "name": "Audi Q5 2.0 TFSI S Tronic quattro",
+      "price": "PKR 13,020,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/q5/2-0-tfsi-s-tronic-quattro/"
+    }
+  ]
+}

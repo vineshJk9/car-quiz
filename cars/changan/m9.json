@@ -1,0 +1,35 @@
+{
+  "name": "Changan M9",
+  "brand": "Changan",
+  "model": "M9",
+  "status": "new",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6408/medium/Changan_M9_Front.jpg?1768563589",
+  "price_range": "PKR 23.49 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/changan/m9/",
+  "specifications": {
+    "Price": "PKR 23.49 lacs",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "4560 x 1645 x 1890 mm",
+    "Ground Clearance": "0 - 140 mm",
+    "Displacement": "1000 - 1243 cc",
+    "Transmission": "Manual",
+    "Horse Power": "68 hp",
+    "Torque": "92 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1070 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "120 - 180 KM/H",
+    "Tyre Size": "175/70/R14"
+  },
+  "variants": [
+    {
+      "name": "Changan M9 Sherpa Power 1.2L",
+      "price": "PKR 2,349,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/m9/sherpa-1-2/"
+    }
+  ]
+}

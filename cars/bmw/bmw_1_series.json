@@ -1,0 +1,35 @@
+{
+  "name": "BMW 1 Series",
+  "brand": "Bmw",
+  "model": "BMW 1 Series",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/10637/medium/Cover.jpg?1768563347",
+  "price_range": "PKR 4.00 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/1-series/",
+  "specifications": {
+    "Price": "PKR 4.00 crore",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4319 x 1799 x 1434 mm",
+    "Ground Clearance": "153 mm",
+    "Displacement": "1995 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "190 hp",
+    "Torque": "400 Nm",
+    "Boot Space": "380 L",
+    "Kerb Weight": "1525 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "14 - 16 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "230 KM/H",
+    "Tyre Size": "225/45/R17"
+  },
+  "variants": [
+    {
+      "name": "BMW 1 Series 120d",
+      "price": "PKR 40,000,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/1-series/120d/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Changan CS75 Plus",
+  "brand": "Changan",
+  "model": "CS75 Plus",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/9758/medium/Cover.jpg?1759993480",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/changan/cs75-plus/",
+  "specifications": {
+    "Price": "PKR 1.80 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4770 x 1910 x 1710 mm",
+    "Ground Clearance": "145 mm",
+    "Displacement": "1998 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "245 hp",
+    "Torque": "400 Nm",
+    "Boot Space": "552 L",
+    "Kerb Weight": "1850 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 16 KM/L",
+    "Fuel Tank Capacity": "58 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "235/50/R20"
+  },
+  "variants": [
+    {
+      "name": "Changan CS75 Plus Royal",
+      "price": "PKR 18,000,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/cs75-plus/royal--2/"
+    }
+  ]
+}

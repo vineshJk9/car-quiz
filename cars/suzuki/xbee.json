@@ -1,0 +1,40 @@
+{
+  "name": "Suzuki Xbee",
+  "brand": "Suzuki",
+  "model": "Xbee",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6466/medium/Suzuki_Xbee.jpg?1768566986",
+  "price_range": null,
+  "reviews": 2,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/xbee/",
+  "specifications": {
+    "Price": "PKR 41.00 - 50.10 lacs",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "3760 x 1670 x 1705 mm",
+    "Ground Clearance": "180 mm",
+    "Displacement": "996 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "98 hp (Combined)",
+    "Torque": "150 Nm (Combined)",
+    "Boot Space": "462 L",
+    "Kerb Weight": "960 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "20 - 22 KM/L",
+    "Fuel Tank Capacity": "32 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "175/60/R16"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Xbee MX",
+      "price": "PKR 5,010,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/xbee/mx--4/"
+    },
+    {
+      "name": "Suzuki Xbee MZ",
+      "price": "PKR 4,100,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/xbee/mz/"
+    }
+  ]
+}

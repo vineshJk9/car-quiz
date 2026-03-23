@@ -1,0 +1,35 @@
+{
+  "name": "Changan CS95",
+  "brand": "Changan",
+  "model": "CS95",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/9753/medium/Cover.jpg?1759925724",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/changan/cs95/",
+  "specifications": {
+    "Price": "PKR 1.50 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4949 x 1940 x 1805 mm",
+    "Ground Clearance": "175 mm",
+    "Displacement": "1998 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "233 hp (Combined)",
+    "Torque": "390 Nm (Combined)",
+    "Boot Space": "782 L",
+    "Kerb Weight": "2210 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "13 - 15 KM/L",
+    "Fuel Tank Capacity": "74 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "255/50/R20"
+  },
+  "variants": [
+    {
+      "name": "Changan CS95 Royal",
+      "price": "PKR 15,000,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/cs95/royal/"
+    }
+  ]
+}

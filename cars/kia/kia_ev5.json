@@ -1,0 +1,42 @@
+{
+  "name": "KIA EV5",
+  "brand": "Kia",
+  "model": "KIA EV5",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/8818/medium/Cover.jpg?1746442671",
+  "price_range": "PKR 1.85 - 2.35 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/kia/ev5/",
+  "specifications": {
+    "Price": "PKR 1.85 - 2.35 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4615 x 1875 x 1715 mm",
+    "Ground Clearance": "166 - 175 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "215 - 308 hp",
+    "Torque": "-",
+    "Boot Space": "513 L",
+    "Kerb Weight": "1870 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "64 - 88 kWh",
+    "Range": "490 - 620 km",
+    "Charging Time": "8 - 10 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "185 KM/H",
+    "Tyre Size": "225/60/R18"
+  },
+  "variants": [
+    {
+      "name": "KIA EV5 Air",
+      "price": "PKR 18,500,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/ev5/air-short-range/"
+    },
+    {
+      "name": "KIA EV5 EARTH",
+      "price": "PKR 23,500,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/ev5/earth-long-range/"
+    }
+  ]
+}

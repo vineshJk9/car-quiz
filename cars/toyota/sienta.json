@@ -1,0 +1,45 @@
+{
+  "name": "Toyota Sienta",
+  "brand": "Toyota",
+  "model": "Sienta",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/16365/medium/Cover.jpg?1768568110",
+  "price_range": "PKR 45.10 - 48.00 lacs",
+  "reviews": 5,
+  "link": "https://www.pakwheels.com/new-cars/toyota/sienta/",
+  "specifications": {
+    "Price": "PKR 45.10 - 48.00 lacs",
+    "Body Type": "Van, MPV",
+    "Dimensions (Length x Width x Height)": "4100 x 1695 x 1670 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "103 - 110 hp (Combined)",
+    "Torque": "132 - 141 Nm (Combined)",
+    "Boot Space": "575 L",
+    "Kerb Weight": "1320 KG",
+    "Fuel Type": "Petrol & Hybrid",
+    "Mileage": "11 - 20 KM/L",
+    "Fuel Tank Capacity": "42 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "175/70/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Sienta G",
+      "price": "PKR 4,800,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/sienta/g--33/"
+    },
+    {
+      "name": "Toyota Sienta Hybrid G",
+      "price": "PKR 4,595,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/sienta/hybrid-g--5/"
+    },
+    {
+      "name": "Toyota Sienta X",
+      "price": "PKR 4,510,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/sienta/x--24/"
+    }
+  ]
+}

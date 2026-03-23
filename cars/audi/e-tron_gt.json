@@ -1,0 +1,37 @@
+{
+  "name": "Audi e-tron GT",
+  "brand": "Audi",
+  "model": "e-tron GT",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/5519/medium/audi-gt-etron.jpg?1768563232",
+  "price_range": "PKR 5.70 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/audi/e-tron-gt/",
+  "specifications": {
+    "Price": "PKR 5.70 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4990 x 1964 x 1410 mm",
+    "Ground Clearance": "125 - 150 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "469 - 637 hp",
+    "Torque": "-",
+    "Boot Space": "366 L",
+    "Kerb Weight": "2345 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "93.4 kWh",
+    "Range": "388 - 401 km",
+    "Charging Time": "5.1 Hours",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "285/40/R20"
+  },
+  "variants": [
+    {
+      "name": "Audi e-tron GT RS",
+      "price": "PKR 57,000,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/e-tron-gt/rs--12/"
+    }
+  ]
+}

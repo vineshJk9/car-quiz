@@ -1,0 +1,40 @@
+{
+  "name": "BMW 7 Series",
+  "brand": "Bmw",
+  "model": "BMW 7 Series",
+  "status": "new",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/9012/medium/Cover.jpg?1768563400",
+  "price_range": "PKR 6.51 - 8.89 crore",
+  "reviews": 4,
+  "link": "https://www.pakwheels.com/new-cars/bmw/7-series/",
+  "specifications": {
+    "Price": "PKR 6.51 - 8.89 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "5391 x 1940 x 1530 mm",
+    "Ground Clearance": "120 - 136 mm",
+    "Displacement": "2998 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "313 hp (Combined)",
+    "Torque": "0 - 450 Nm (Combined)",
+    "Boot Space": "500 - 515 L",
+    "Kerb Weight": "2418 - 2770 KG",
+    "Fuel Type": "Hybrid & Electric",
+    "Mileage": "8 - 13 KM/L",
+    "Fuel Tank Capacity": "68 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "240 - 250 KM/H",
+    "Tyre Size": "245/50/R19"
+  },
+  "variants": [
+    {
+      "name": "BMW 7 Series i7 eDrive50",
+      "price": "PKR 65,076,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/7-series/i7-edrive50/"
+    },
+    {
+      "name": "BMW 7 Series i7 xDrive60 Excellence",
+      "price": "PKR 88,880,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/7-series/i7-xdrive60-excellence/"
+    }
+  ]
+}

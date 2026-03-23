@@ -1,0 +1,45 @@
+{
+  "name": "Suzuki Alto",
+  "brand": "Suzuki",
+  "model": "Alto",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16749/medium/Cover.jpg?1768990406",
+  "price_range": "PKR 29.95 - 33.26 lacs",
+  "reviews": 238,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/alto/",
+  "specifications": {
+    "Price": "PKR 29.95 - 33.26 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1490 mm",
+    "Ground Clearance": "170 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Manual & Automatic",
+    "Horse Power": "39 hp",
+    "Torque": "56 Nm",
+    "Boot Space": "125 L",
+    "Kerb Weight": "650 - 670 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "16 - 22 KM/L",
+    "Fuel Tank Capacity": "27 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "145/80/R13"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Alto VXR Upgraded",
+      "price": "PKR 2,994,861",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/alto/vxr-upgraded/"
+    },
+    {
+      "name": "Suzuki Alto VXR AGS Upgraded",
+      "price": "PKR 3,166,480",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/alto/vxr-ags-upgraded/"
+    },
+    {
+      "name": "Suzuki Alto VXL AGS Upgraded",
+      "price": "PKR 3,326,446",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/alto/vxl-ags-upgraded/"
+    }
+  ]
+}

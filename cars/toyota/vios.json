@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Vios",
+  "brand": "Toyota",
+  "model": "Vios",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16467/medium/Cover.jpg?1768568186",
+  "price_range": "PKR 60.00 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/toyota/vios/",
+  "specifications": {
+    "Price": "PKR 60.00 lacs",
+    "Body Type": "Compact sedan",
+    "Dimensions (Length x Width x Height)": "4425 x 1740 x 1480 mm",
+    "Ground Clearance": "133 mm",
+    "Displacement": "1229 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "99 hp",
+    "Torque": "123 Nm",
+    "Boot Space": "470 L",
+    "Kerb Weight": "1060 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 16 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/60/15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Vios 1.3 S",
+      "price": "PKR 6,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vios/1-3-s/"
+    }
+  ]
+}

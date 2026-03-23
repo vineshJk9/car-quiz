@@ -1,0 +1,45 @@
+{
+  "name": "KIA Shehzore K2700",
+  "brand": "Kia",
+  "model": "KIA Shehzore K2700",
+  "status": "new",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/7729/medium/Kia-shezore-singlecabin.png?1717588161",
+  "price_range": "PKR 42.59 - 74.99 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/kia/shehzore--3/",
+  "specifications": {
+    "Price": "PKR 42.59 - 74.99 lacs",
+    "Body Type": "Pick Up, Double Cabin",
+    "Dimensions (Length x Width x Height)": "4855 x 1740 x 1970 mm",
+    "Ground Clearance": "145 - 200 mm",
+    "Displacement": "2665 cc",
+    "Transmission": "Manual",
+    "Horse Power": "79 hp",
+    "Torque": "164 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1440 - 1620 KG",
+    "Fuel Type": "Diesel",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "3 - 5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/70/R15"
+  },
+  "variants": [
+    {
+      "name": "KIA Shehzore K2700 Standard Cabin",
+      "price": "PKR 4,259,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/shehzore--3/standard-cabin/"
+    },
+    {
+      "name": "KIA Shehzore K2700 King Cabin",
+      "price": "PKR 4,479,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/shehzore--3/king-cabin/"
+    },
+    {
+      "name": "KIA Shehzore K2700 Grand Cabin",
+      "price": "PKR 7,499,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/shehzore--3/grand-cabin--2/"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "new_cars": [
+    {
+      "name": "BMW iX1",
+      "model": "BMW iX1",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/9045/medium/Cover.jpg?1751961020",
+      "price_range": "PKR 2.65 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/ix1/"
+    },
+    {
+      "name": "BMW iX3",
+      "model": "BMW iX3",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/16793/medium/Cover.jpg?1768995631",
+      "price_range": "PKR 3.30 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/ix3/"
+    },
+    {
+      "name": "BMW i5",
+      "model": "BMW i5",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/8990/medium/Cover.jpg?1750830471",
+      "price_range": "PKR 3.89 - 5.26 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/i5/"
+    },
+    {
+      "name": "BMW iX2",
+      "model": "BMW iX2",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/16774/medium/Cover.jpg?1768993840",
+      "price_range": "PKR 4.25 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/ix2/"
+    },
+    {
+      "name": "BMW iX",
+      "model": "BMW iX",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6407/medium/BMW_iX_Front.jpg?1768563436",
+      "price_range": "PKR 5.02 - 5.60 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/ix/"
+    },
+    {
+      "name": "BMW 7 Series",
+      "model": "BMW 7 Series",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/9012/medium/Cover.jpg?1768563400",
+      "price_range": "PKR 6.51 - 8.89 crore",
+      "reviews": 4,
+      "link": "https://www.pakwheels.com/new-cars/bmw/7-series/"
+    },
+    {
+      "name": "BMW X5",
+      "model": "BMW X5",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16784/medium/Cover.jpg?1768994466",
+      "price_range": "PKR 7.40 crore",
+      "reviews": 2,
+      "link": "https://www.pakwheels.com/new-cars/bmw/x5-series/"
+    }
+  ],
+  "upcoming_cars": [],
+  "discontinued_cars": [
+    {
+      "name": "BMW 4 Series",
+      "model": "BMW 4 Series",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/8698/medium/Cover.jpg?1744893014",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/4-series/"
+    },
+    {
+      "name": "BMW X3",
+      "model": "BMW X3",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10748/medium/Right_Rear_View.jpg?1768563447",
+      "price_range": "PKR 5.80 crore",
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/bmw/x3-series/"
+    },
+    {
+      "name": "BMW 6 Series",
+      "model": "BMW 6 Series",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10678/medium/Cover.jpg?1768563384",
+      "price_range": "PKR 5.18 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/6-series/"
+    },
+    {
+      "name": "BMW M5",
+      "model": "BMW M5",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/8676/medium/Cover.jpg?1744875096",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/m5/"
+    },
+    {
+      "name": "BMW X6",
+      "model": "BMW X6",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6301/medium/BMW_X6_Series_Front_Right_Angled.jpg?1768563473",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/x6-series/"
+    },
+    {
+      "name": "BMW X7",
+      "model": "BMW X7",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/5259/medium/x7.jpg?1768563477",
+      "price_range": null,
+      "reviews": 5,
+      "link": "https://www.pakwheels.com/new-cars/bmw/x7/"
+    },
+    {
+      "name": "BMW Z3",
+      "model": "BMW Z3",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/5903/medium/BMW_Z3_2002.jpg?1768563480",
+      "price_range": "PKR 39.95 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/z3/"
+    },
+    {
+      "name": "BMW 1 Series",
+      "model": "BMW 1 Series",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/10637/medium/Cover.jpg?1768563347",
+      "price_range": "PKR 4.00 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/1-series/"
+    },
+    {
+      "name": "BMW 8 Series",
+      "model": "BMW 8 Series",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10699/medium/Cover.jpg?1768563407",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/8-series/"
+    },
+    {
+      "name": "BMW M4",
+      "model": "BMW M4",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/8665/medium/Cover.jpg?1744874935",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/m4/"
+    },
+    {
+      "name": "BMW M6",
+      "model": "BMW M6",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/8687/medium/Cover.jpg?1744875251",
+      "price_range": "PKR 4.75 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/m6/"
+    },
+    {
+      "name": "BMW Z4",
+      "model": "BMW Z4",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6380/medium/BMW_Z4_Front_Right_Angled.jpg?1768563489",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/z4/"
+    },
+    {
+      "name": "BMW Z8",
+      "model": "BMW Z8",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6239/medium/BMW-Z8-Front-Right-Angled.jpg?1768563494",
+      "price_range": "PKR 3.90 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/bmw/z8/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Suzuki Hustler",
+  "brand": "Suzuki",
+  "model": "Hustler",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15126/medium/Cover.jpg?1768566821",
+  "price_range": null,
+  "reviews": 8,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/hustler/",
+  "specifications": {
+    "Price": "PKR 33.80 - 41.90 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1680 mm",
+    "Ground Clearance": "180 mm",
+    "Displacement": "657 - 658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "49 - 64 hp (Combined)",
+    "Torque": "58 - 98 Nm (Combined)",
+    "Boot Space": "0 - 235 L",
+    "Kerb Weight": "820 - 840 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "20 - 25 KM/L",
+    "Fuel Tank Capacity": "27 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "165/60/R15"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Hustler Hybrid G",
+      "price": "PKR 3,380,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/hustler/hybrid-g--3/"
+    },
+    {
+      "name": "Suzuki Hustler Hybrid X",
+      "price": "PKR 3,895,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/hustler/hybrid-x--8/"
+    },
+    {
+      "name": "Suzuki Hustler Hybrid X Turbo",
+      "price": "PKR 3,895,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/hustler/hybrid-x-turbo/"
+    },
+    {
+      "name": "Suzuki Hustler J Style II",
+      "price": "PKR 3,750,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/hustler/j-style-ii/"
+    },
+    {
+      "name": "Suzuki Hustler J Style II Turbo",
+      "price": "PKR 3,852,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/hustler/j-style-ii-turbo/"
+    },
+    {
+      "name": "Suzuki Hustler Tough Wild",
+      "price": "PKR 4,190,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/hustler/tough-wild/"
+    }
+  ]
+}

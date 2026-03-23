@@ -1,0 +1,40 @@
+{
+  "name": "Audi A7",
+  "brand": "Audi",
+  "model": "A7",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6396/medium/Audi_A7_Front.jpg?1768563212",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/audi/a7/",
+  "specifications": {
+    "Price": "PKR 1.60 - 18.10 crore",
+    "Body Type": "Sedan, Compact sedan",
+    "Dimensions (Length x Width x Height)": "4969 x 1908 x 1422 mm",
+    "Ground Clearance": "106 - 107 mm",
+    "Displacement": "1984 - 3996 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "265 - 600 hp",
+    "Torque": "370 - 800 Nm",
+    "Boot Space": "535 L",
+    "Kerb Weight": "2140 - 2165 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 13 KM/L",
+    "Fuel Tank Capacity": "63 - 73 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "246 - 250 KM/H",
+    "Tyre Size": "225/55/R18"
+  },
+  "variants": [
+    {
+      "name": "Audi A7 40 TFSI quattro S tronic",
+      "price": "PKR 16,000,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a7/40-tfsi-quattro-s-tronic--3/"
+    },
+    {
+      "name": "Audi A7 RS 7 Sportback TFSI quattro",
+      "price": "PKR 180,950,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a7/rs-7-sportback-tfsi-quattro/"
+    }
+  ]
+}

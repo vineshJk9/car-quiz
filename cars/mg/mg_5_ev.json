@@ -1,0 +1,37 @@
+{
+  "name": "MG 5 EV",
+  "brand": "Mg",
+  "model": "MG 5 EV",
+  "status": "new",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/13594/medium/Cover.jpg?1768565653",
+  "price_range": "PKR 1.15 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/mg/5-ev/",
+  "specifications": {
+    "Price": "PKR 1.15 crore",
+    "Body Type": "Station Wagon",
+    "Dimensions (Length x Width x Height)": "4600 x 1818 x 1543 mm",
+    "Ground Clearance": "127 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "154 hp",
+    "Torque": "-",
+    "Boot Space": "479 L",
+    "Kerb Weight": "1552 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "61.0 kWh",
+    "Range": "400 km",
+    "Charging Time": "10.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "185 KM/H",
+    "Tyre Size": "205/60/R16"
+  },
+  "variants": [
+    {
+      "name": "MG 5 EV SE Long Range",
+      "price": "PKR 11,490,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/5-ev/se-long-range--2/"
+    }
+  ]
+}

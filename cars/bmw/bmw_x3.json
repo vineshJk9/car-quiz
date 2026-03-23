@@ -1,0 +1,35 @@
+{
+  "name": "BMW X3",
+  "brand": "Bmw",
+  "model": "BMW X3",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10748/medium/Right_Rear_View.jpg?1768563447",
+  "price_range": "PKR 5.80 crore",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/bmw/x3-series/",
+  "specifications": {
+    "Price": "PKR 5.80 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4708 x 1891 x 1676 mm",
+    "Ground Clearance": "204 mm",
+    "Displacement": "1998 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "184 hp (Combined)",
+    "Torque": "300 Nm (Combined)",
+    "Boot Space": "450 L",
+    "Kerb Weight": "2065 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "18 - 20 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "210 KM/H",
+    "Tyre Size": "225/60/R18"
+  },
+  "variants": [
+    {
+      "name": "BMW X3 xDrive30e",
+      "price": "PKR 58,000,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/x3-series/xdrive-30e/"
+    }
+  ]
+}

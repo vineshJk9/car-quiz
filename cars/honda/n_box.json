@@ -1,0 +1,65 @@
+{
+  "name": "Honda N Box",
+  "brand": "Honda",
+  "model": "N Box",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/12166/medium/Cover.jpg?1768564429",
+  "price_range": "PKR 30.05 - 37.91 lacs",
+  "reviews": 9,
+  "link": "https://www.pakwheels.com/new-cars/honda/n-box/",
+  "specifications": {
+    "Price": "PKR 30.05 - 37.91 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1670 mm",
+    "Ground Clearance": "140 - 150 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "58 - 64 hp",
+    "Torque": "65 - 104 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "920 - 960 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "21 - 26 KM/L",
+    "Fuel Tank Capacity": "35 L",
+    "Seating Capacity": "4 - 5 - Persons",
+    "Top Speed": "140 - 180 KM/H",
+    "Tyre Size": "155/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Honda N Box Custom GL",
+      "price": "PKR 3,060,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-box/g--15/"
+    },
+    {
+      "name": "Honda N Box Custom GL Turbo",
+      "price": "PKR 3,428,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-box/g-l-package--3/"
+    },
+    {
+      "name": "Honda N Box G Turbo L Package",
+      "price": "PKR 3,303,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-box/g-turbo-l-package--2/"
+    },
+    {
+      "name": "Honda N Box Slash G",
+      "price": "PKR 3,240,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-box/g--53/"
+    },
+    {
+      "name": "Honda N Box Slash G L Package",
+      "price": "PKR 3,271,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-box/g-l-package--12/"
+    },
+    {
+      "name": "Honda N Box Slash X",
+      "price": "PKR 3,005,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-box/x--39/"
+    },
+    {
+      "name": "Honda N Box Slash X Turbo Package",
+      "price": "PKR 3,791,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-box/x-turbo-package/"
+    }
+  ]
+}

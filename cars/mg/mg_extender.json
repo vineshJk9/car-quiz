@@ -1,0 +1,35 @@
+{
+  "name": "MG Extender",
+  "brand": "Mg",
+  "model": "MG Extender",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7496/medium/MG-Extender-cover-photo.jpg?1768565670",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/mg/extender/",
+  "specifications": {
+    "Price": "PKR 60.00 lacs",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "5365 x 1485 x 1900 mm",
+    "Ground Clearance": "145 mm",
+    "Displacement": "1996 cc",
+    "Transmission": "Manual",
+    "Horse Power": "158 hp",
+    "Torque": "375 Nm",
+    "Boot Space": "73 L",
+    "Kerb Weight": "1613 KG",
+    "Fuel Type": "Diesel",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "73 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "215/70/R15"
+  },
+  "variants": [
+    {
+      "name": "MG Extender 2.0 C 6MT",
+      "price": "PKR 6,000,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/extender/2-0-c-6mt/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "BMW iX2",
+  "brand": "Bmw",
+  "model": "BMW iX2",
+  "status": "new",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/16774/medium/Cover.jpg?1768993840",
+  "price_range": "PKR 4.25 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/ix2/",
+  "specifications": {
+    "Price": "PKR 4.25 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4554 x 1845 x 1560 mm",
+    "Ground Clearance": "190 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "313 hp",
+    "Torque": "-",
+    "Boot Space": "525 L",
+    "Kerb Weight": "2095 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "66.5 kWh",
+    "Range": "449 km",
+    "Charging Time": "7.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "245/50/R19"
+  },
+  "variants": [
+    {
+      "name": "BMW iX2 xDrive30",
+      "price": "PKR 42,500,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/ix2/xdrive30/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Changan CX70T",
+  "brand": "Changan",
+  "model": "CX70T",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/4845/medium/Changan_CX70T.jpg?1538121387",
+  "price_range": "PKR 71.52 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/changan/cx70t/",
+  "specifications": {
+    "Price": "PKR 71.52 lacs",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4705 x 1800 x 1775 mm",
+    "Ground Clearance": "190 mm",
+    "Displacement": "1498 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "154 hp",
+    "Torque": "230 Nm",
+    "Boot Space": "765 L",
+    "Kerb Weight": "3810 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "11 - 14 KM/L",
+    "Fuel Tank Capacity": "65 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "215/60/R17"
+  },
+  "variants": [
+    {
+      "name": "Changan CX70T 1.5T",
+      "price": "PKR 7,151,800",
+      "link": "https://www.pakwheels.com/new-cars/changan/cx70t/1-5t--3/"
+    }
+  ]
+}

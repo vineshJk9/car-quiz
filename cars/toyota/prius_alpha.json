@@ -1,0 +1,60 @@
+{
+  "name": "Toyota Prius Alpha",
+  "brand": "Toyota",
+  "model": "Prius Alpha",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6473/medium/Toyota_Prius_Alpha.jpg?1768567601",
+  "price_range": "PKR 40.00 - 49.21 lacs",
+  "reviews": 10,
+  "link": "https://www.pakwheels.com/new-cars/toyota/prius-alpha/",
+  "specifications": {
+    "Price": "PKR 40.00 - 49.21 lacs",
+    "Body Type": "MPV, Station Wagon",
+    "Dimensions (Length x Width x Height)": "4615 x 1775 x 1575 mm",
+    "Ground Clearance": "140 - 145 mm",
+    "Displacement": "1797 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "98 - 99 hp (Combined)",
+    "Torque": "142 Nm (Combined)",
+    "Boot Space": "210 - 500 L",
+    "Kerb Weight": "1450 - 1490 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "24 - 26 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - 7 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "205/60/R16"
+  },
+  "variants": [
+    {
+      "name": "Toyota Prius Alpha G",
+      "price": "PKR 4,455,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/prius-alpha/g--44/"
+    },
+    {
+      "name": "Toyota Prius Alpha G Touring",
+      "price": "PKR 4,400,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/prius-alpha/g-touring/"
+    },
+    {
+      "name": "Toyota Prius Alpha S",
+      "price": "PKR 4,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/prius-alpha/s--26/"
+    },
+    {
+      "name": "Toyota Prius Alpha S L Selection",
+      "price": "PKR 4,921,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/prius-alpha/s-l-selection/"
+    },
+    {
+      "name": "Toyota Prius Alpha S Touring",
+      "price": "PKR 4,060,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/prius-alpha/s-touring/"
+    },
+    {
+      "name": "Toyota Prius Alpha S Touring Selection GR Sport",
+      "price": "PKR 4,660,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/prius-alpha/s-touring-selection-gr-sport/"
+    }
+  ]
+}

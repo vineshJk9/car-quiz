@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Land Cruiser",
+  "brand": "Toyota",
+  "model": "Land Cruiser",
+  "status": "new",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/16719/medium/Cover.jpg?1768986980",
+  "price_range": "PKR 9.50 crore",
+  "reviews": 34,
+  "link": "https://www.pakwheels.com/new-cars/toyota/land-cruiser/",
+  "specifications": {
+    "Price": "PKR 9.50 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "5115 x 1980 x 1920 mm",
+    "Ground Clearance": "225 - 312 mm",
+    "Displacement": "3345 - 3445 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "305 - 415 hp",
+    "Torque": "650 - 700 Nm",
+    "Boot Space": "0 - 1131 L",
+    "Kerb Weight": "2520 - 3230 KG",
+    "Fuel Type": "Petrol & Diesel",
+    "Mileage": "5 - 10 KM/L",
+    "Fuel Tank Capacity": "80 - 110 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "180 - 260 KM/H",
+    "Tyre Size": "265/65/R18"
+  },
+  "variants": [
+    {
+      "name": "Toyota Land Cruiser ZX Gasoline 3.5L",
+      "price": "PKR 95,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/land-cruiser/zx-gasoline-3-5l/"
+    }
+  ]
+}

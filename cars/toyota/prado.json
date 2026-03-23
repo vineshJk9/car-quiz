@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Prado",
+  "brand": "Toyota",
+  "model": "Prado",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16730/medium/Cover.jpg?1768987806",
+  "price_range": "PKR 5.51 - 6.01 crore",
+  "reviews": 19,
+  "link": "https://www.pakwheels.com/new-cars/toyota/prado/",
+  "specifications": {
+    "Price": "PKR 5.51 - 6.01 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4925 x 1940 x 1925 mm",
+    "Ground Clearance": "205 - 225 mm",
+    "Displacement": "2693 - 2755 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "160 - 202 hp",
+    "Torque": "246 - 500 Nm",
+    "Boot Space": "105 - 405 L",
+    "Kerb Weight": "2225 - 2410 KG",
+    "Fuel Type": "Diesel & Petrol",
+    "Mileage": "6 - 15 KM/L",
+    "Fuel Tank Capacity": "80 L",
+    "Seating Capacity": "5 - 7 - Persons",
+    "Top Speed": "170 - 250 KM/H",
+    "Tyre Size": "265/60/R20"
+  },
+  "variants": [
+    {
+      "name": "Toyota Prado TX 2.7L",
+      "price": "PKR 55,111,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/prado/tx-2-7l/"
+    },
+    {
+      "name": "Toyota Prado VX 2.8L D",
+      "price": "PKR 60,111,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/prado/vx-2-8l-diesel/"
+    }
+  ]
+}

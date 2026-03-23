@@ -1,0 +1,65 @@
+{
+  "name": "Honda Freed",
+  "brand": "Honda",
+  "model": "Freed",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/12037/medium/Cover.jpg?1768564354",
+  "price_range": "PKR 37.10 - 62.15 lacs",
+  "reviews": 4,
+  "link": "https://www.pakwheels.com/new-cars/honda/freed/",
+  "specifications": {
+    "Price": "PKR 37.10 - 62.15 lacs",
+    "Body Type": "MPV, Mini Van",
+    "Dimensions (Length x Width x Height)": "4265 x 1695 x 1710 mm",
+    "Ground Clearance": "135 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "110 hp (Combined)",
+    "Torque": "134 Nm (Combined)",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1340 - 1350 KG",
+    "Fuel Type": "Hybrid & Petrol",
+    "Mileage": "25 - 27 KM/L",
+    "Fuel Tank Capacity": "36 L",
+    "Seating Capacity": "5 - 7 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Honda Freed + Hybrid B",
+      "price": "PKR 3,710,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/freed/hybrid-b--2/"
+    },
+    {
+      "name": "Honda Freed + Hybrid EX",
+      "price": "PKR 5,310,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/freed/hybrid-ex--2/"
+    },
+    {
+      "name": "Honda Freed + Hybrid G Honda Sensing",
+      "price": "PKR 4,845,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/freed/hybrid-g-honda-sensing--2/"
+    },
+    {
+      "name": "Honda Freed Hybrid B",
+      "price": "PKR 3,737,500",
+      "link": "https://www.pakwheels.com/new-cars/honda/freed/hybrid-b/"
+    },
+    {
+      "name": "Honda Freed Hybrid EX",
+      "price": "PKR 3,840,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/freed/hybrid-ex/"
+    },
+    {
+      "name": "Honda Freed Hybrid G Honda Sensing",
+      "price": "PKR 5,805,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/freed/hybrid-g-honda-sensing/"
+    },
+    {
+      "name": "Honda Freed Hybrid Modulo X Honda Sensing",
+      "price": "PKR 6,215,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/freed/hybrid-modulo-x-honda-sensing/"
+    }
+  ]
+}

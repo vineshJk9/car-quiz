@@ -1,0 +1,207 @@
+{
+  "new_cars": [
+    {
+      "name": "Hyundai H-100",
+      "model": "H-100",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/12392/medium/Cover.jpg?1768564562",
+      "price_range": "PKR 43.95 - 44.35 lacs",
+      "reviews": 2,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/h-100/"
+    },
+    {
+      "name": "Hyundai Elantra",
+      "model": "Elantra",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/9800/medium/Cover.jpg?1760439908",
+      "price_range": "PKR 98.95 lacs",
+      "reviews": 39,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/elantra/"
+    },
+    {
+      "name": "Hyundai Sonata",
+      "model": "Sonata",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/8025/medium/Cover.jpg?1768564613",
+      "price_range": "PKR 1.03 - 1.65 crore",
+      "reviews": 11,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/sonata/"
+    },
+    {
+      "name": "Hyundai Tucson",
+      "model": "Tucson",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8720/medium/Cover.jpg?1745488440",
+      "price_range": "PKR 1.12 - 1.22 crore",
+      "reviews": 43,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/tucson/"
+    },
+    {
+      "name": "Hyundai Santa Fe",
+      "model": "Santa Fe",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7593/medium/Santa--fe-cover.jpg?1768564602",
+      "price_range": "PKR 1.25 - 1.39 crore",
+      "reviews": 22,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/santa-fe/"
+    },
+    {
+      "name": "Hyundai Palisade",
+      "model": "Palisade",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16950/medium/Cover.jpg?1772012004",
+      "price_range": "PKR 2.10 - 2.30 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/palisade/"
+    }
+  ],
+  "upcoming_cars": [],
+  "discontinued_cars": [
+    {
+      "name": "Hyundai Santro",
+      "model": "Santro",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/350/medium/santro-prime-club-gv-white-colour.jpg?1424227001",
+      "price_range": "PKR 8.86 - 10.03 lacs",
+      "reviews": 43,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/santro/"
+    },
+    {
+      "name": "Hyundai Excel",
+      "model": "Excel",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12375/medium/Cover.jpg?1768564557",
+      "price_range": "PKR 4.55 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/excel/"
+    },
+    {
+      "name": "Hyundai Shehzore",
+      "model": "Shehzore",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12454/medium/Cover.jpg?1768564609",
+      "price_range": "PKR 23.40 - 24.40 lacs",
+      "reviews": 4,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/shehzore/"
+    },
+    {
+      "name": "Hyundai Grand Starex",
+      "model": "Grand Starex",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/12384/medium/Cover.jpg?1768564559",
+      "price_range": "PKR 45.49 - 65.10 lacs",
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/grand-starex/"
+    },
+    {
+      "name": "Hyundai Kona",
+      "model": "Kona",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7536/medium/kona-original-cover-photo.jpg?1768564590",
+      "price_range": "PKR 58.55 lacs - 1.20 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/kona/"
+    },
+    {
+      "name": "Hyundai Accent",
+      "model": "Accent",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/4737/medium/Hyundai_Accent.jpg?1768564539",
+      "price_range": "PKR 50.00 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/accent/"
+    },
+    {
+      "name": "Hyundai i10",
+      "model": "i10",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/12407/medium/Cover.jpg?1768564574",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/i10/"
+    },
+    {
+      "name": "Hyundai Ioniq 5",
+      "model": "Ioniq 5",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/8966/medium/Cover.jpg?1750740733",
+      "price_range": null,
+      "reviews": 2,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/ioniq/"
+    },
+    {
+      "name": "Hyundai Terracan",
+      "model": "Terracan",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12465/medium/Cover.jpg?1768564631",
+      "price_range": "PKR 35.15 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/terracan/"
+    },
+    {
+      "name": "Hyundai Alcazar",
+      "model": "Alcazar",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8555/medium/Cover.jpg?1768564543",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/alcazar/"
+    },
+    {
+      "name": "Hyundai Azera",
+      "model": "Azera",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/8412/medium/Cover.jpg?1740655484",
+      "price_range": "PKR 40.00 - 56.00 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/azera/"
+    },
+    {
+      "name": "Hyundai Bayon",
+      "model": "Bayon",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/8852/medium/Cover.jpg?1747034850",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/bayon/"
+    },
+    {
+      "name": "Hyundai Coupe",
+      "model": "Coupe",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/12363/medium/Cover.jpg?1768564550",
+      "price_range": "PKR 7.60 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/coupe/"
+    },
+    {
+      "name": "Hyundai Getz",
+      "model": "Getz",
+      "image": "https://wsa3.pakwheels.com/assets/default-display-image-car-6873f23250596c4daa082e7223e5bbb5d1fbcaf7bb5d7113003daa9ebd3c66a8.png",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/getz/"
+    },
+    {
+      "name": "Hyundai H1",
+      "model": "H1",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/4735/medium/Hyundai_H1.jpg?1768564567",
+      "price_range": "PKR 55.80 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/h1--2/"
+    },
+    {
+      "name": "Hyundai Ioniq 6",
+      "model": "Ioniq 6",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/12426/medium/Cover.jpg?1768564583",
+      "price_range": null,
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/ioniq-6/"
+    },
+    {
+      "name": "Hyundai Mighty",
+      "model": "Mighty",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/4808/medium/Hyundai_Mighty.jpg?1768564591",
+      "price_range": "PKR 55.00 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/mighty/"
+    },
+    {
+      "name": "Hyundai Nexo",
+      "model": "Nexo",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/12445/medium/Cover.jpg?1768564595",
+      "price_range": "PKR 1.40 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/nexo/"
+    },
+    {
+      "name": "Hyundai Tiburon",
+      "model": "Tiburon",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/8224/medium/Cover.jpg?1739792749",
+      "price_range": "PKR 20.00 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/hyundai/tiburon/"
+    }
+  ]
+}

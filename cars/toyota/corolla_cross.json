@@ -1,0 +1,50 @@
+{
+  "name": "Toyota Corolla Cross",
+  "brand": "Toyota",
+  "model": "Corolla Cross",
+  "status": "new",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/7650/medium/cockpit.jpg?1768567180",
+  "price_range": "PKR 72.35 - 89.35 lacs",
+  "reviews": 27,
+  "link": "https://www.pakwheels.com/new-cars/toyota/corolla-cross/",
+  "specifications": {
+    "Price": "PKR 72.35 - 89.35 lacs",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4460 x 1825 x 1620 mm",
+    "Ground Clearance": "161 mm",
+    "Displacement": "1798 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "96 - 138 hp (Combined)",
+    "Torque": "142 - 172 Nm (Combined)",
+    "Boot Space": "436 - 487 L",
+    "Kerb Weight": "1325 - 1385 KG",
+    "Fuel Type": "Hybrid & Petrol",
+    "Mileage": "12 - 18 KM/L",
+    "Fuel Tank Capacity": "36 - 47 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "215/60/R17"
+  },
+  "variants": [
+    {
+      "name": "Toyota Corolla Cross 1.8",
+      "price": "PKR 7,235,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-cross/1-8--2/"
+    },
+    {
+      "name": "Toyota Corolla Cross 1.8 X",
+      "price": "PKR 7,935,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-cross/1-8-x--2/"
+    },
+    {
+      "name": "Toyota Corolla Cross 1.8 HEV",
+      "price": "PKR 8,535,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-cross/1-8-hev/"
+    },
+    {
+      "name": "Toyota Corolla Cross 1.8 HEV X",
+      "price": "PKR 8,935,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-cross/1-8-hev-x/"
+    }
+  ]
+}

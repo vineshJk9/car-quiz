@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Avanza",
+  "brand": "Toyota",
+  "model": "Avanza",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15545/medium/Cover.jpg?1768567064",
+  "price_range": "PKR 27.90 lacs",
+  "reviews": 4,
+  "link": "https://www.pakwheels.com/new-cars/toyota/avanza/",
+  "specifications": {
+    "Price": "PKR 27.90 lacs",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "4190 x 1660 x 1695 mm",
+    "Ground Clearance": "200 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Manual",
+    "Horse Power": "103 hp",
+    "Torque": "139 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "0 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "9 - 13 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "165 KM/H",
+    "Tyre Size": "185/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Avanza Up Spec 1.5",
+      "price": "PKR 2,790,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/avanza/1-5l-up-spec/"
+    }
+  ]
+}

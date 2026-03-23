@@ -1,0 +1,67 @@
+{
+  "name": "Audi Q4 e-tron",
+  "brand": "Audi",
+  "model": "Q4 e-tron",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7887/medium/Cover..jpg?1735294499",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/audi/q4-e-tron/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "SUV, Crossover",
+    "Dimensions (Length x Width x Height)": "4588 x 1865 x 1614 mm",
+    "Ground Clearance": "175 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "168 - 335 hp",
+    "Torque": "-",
+    "Boot Space": "520 - 535 L",
+    "Kerb Weight": "1965 - 2235 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "55 - 82 kWh",
+    "Range": "341 - 544 km",
+    "Charging Time": "8.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "235/55/R19"
+  },
+  "variants": [
+    {
+      "name": "Audi Q4 e-tron 35 RWD",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/audi/q4-e-tron/35-rwd/"
+    },
+    {
+      "name": "Audi Q4 e-tron 40 RWD",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/audi/q4-e-tron/40-rwd/"
+    },
+    {
+      "name": "Audi Q4 e-tron 45 quattro",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/audi/q4-e-tron/45-quattro/"
+    },
+    {
+      "name": "Audi Q4 e-tron 45 RWD",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/audi/q4-e-tron/45-rwd/"
+    },
+    {
+      "name": "Audi Q4 e-tron 55 quattro",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/audi/q4-e-tron/55-quattro--2/"
+    },
+    {
+      "name": "Audi Q4 e-tron Sportback 45 quattro",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/audi/q4-e-tron/sportback-45-quattro/"
+    },
+    {
+      "name": "Audi Q4 e-tron Sportback 55 quattro",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/audi/q4-e-tron/sportback-55-quattro--2/"
+    }
+  ]
+}

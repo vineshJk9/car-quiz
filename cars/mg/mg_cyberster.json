@@ -1,0 +1,42 @@
+{
+  "name": "MG Cyberster",
+  "brand": "Mg",
+  "model": "MG Cyberster",
+  "status": "new",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8778/medium/Cover.jpg?1746017676",
+  "price_range": "PKR 2.70 - 2.99 crore",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/mg/cyberster/",
+  "specifications": {
+    "Price": "PKR 2.70 - 2.99 crore",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "4535 x 1913 x 1329 mm",
+    "Ground Clearance": "130 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "335 - 496 hp",
+    "Torque": "-",
+    "Boot Space": "249 L",
+    "Kerb Weight": "2110 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "77.0 kWh",
+    "Range": "443 - 507 km",
+    "Charging Time": "11.0 Hours",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "245/40/R20"
+  },
+  "variants": [
+    {
+      "name": "MG Cyberster GT (Single)",
+      "price": "PKR 27,000,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/cyberster/rwd/"
+    },
+    {
+      "name": "MG Cyberster GT (Dual)",
+      "price": "PKR 29,900,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/cyberster/awd--3/"
+    }
+  ]
+}

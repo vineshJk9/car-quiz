@@ -1,0 +1,40 @@
+{
+  "name": "Hyundai Tucson",
+  "brand": "Hyundai",
+  "model": "Tucson",
+  "status": "new",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8720/medium/Cover.jpg?1745488440",
+  "price_range": "PKR 1.12 - 1.22 crore",
+  "reviews": 43,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/tucson/",
+  "specifications": {
+    "Price": "PKR 1.12 - 1.22 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4640 x 1865 x 1665 mm",
+    "Ground Clearance": "181 mm",
+    "Displacement": "1590 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "232 hp (Combined)",
+    "Torque": "367 Nm (Combined)",
+    "Boot Space": "582 L",
+    "Kerb Weight": "1590 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "14 - 17 KM/L",
+    "Fuel Tank Capacity": "52 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "235/60/R18"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Tucson Hybrid Smart",
+      "price": "PKR 11,220,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/tucson/hybrid-smart/"
+    },
+    {
+      "name": "Hyundai Tucson Hybrid Signature",
+      "price": "PKR 12,240,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/tucson/hybrid-signature/"
+    }
+  ]
+}

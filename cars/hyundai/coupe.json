@@ -1,0 +1,35 @@
+{
+  "name": "Hyundai Coupe",
+  "brand": "Hyundai",
+  "model": "Coupe",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/12363/medium/Cover.jpg?1768564550",
+  "price_range": "PKR 7.60 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/coupe/",
+  "specifications": {
+    "Price": "PKR 7.60 lacs",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "4395 x 1760 x 1330 mm",
+    "Ground Clearance": "0 mm",
+    "Displacement": "2000 cc",
+    "Transmission": "Manual",
+    "Horse Power": "143 hp",
+    "Torque": "186 Nm",
+    "Boot Space": "420 L",
+    "Kerb Weight": "1280 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "208 KM/H",
+    "Tyre Size": "205/55/R16"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Coupe 2.0L DOHC",
+      "price": "PKR 760,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/coupe/20l-dohc-m-t/"
+    }
+  ]
+}

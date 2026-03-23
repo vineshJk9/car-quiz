@@ -1,0 +1,42 @@
+{
+  "name": "Hyundai Nexo",
+  "brand": "Hyundai",
+  "model": "Nexo",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/12445/medium/Cover.jpg?1768564595",
+  "price_range": "PKR 1.40 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/nexo/",
+  "specifications": {
+    "Price": "PKR 1.40 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4670 x 1860 x 1630 mm",
+    "Ground Clearance": "163 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "152 hp",
+    "Torque": "-",
+    "Boot Space": "838 L",
+    "Kerb Weight": "1820 - 1885 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "1.56 kWh",
+    "Range": "593 - 609 km",
+    "Charging Time": "-",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "177 - 180 KM/H",
+    "Tyre Size": "225/60/R17"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Nexo Modern",
+      "price": "PKR 14,000,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/nexo/modern/"
+    },
+    {
+      "name": "Hyundai Nexo Premium",
+      "price": "PKR 14,000,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/nexo/premium--12/"
+    }
+  ]
+}

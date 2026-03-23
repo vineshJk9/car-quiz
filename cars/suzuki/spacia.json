@@ -1,0 +1,50 @@
+{
+  "name": "Suzuki Spacia",
+  "brand": "Suzuki",
+  "model": "Spacia",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/15252/medium/Cover.jpg?1768566899",
+  "price_range": "PKR 24.08 - 42.00 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/spacia/",
+  "specifications": {
+    "Price": "PKR 30.00 - 43.00 lacs",
+    "Body Type": "Mini Van,Hatchback, Station Wagon",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1785 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "51 - 64 hp (Combined)",
+    "Torque": "60 - 98 Nm (Combined)",
+    "Boot Space": "120 - 540 L",
+    "Kerb Weight": "870 - 920 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "18 - 24 KM/L",
+    "Fuel Tank Capacity": "27 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "160 KM/H",
+    "Tyre Size": "155/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Spacia Base XF",
+      "price": "PKR 4,200,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/spacia/base-xf/"
+    },
+    {
+      "name": "Suzuki Spacia Custom XS",
+      "price": "PKR 2,408,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/spacia/custom-xs/"
+    },
+    {
+      "name": "Suzuki Spacia Gear Hybrid XZ",
+      "price": "PKR 3,128,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/spacia/gear-hybrid-xz/"
+    },
+    {
+      "name": "Suzuki Spacia X",
+      "price": "PKR 2,900,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/spacia/x--32/"
+    }
+  ]
+}

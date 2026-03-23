@@ -1,0 +1,45 @@
+{
+  "name": "Honda Airwave",
+  "brand": "Honda",
+  "model": "Airwave",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/11891/medium/Cover.jpg?1768564198",
+  "price_range": "PKR 24.00 - 29.60 lacs",
+  "reviews": 4,
+  "link": "https://www.pakwheels.com/new-cars/honda/airwave/",
+  "specifications": {
+    "Price": "PKR 24.00 - 29.60 lacs",
+    "Body Type": "Station Wagon",
+    "Dimensions (Length x Width x Height)": "4350 x 1695 x 1545 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "110 hp",
+    "Torque": "143 Nm",
+    "Boot Space": "500 L",
+    "Kerb Weight": "1230 - 1240 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "13 - 18 KM/L",
+    "Fuel Tank Capacity": "42 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Honda Airwave M",
+      "price": "PKR 2,400,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/airwave/m--2/"
+    },
+    {
+      "name": "Honda Airwave M S Package",
+      "price": "PKR 2,960,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/airwave/m-s-package/"
+    },
+    {
+      "name": "Honda Airwave ST",
+      "price": "PKR 2,515,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/airwave/st/"
+    }
+  ]
+}

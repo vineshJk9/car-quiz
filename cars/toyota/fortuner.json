@@ -1,0 +1,55 @@
+{
+  "name": "Toyota Fortuner",
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16708/medium/Cover.jpg?1768980200",
+  "price_range": "PKR 1.24 - 2.05 crore",
+  "reviews": 49,
+  "link": "https://www.pakwheels.com/new-cars/toyota/fortuner/",
+  "specifications": {
+    "Price": "PKR 175.00 - 236.00 lacs",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4795 x 1855 x 1835 mm",
+    "Ground Clearance": "279 mm",
+    "Displacement": "2694 - 2755 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "164 - 201 hp",
+    "Torque": "245 - 500 Nm",
+    "Boot Space": "296 L",
+    "Kerb Weight": "1850 - 2100 KG",
+    "Fuel Type": "Petrol & Diesel",
+    "Mileage": "8 - 11 KM/L",
+    "Fuel Tank Capacity": "80 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "180 - 200 KM/H",
+    "Tyre Size": "265/60/R18"
+  },
+  "variants": [
+    {
+      "name": "Toyota Fortuner 2.7 G",
+      "price": "PKR 12,435,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/fortuner/2-7-g/"
+    },
+    {
+      "name": "Toyota Fortuner 2.7 V",
+      "price": "PKR 14,935,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/fortuner/2-7-v/"
+    },
+    {
+      "name": "Toyota Fortuner 2.8 Sigma 4",
+      "price": "PKR 18,539,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/fortuner/2-8-sigma/"
+    },
+    {
+      "name": "Toyota Fortuner Legender",
+      "price": "PKR 19,569,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/fortuner/legender/"
+    },
+    {
+      "name": "Toyota Fortuner GR-S",
+      "price": "PKR 20,499,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/fortuner/gr-s/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Toyota Estima",
+  "brand": "Toyota",
+  "model": "Estima",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/2942/medium/Toyota-Estima-2006.jpg?1768567305",
+  "price_range": "PKR 39.53 - 90.00 lacs",
+  "reviews": 5,
+  "link": "https://www.pakwheels.com/new-cars/toyota/estima/",
+  "specifications": {
+    "Price": "PKR 39.53 - 90.00 lacs",
+    "Body Type": "Van, Mini Van",
+    "Dimensions (Length x Width x Height)": "4795 x 1800 x 1730 mm",
+    "Ground Clearance": "160 - 170 mm",
+    "Displacement": "2362 - 3456 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "170 - 280 hp (Combined)",
+    "Torque": "224 - 344 Nm (Combined)",
+    "Boot Space": "400 L",
+    "Kerb Weight": "1700 - 1790 KG",
+    "Fuel Type": "Petrol & Hybrid",
+    "Mileage": "8 - 20 KM/L",
+    "Fuel Tank Capacity": "65 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "225/50/R18"
+  },
+  "variants": [
+    {
+      "name": "Toyota Estima AERAS",
+      "price": "PKR 3,952,500",
+      "link": "https://www.pakwheels.com/new-cars/toyota/estima/aeras/"
+    },
+    {
+      "name": "Toyota Estima AERAS G Package",
+      "price": "PKR 8,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/estima/aeras-g-edition/"
+    },
+    {
+      "name": "Toyota Estima AERAS Leather Package",
+      "price": "PKR 9,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/estima/aeras-leather-package/"
+    },
+    {
+      "name": "Toyota Estima G",
+      "price": "PKR 9,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/estima/g--36/"
+    },
+    {
+      "name": "Toyota Estima Hybrid",
+      "price": "PKR 6,090,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/estima/hybrid--7/"
+    },
+    {
+      "name": "Toyota Estima X",
+      "price": "PKR 8,500,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/estima/x--27/"
+    }
+  ]
+}

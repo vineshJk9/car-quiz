@@ -1,0 +1,42 @@
+{
+  "name": "MG ZS EV",
+  "brand": "Mg",
+  "model": "MG ZS EV",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7572/medium/cover.jpg?1768565769",
+  "price_range": "PKR 96.90 lacs - 1.50 crore",
+  "reviews": 5,
+  "link": "https://www.pakwheels.com/new-cars/mg/zs-ev/",
+  "specifications": {
+    "Price": "PKR 96.90 lacs - 1.50 crore",
+    "Body Type": "Compact SUV",
+    "Dimensions (Length x Width x Height)": "4323 x 1809 x 1649 mm",
+    "Ground Clearance": "177 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "154 - 174 hp",
+    "Torque": "-",
+    "Boot Space": "359 L",
+    "Kerb Weight": "1610 - 1620 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "51 - 72 kWh",
+    "Range": "360 - 505 km",
+    "Charging Time": "5 - 8 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "215/55/R17"
+  },
+  "variants": [
+    {
+      "name": "MG ZS EV MCE Essence",
+      "price": "PKR 9,690,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/zs-ev/mce-essence/"
+    },
+    {
+      "name": "MG ZS EV MCE Long Range",
+      "price": "PKR 14,999,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/zs-ev/mce-long-range/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Voxy",
+  "brand": "Toyota",
+  "model": "Voxy",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6379/medium/Toyota-Voxy-Front-Right-Angled.jpg?1768568219",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/voxy/",
+  "specifications": {
+    "Price": "PKR 3.50 crore",
+    "Body Type": "Mini Van",
+    "Dimensions (Length x Width x Height)": "4695 x 1730 x 1855 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1986 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "168 hp",
+    "Torque": "202 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "0 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "7 - 9 KM/L",
+    "Fuel Tank Capacity": "52 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "205/55/R17"
+  },
+  "variants": [
+    {
+      "name": "Toyota Voxy X",
+      "price": "PKR 35,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/voxy/x--28/"
+    }
+  ]
+}

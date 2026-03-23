@@ -1,0 +1,45 @@
+{
+  "name": "Suzuki Khyber",
+  "brand": "Suzuki",
+  "model": "Khyber",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15162/medium/Cover.jpg?1768566842",
+  "price_range": "PKR 3.00 - 5.50 lacs",
+  "reviews": 8,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/khyber/",
+  "specifications": {
+    "Price": "PKR 2.80 - 13.50 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3685 x 1545 x 1350 mm",
+    "Ground Clearance": "126 - 750 mm",
+    "Displacement": "993 cc",
+    "Transmission": "Manual",
+    "Horse Power": "50 hp",
+    "Torque": "78 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "750 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 15 KM/L",
+    "Fuel Tank Capacity": "33 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "140 - 200 KM/H",
+    "Tyre Size": "145/80/R12"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Khyber GA",
+      "price": "PKR 300,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/khyber/ga--2/"
+    },
+    {
+      "name": "Suzuki Khyber Limited Edition",
+      "price": "PKR 485,800",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/khyber/limited-edition--3/"
+    },
+    {
+      "name": "Suzuki Khyber Plus",
+      "price": "PKR 550,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/khyber/plus--4/"
+    }
+  ]
+}

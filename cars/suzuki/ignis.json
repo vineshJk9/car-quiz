@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Ignis",
+  "brand": "Suzuki",
+  "model": "Ignis",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/15139/medium/Cover.jpg?1768566825",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/ignis/",
+  "specifications": {
+    "Price": "PKR 30.60 lacs",
+    "Body Type": "Compact hatchback",
+    "Dimensions (Length x Width x Height)": "3700 x 1690 x 1595 mm",
+    "Ground Clearance": "180 mm",
+    "Displacement": "1197 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "81 hp",
+    "Torque": "113 Nm",
+    "Boot Space": "260 L",
+    "Kerb Weight": "866 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "13 - 15 KM/L",
+    "Fuel Tank Capacity": "32 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "185 KM/H",
+    "Tyre Size": "175/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Ignis Alpha",
+      "price": "PKR 3,060,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/ignis/alpha--4/"
+    }
+  ]
+}

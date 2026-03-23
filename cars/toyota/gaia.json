@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Gaia",
+  "brand": "Toyota",
+  "model": "Gaia",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6334/medium/Toyota_Gaia_Front_Right_Angled.jpg?1768567335",
+  "price_range": "PKR 10.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/gaia/",
+  "specifications": {
+    "Price": "PKR 10.00 lacs",
+    "Body Type": "Station Wagon",
+    "Dimensions (Length x Width x Height)": "4620 x 1695 x 1640 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1998 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "135 hp",
+    "Torque": "181 Nm",
+    "Boot Space": "434 L",
+    "Kerb Weight": "1420 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "6 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Gaia L Package",
+      "price": "PKR 1,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/gaia/l-package--2/"
+    }
+  ]
+}

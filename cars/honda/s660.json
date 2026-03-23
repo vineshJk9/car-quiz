@@ -1,0 +1,35 @@
+{
+  "name": "Honda S660",
+  "brand": "Honda",
+  "model": "S660",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6690/medium/1.jpg?1768564463",
+  "price_range": "PKR 36.73 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/s660/",
+  "specifications": {
+    "Price": "PKR 36.73 lacs",
+    "Body Type": "Convertible",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1180 mm",
+    "Ground Clearance": "125 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Manual",
+    "Horse Power": "64 hp",
+    "Torque": "104 Nm",
+    "Boot Space": "31 L",
+    "Kerb Weight": "830 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "13 - 18 KM/L",
+    "Fuel Tank Capacity": "25 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "165/55/R15"
+  },
+  "variants": [
+    {
+      "name": "Honda S660 Alpha",
+      "price": "PKR 3,673,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/s660/alpha--3/"
+    }
+  ]
+}

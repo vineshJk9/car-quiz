@@ -1,0 +1,40 @@
+{
+  "name": "Suzuki Kei",
+  "brand": "Suzuki",
+  "model": "Kei",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15161/medium/Cover.jpg?1768566842",
+  "price_range": "PKR 13.94 - 15.08 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/kei/",
+  "specifications": {
+    "Price": "PKR 15.00 - 18.70 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1545 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Manual",
+    "Horse Power": "54 - 60 hp",
+    "Torque": "63 - 83 Nm",
+    "Boot Space": "225 L",
+    "Kerb Weight": "770 - 780 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 20 KM/L",
+    "Fuel Tank Capacity": "30 L",
+    "Seating Capacity": "4 - 5 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "155/80/R13"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Kei A",
+      "price": "PKR 1,508,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/kei/a/"
+    },
+    {
+      "name": "Suzuki Kei B Turbo",
+      "price": "PKR 1,394,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/kei/b-turbo/"
+    }
+  ]
+}

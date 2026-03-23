@@ -1,0 +1,40 @@
+{
+  "name": "Honda Integra",
+  "brand": "Honda",
+  "model": "Integra",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/12089/medium/Cover.jpg?1768564394",
+  "price_range": "PKR 24.50 - 25.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/integra/",
+  "specifications": {
+    "Price": "PKR 24.50 - 25.00 lacs",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "4385 x 1725 x 1385 mm",
+    "Ground Clearance": "118 - 150 mm",
+    "Displacement": "1998 cc",
+    "Transmission": "Manual",
+    "Horse Power": "206 - 220 hp",
+    "Torque": "194 - 206 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1190 - 1230 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "11 - 13 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "4 - 5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "215/45/R17"
+  },
+  "variants": [
+    {
+      "name": "Honda Integra Type R",
+      "price": "PKR 2,450,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/integra/type-r--2/"
+    },
+    {
+      "name": "Honda Integra Type S",
+      "price": "PKR 2,500,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/integra/type-s--3/"
+    }
+  ]
+}

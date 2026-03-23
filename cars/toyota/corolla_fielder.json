@@ -1,0 +1,80 @@
+{
+  "name": "Toyota Corolla Fielder",
+  "brand": "Toyota",
+  "model": "Corolla Fielder",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/2903/medium/Toyota_Corolla_Fielder_11th.jpg?1768567192",
+  "price_range": "PKR 31.00 - 47.50 lacs",
+  "reviews": 10,
+  "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/",
+  "specifications": {
+    "Price": "PKR 52.00 - 75.00 lacs",
+    "Body Type": "Station Wagon",
+    "Dimensions (Length x Width x Height)": "4400 x 1695 x 1475 mm",
+    "Ground Clearance": "0 - 170 mm",
+    "Displacement": "1496 - 1797 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "72 - 144 hp (Combined)",
+    "Torque": "111 - 171 Nm (Combined)",
+    "Boot Space": "0 - 467 L",
+    "Kerb Weight": "0 - 1180 KG",
+    "Fuel Type": "Petrol & Hybrid",
+    "Mileage": "17 - 34 KM/L",
+    "Fuel Tank Capacity": "36 - 42 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "175/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Corolla Fielder G",
+      "price": "PKR 3,956,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/g-1-5--5/"
+    },
+    {
+      "name": "Toyota Corolla Fielder G Aerotourer",
+      "price": "PKR 3,712,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/g-aerotourer-1-5/"
+    },
+    {
+      "name": "Toyota Corolla Fielder Hybrid",
+      "price": "PKR 4,220,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/hybrid--4/"
+    },
+    {
+      "name": "Toyota Corolla Fielder Hybrid EX",
+      "price": "PKR 4,720,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/hybrid-ex--4/"
+    },
+    {
+      "name": "Toyota Corolla Fielder Hybrid G",
+      "price": "PKR 4,445,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/hybrid-g/"
+    },
+    {
+      "name": "Toyota Corolla Fielder Hybrid G  WB",
+      "price": "PKR 4,705,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/hybrid-g-w-b/"
+    },
+    {
+      "name": "Toyota Corolla Fielder Hybrid G Aerotourer",
+      "price": "PKR 4,400,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/hybrid-g-aerotourer/"
+    },
+    {
+      "name": "Toyota Corolla Fielder S",
+      "price": "PKR 4,750,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/s-1-8--3/"
+    },
+    {
+      "name": "Toyota Corolla Fielder S Aerotourer",
+      "price": "PKR 3,100,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/s-aerotourer-1-8/"
+    },
+    {
+      "name": "Toyota Corolla Fielder X",
+      "price": "PKR 3,105,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-fielder/x-1-5--4/"
+    }
+  ]
+}

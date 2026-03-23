@@ -1,0 +1,45 @@
+{
+  "name": "Hyundai Sonata",
+  "brand": "Hyundai",
+  "model": "Sonata",
+  "status": "new",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/8025/medium/Cover.jpg?1768564613",
+  "price_range": "PKR 1.03 - 1.65 crore",
+  "reviews": 11,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/sonata/",
+  "specifications": {
+    "Price": "PKR 1.03 - 1.65 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4900 x 1860 x 1445 mm",
+    "Ground Clearance": "135 - 155 mm",
+    "Displacement": "1999 - 2497 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "152 - 290 hp",
+    "Torque": "192 - 422 Nm",
+    "Boot Space": "480 - 510 L",
+    "Kerb Weight": "1415 - 1675 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "9 - 13 KM/L",
+    "Fuel Tank Capacity": "60 - 70 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 - 260 KM/H",
+    "Tyre Size": "235/45/R18"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Sonata 2.0",
+      "price": "PKR 10,330,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/sonata/2-0--3/"
+    },
+    {
+      "name": "Hyundai Sonata 2.5",
+      "price": "PKR 11,545,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/sonata/2-5--2/"
+    },
+    {
+      "name": "Hyundai Sonata N Line 2.5 Turbo",
+      "price": "PKR 16,521,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/sonata/n-line-2-5-turbo/"
+    }
+  ]
+}

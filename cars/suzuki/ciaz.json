@@ -1,0 +1,40 @@
+{
+  "name": "Suzuki Ciaz",
+  "brand": "Suzuki",
+  "model": "Ciaz",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/4439/medium/Suzuki_Ciaz_2017_%285%29.jpg?1768566798",
+  "price_range": "PKR 29.30 - 30.70 lacs",
+  "reviews": 38,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/ciaz/",
+  "specifications": {
+    "Price": "PKR 29.30 - 30.70 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4490 x 1730 x 1475 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "1373 cc",
+    "Transmission": "Manual & Automatic",
+    "Horse Power": "91 hp",
+    "Torque": "130 Nm",
+    "Boot Space": "490 L",
+    "Kerb Weight": "975 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "14 - 16 KM/L",
+    "Fuel Tank Capacity": "42 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "185/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Ciaz Automatic",
+      "price": "PKR 2,930,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/ciaz/automatic/"
+    },
+    {
+      "name": "Suzuki Ciaz Manual",
+      "price": "PKR 3,070,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/ciaz/manual/"
+    }
+  ]
+}

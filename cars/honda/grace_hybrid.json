@@ -1,0 +1,50 @@
+{
+  "name": "Honda Grace Hybrid",
+  "brand": "Honda",
+  "model": "Grace Hybrid",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/5530/medium/b2fe5872e4f41c7aea6acf5357b2d22c.jpg?1628239266",
+  "price_range": "PKR 39.10 - 51.50 lacs",
+  "reviews": 2,
+  "link": "https://www.pakwheels.com/new-cars/honda/grace--2/",
+  "specifications": {
+    "Price": "PKR 39.10 - 51.50 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4440 x 1695 x 1475 mm",
+    "Ground Clearance": "135 mm",
+    "Displacement": "1496 - 1500 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "110 hp (Combined)",
+    "Torque": "134 - 137 Nm (Combined)",
+    "Boot Space": "536 L",
+    "Kerb Weight": "0 - 1200 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "16 - 20 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/60/R15"
+  },
+  "variants": [
+    {
+      "name": "Honda Grace Hybrid DX",
+      "price": "PKR 3,940,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/grace--2/dx--5/"
+    },
+    {
+      "name": "Honda Grace Hybrid EX",
+      "price": "PKR 3,910,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/grace--2/ex--2/"
+    },
+    {
+      "name": "Honda Grace Hybrid EX Honda Sensing",
+      "price": "PKR 5,150,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/grace--2/ex-honda-sensing/"
+    },
+    {
+      "name": "Honda Grace Hybrid LX",
+      "price": "PKR 4,180,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/grace--2/lx--3/"
+    }
+  ]
+}

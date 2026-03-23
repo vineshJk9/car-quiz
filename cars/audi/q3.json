@@ -1,0 +1,35 @@
+{
+  "name": "Audi Q3",
+  "brand": "Audi",
+  "model": "Q3",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6476/medium/Audi_Q3.jpg?1768563246",
+  "price_range": "PKR 2.19 crore",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/audi/q3/",
+  "specifications": {
+    "Price": "PKR 2.19 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4484 x 2024 x 1616 mm",
+    "Ground Clearance": "170 mm",
+    "Displacement": "1395 - 1968 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "148 - 150 hp",
+    "Torque": "250 - 340 Nm",
+    "Boot Space": "530 L",
+    "Kerb Weight": "1545 - 1655 KG",
+    "Fuel Type": "Diesel & Petrol",
+    "Mileage": "10 - 14 KM/L",
+    "Fuel Tank Capacity": "58 - 60 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "207 KM/H",
+    "Tyre Size": "215/65/R18"
+  },
+  "variants": [
+    {
+      "name": "Audi Q3 35 TFSI Advanced",
+      "price": "PKR 21,900,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/q3/35-tfsi-advanced/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Honda Jazz",
+  "brand": "Honda",
+  "model": "Jazz",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12108/medium/Cover.jpg?1768564403",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/jazz/",
+  "specifications": {
+    "Price": "PKR 1.30 crore",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4105 x 1725 x 1556 mm",
+    "Ground Clearance": "152 mm",
+    "Displacement": "1498 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "107 hp (Combined)",
+    "Torque": "131 Nm (Combined)",
+    "Boot Space": "298 L",
+    "Kerb Weight": "1255 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "20 - 26 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/60/R16"
+  },
+  "variants": [
+    {
+      "name": "Honda Jazz Crosstar EX",
+      "price": "PKR 13,000,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/jazz/crosstar-ex/"
+    }
+  ]
+}

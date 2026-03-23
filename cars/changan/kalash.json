@@ -1,0 +1,35 @@
+{
+  "name": "Changan Kalash",
+  "brand": "Changan",
+  "model": "Kalash",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/3036/medium/Changan-Kalash.jpg?1768563577",
+  "price_range": "PKR 5.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/changan/kalash/",
+  "specifications": {
+    "Price": "PKR 5.00 lacs",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "3600 x 1400 x 1715 mm",
+    "Ground Clearance": "155 mm",
+    "Displacement": "797 cc",
+    "Transmission": "Manual",
+    "Horse Power": "55 hp",
+    "Torque": "70 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "980 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 20 KM/L",
+    "Fuel Tank Capacity": "36 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "110 KM/H",
+    "Tyre Size": "165/70/R13"
+  },
+  "variants": [
+    {
+      "name": "Changan Kalash Base Grade",
+      "price": "PKR 500,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/kalash/pickup--2/"
+    }
+  ]
+}

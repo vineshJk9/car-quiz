@@ -1,0 +1,35 @@
+{
+  "name": "Toyota 86",
+  "brand": "Toyota",
+  "model": "86",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15441/medium/Cover.jpg?1768567014",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/86/",
+  "specifications": {
+    "Price": "PKR 2.03 crore",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "4265 x 1775 x 1310 mm",
+    "Ground Clearance": "130 mm",
+    "Displacement": "2387 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "228 hp",
+    "Torque": "249 Nm",
+    "Boot Space": "226 L",
+    "Kerb Weight": "1293 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 16 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "225 KM/H",
+    "Tyre Size": "215/40/R18"
+  },
+  "variants": [
+    {
+      "name": "Toyota 86 GR",
+      "price": "PKR 20,335,600",
+      "link": "https://www.pakwheels.com/new-cars/toyota/86/gr/"
+    }
+  ]
+}

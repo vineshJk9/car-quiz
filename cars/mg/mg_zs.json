@@ -1,0 +1,35 @@
+{
+  "name": "MG ZS",
+  "brand": "Mg",
+  "model": "MG ZS",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/5424/medium/MG_ZS_Cover.jpg?1768565697",
+  "price_range": "PKR 46.00 lacs",
+  "reviews": 13,
+  "link": "https://www.pakwheels.com/new-cars/mg/zs/",
+  "specifications": {
+    "Price": "PKR 46.00 lacs",
+    "Body Type": "Compact SUV",
+    "Dimensions (Length x Width x Height)": "4314 x 1809 x 1648 mm",
+    "Ground Clearance": "164 mm",
+    "Displacement": "1500 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "113 hp",
+    "Torque": "150 Nm",
+    "Boot Space": "359 L",
+    "Kerb Weight": "1270 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 13 KM/L",
+    "Fuel Tank Capacity": "48 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "215/50/R17"
+  },
+  "variants": [
+    {
+      "name": "MG ZS 1.5L",
+      "price": "PKR 4,600,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/zs/1-5l/"
+    }
+  ]
+}

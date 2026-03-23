@@ -1,0 +1,37 @@
+{
+  "name": "MG Binguo",
+  "brand": "Mg",
+  "model": "MG Binguo",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/10303/medium/Cover.jpg?1767165808",
+  "price_range": "PKR 59.99 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/mg/binguo/",
+  "specifications": {
+    "Price": "PKR 59.99 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3950 x 1708 x 1580 mm",
+    "Ground Clearance": "0 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "67 hp",
+    "Torque": "-",
+    "Boot Space": "790 L",
+    "Kerb Weight": "990 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "31.9 kWh",
+    "Range": "333 km",
+    "Charging Time": "5.0 Hours",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "120 KM/H",
+    "Tyre Size": "185/60/R15"
+  },
+  "variants": [
+    {
+      "name": "MG Binguo Pro",
+      "price": "PKR 5,999,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/binguo/pro--6/"
+    }
+  ]
+}

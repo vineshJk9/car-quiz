@@ -1,0 +1,35 @@
+{
+  "name": "BMW M6",
+  "brand": "Bmw",
+  "model": "BMW M6",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/8687/medium/Cover.jpg?1744875251",
+  "price_range": "PKR 4.75 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/m6/",
+  "specifications": {
+    "Price": "PKR 4.75 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "5011 x 1899 x 1395 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "4395 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "560 hp",
+    "Torque": "680 Nm",
+    "Boot Space": "530 L",
+    "Kerb Weight": "1950 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "19 - 28 KM/L",
+    "Fuel Tank Capacity": "80 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "235/65/R20"
+  },
+  "variants": [
+    {
+      "name": "BMW M6 Gran Coupe",
+      "price": "PKR 47,500,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/m6/gran-coupe/"
+    }
+  ]
+}

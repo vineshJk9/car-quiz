@@ -1,0 +1,90 @@
+{
+  "name": "Toyota Vitz",
+  "brand": "Toyota",
+  "model": "Vitz",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6344/medium/Toyota_Vitz_Front_Right_Angled.jpg?1768568202",
+  "price_range": "PKR 29.30 - 44.60 lacs",
+  "reviews": 70,
+  "link": "https://www.pakwheels.com/new-cars/toyota/vitz/",
+  "specifications": {
+    "Price": "PKR 29.30 - 44.60 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3945 x 1695 x 1500 mm",
+    "Ground Clearance": "140 - 160 mm",
+    "Displacement": "996 - 1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "68 - 98 hp (Combined)",
+    "Torque": "92 - 121 Nm (Combined)",
+    "Boot Space": "0 - 441 L",
+    "Kerb Weight": "970 - 1110 KG",
+    "Fuel Type": "Hybrid & Petrol",
+    "Mileage": "15 - 34 KM/L",
+    "Fuel Tank Capacity": "36 - 42 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "160 - 180 KM/H",
+    "Tyre Size": "185/60/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Vitz 1.0F Safety Edition III",
+      "price": "PKR 3,690,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/1-0f-safety-edition-iii/"
+    },
+    {
+      "name": "Toyota Vitz F 1.0",
+      "price": "PKR 3,635,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/1-0-f/"
+    },
+    {
+      "name": "Toyota Vitz F 1.3",
+      "price": "PKR 3,020,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/1-3-f/"
+    },
+    {
+      "name": "Toyota Vitz F M Package 1.0",
+      "price": "PKR 3,790,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/f-m-package/"
+    },
+    {
+      "name": "Toyota Vitz F Safety 1.0",
+      "price": "PKR 3,750,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/f-safety-1-0/"
+    },
+    {
+      "name": "Toyota Vitz F Safety Edition II",
+      "price": "PKR 3,620,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/f-safety-edition-ii/"
+    },
+    {
+      "name": "Toyota Vitz F Safety Edition III",
+      "price": "PKR 3,542,500",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/f-safety-edition-iii/"
+    },
+    {
+      "name": "Toyota Vitz Hybrid F 1.5",
+      "price": "PKR 4,120,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/hybrid-f-1-5/"
+    },
+    {
+      "name": "Toyota Vitz Hybrid U 1.5",
+      "price": "PKR 4,460,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/hybrid-u-1-5/"
+    },
+    {
+      "name": "Toyota Vitz Jewela 1.3",
+      "price": "PKR 4,300,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/1-3-jewela/"
+    },
+    {
+      "name": "Toyota Vitz Jewela Smart Stop Package 1.0",
+      "price": "PKR 3,860,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/jewela-smart-stop-package/"
+    },
+    {
+      "name": "Toyota Vitz U 1.3",
+      "price": "PKR 2,930,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/vitz/1-3-u/"
+    }
+  ]
+}

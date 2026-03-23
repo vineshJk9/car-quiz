@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Innova",
+  "brand": "Toyota",
+  "model": "Innova",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6382/medium/Toyota_Innova_Front_Right_Angled.jpg?1649402472",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/innova/",
+  "specifications": {
+    "Price": "PKR 1.40 crore",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "4735 x 1830 x 1795 mm",
+    "Ground Clearance": "176 mm",
+    "Displacement": "2694 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "166 hp",
+    "Torque": "245 Nm",
+    "Boot Space": "300 L",
+    "Kerb Weight": "1700 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "7 - 10 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "215/55/R17"
+  },
+  "variants": [
+    {
+      "name": "Toyota Innova Z",
+      "price": "PKR 14,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/innova/z--6/"
+    }
+  ]
+}

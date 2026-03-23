@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Succeed",
+  "brand": "Toyota",
+  "model": "Succeed",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16399/medium/Cover.jpg?1768568141",
+  "price_range": "PKR 28.80 - 30.85 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/succeed/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Van",
+    "Dimensions (Length x Width x Height)": "4300 x 1695 x 1510 mm",
+    "Ground Clearance": "155 - 160 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "109 hp",
+    "Torque": "141 Nm",
+    "Boot Space": "400 L",
+    "Kerb Weight": "1060 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 14 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "165/80/R13"
+  },
+  "variants": [
+    {
+      "name": "Toyota Succeed TX",
+      "price": "PKR 3,085,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/succeed/1-5l-ul/"
+    },
+    {
+      "name": "Toyota Succeed TX G Package Limited",
+      "price": "PKR 2,880,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/succeed/tx-limited/"
+    }
+  ]
+}

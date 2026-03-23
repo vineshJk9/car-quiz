@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Probox",
+  "brand": "Toyota",
+  "model": "Probox",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8330/medium/Cover.jpg?1740479520",
+  "price_range": null,
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/toyota/probox/",
+  "specifications": {
+    "Price": "PKR 50.55 lacs",
+    "Body Type": "Station Wagon",
+    "Dimensions (Length x Width x Height)": "4245 x 1690 x 1525 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "74 hp (Combined)",
+    "Torque": "111 Nm (Combined)",
+    "Boot Space": "400 L",
+    "Kerb Weight": "1160 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "9 - 12 KM/L",
+    "Fuel Tank Capacity": "42 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "155/80/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Probox GL",
+      "price": "PKR 5,055,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/probox/gl--10/"
+    }
+  ]
+}

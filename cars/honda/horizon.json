@@ -1,0 +1,35 @@
+{
+  "name": "Honda Horizon",
+  "brand": "Honda",
+  "model": "Horizon",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6479/medium/White-Base-PS.jpg?1768564359",
+  "price_range": "PKR 20.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/horizon/",
+  "specifications": {
+    "Price": "PKR 20.00 lacs",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4720 x 1745 x 1840 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "3500 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "227 hp",
+    "Torque": "314 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "2020 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "7 - 10 KM/L",
+    "Fuel Tank Capacity": "85 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "245/70/R16"
+  },
+  "variants": [
+    {
+      "name": "Honda Horizon SE",
+      "price": "PKR 2,000,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/horizon/se--6/"
+    }
+  ]
+}

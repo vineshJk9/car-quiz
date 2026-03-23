@@ -1,0 +1,80 @@
+{
+  "name": "Toyota iQ",
+  "brand": "Toyota",
+  "model": "iQ",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/15986/medium/Cover.jpg?1768567391",
+  "price_range": "PKR 38.30 lacs",
+  "reviews": 2,
+  "link": "https://www.pakwheels.com/new-cars/toyota/iq/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "2985 x 1680 x 1500 mm",
+    "Ground Clearance": "135 - 160 mm",
+    "Displacement": "996 - 1329 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "68 - 94 hp",
+    "Torque": "90 - 120 Nm",
+    "Boot Space": "0 - 32 L",
+    "Kerb Weight": "890 - 950 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "14 - 23 KM/L",
+    "Fuel Tank Capacity": "32 L",
+    "Seating Capacity": "2 - 4 - Persons",
+    "Top Speed": "150 - 180 KM/H",
+    "Tyre Size": "175/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota iQ 100G",
+      "price": "PKR 1,914,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/iq/100g/"
+    },
+    {
+      "name": "Toyota iQ 100G Go",
+      "price": "PKR 2,160,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/iq/100g-go/"
+    },
+    {
+      "name": "Toyota iQ 100X",
+      "price": "PKR 2,996,500",
+      "link": "https://www.pakwheels.com/new-cars/toyota/iq/100x/"
+    },
+    {
+      "name": "Toyota iQ 100X 2 Seater",
+      "price": "PKR 1,950,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/iq/100x-2-seater/"
+    },
+    {
+      "name": "Toyota iQ 130G",
+      "price": "PKR 1,978,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/iq/130g/"
+    },
+    {
+      "name": "Toyota iQ 130G Go",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/toyota/iq/130g-go/"
+    },
+    {
+      "name": "Toyota iQ 130G Go Leather Package",
+      "price": "PKR 3,830,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/iq/130g-go-leather-package/"
+    },
+    {
+      "name": "Toyota iQ 130G Leather Package",
+      "price": "PKR 3,530,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/iq/130g-leather-package/"
+    },
+    {
+      "name": "Toyota iQ 130G Leather Package Plus",
+      "price": "PKR 2,930,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/iq/130g-leather-package-plus/"
+    },
+    {
+      "name": "Toyota iQ 130G Plus",
+      "price": "PKR 2,250,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/iq/130g-plus/"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Audi A6",
+  "brand": "Audi",
+  "model": "A6",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6393/medium/Audi_A6_Front.jpg?1768563203",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/audi/a6/",
+  "specifications": {
+    "Price": "PKR 130.00 - 150.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4915 x 2086 x 1440 mm",
+    "Ground Clearance": "132 - 165 mm",
+    "Displacement": "1984 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "204 - 245 hp",
+    "Torque": "320 - 370 Nm",
+    "Boot Space": "530 L",
+    "Kerb Weight": "1635 - 2345 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "9 - 16 KM/L",
+    "Fuel Tank Capacity": "63 - 73 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "245/45/19"
+  },
+  "variants": [
+    {
+      "name": "Audi A6 2.0 TFSI",
+      "price": "PKR 3,650,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a6/saloon--2/"
+    },
+    {
+      "name": "Audi A6 40 TFSI S-Line",
+      "price": "PKR 15,180,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a6/40-tfsi-s-line/"
+    },
+    {
+      "name": "Audi A6 45 TFSI quattro S tronic",
+      "price": "PKR 53,000,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a6/45-tfsi-quattro-s-tronic/"
+    }
+  ]
+}

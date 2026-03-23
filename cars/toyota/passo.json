@@ -1,0 +1,70 @@
+{
+  "name": "Toyota Passo",
+  "brand": "Toyota",
+  "model": "Passo",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/4609/medium/Toyota_Passo.jpg?1768567483",
+  "price_range": "PKR 32.50 - 41.00 lacs",
+  "reviews": 40,
+  "link": "https://www.pakwheels.com/new-cars/toyota/passo/",
+  "specifications": {
+    "Price": "PKR 32.50 - 41.00 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3650 x 1665 x 1525 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "996 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "68 hp",
+    "Torque": "92 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "910 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "24 - 28 KM/L",
+    "Fuel Tank Capacity": "36 - 38 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "165/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Passo Moda",
+      "price": "PKR 3,487,500",
+      "link": "https://www.pakwheels.com/new-cars/toyota/passo/moda/"
+    },
+    {
+      "name": "Toyota Passo Moda G",
+      "price": "PKR 3,630,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/passo/moda-g/"
+    },
+    {
+      "name": "Toyota Passo Moda S",
+      "price": "PKR 3,400,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/passo/moda-s/"
+    },
+    {
+      "name": "Toyota Passo X",
+      "price": "PKR 3,350,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/passo/1-0-x/"
+    },
+    {
+      "name": "Toyota Passo X G Package",
+      "price": "PKR 4,100,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/passo/x-g-package/"
+    },
+    {
+      "name": "Toyota Passo X L Package",
+      "price": "PKR 3,250,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/passo/x-l-package/"
+    },
+    {
+      "name": "Toyota Passo X L Package S",
+      "price": "PKR 3,419,500",
+      "link": "https://www.pakwheels.com/new-cars/toyota/passo/x-l-package-s/"
+    },
+    {
+      "name": "Toyota Passo X S",
+      "price": "PKR 3,490,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/passo/x-s--2/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Honda Legend",
+  "brand": "Honda",
+  "model": "Legend",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/12119/medium/Cover.jpg?1768564407",
+  "price_range": "PKR 32.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/legend/",
+  "specifications": {
+    "Price": "PKR 32.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4955 x 1845 x 1450 mm",
+    "Ground Clearance": "0 mm",
+    "Displacement": "3471 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "295 hp",
+    "Torque": "351 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1864 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "6 - 8 KM/L",
+    "Fuel Tank Capacity": "73 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "235/50/R17"
+  },
+  "variants": [
+    {
+      "name": "Honda Legend 3.5i VTEC V6 EX",
+      "price": "PKR 3,200,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/legend/3-5i-vtec-v6-ex/"
+    }
+  ]
+}

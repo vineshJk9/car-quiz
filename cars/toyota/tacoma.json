@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Tacoma",
+  "brand": "Toyota",
+  "model": "Tacoma",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/7487/medium/tocoma-cover.jpg?1768568157",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/tacoma/",
+  "specifications": {
+    "Price": "PKR 1.70 - 2.86 crore",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "5392 x 1889 x 1793 mm",
+    "Ground Clearance": "238 mm",
+    "Displacement": "3500 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "278 hp",
+    "Torque": "359 Nm",
+    "Boot Space": "246 L",
+    "Kerb Weight": "1884 - 2016 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "79 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "240 KM/H",
+    "Tyre Size": "265/70/R16"
+  },
+  "variants": [
+    {
+      "name": "Toyota Tacoma SR",
+      "price": "PKR 16,950,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/tacoma/sr--4/"
+    },
+    {
+      "name": "Toyota Tacoma TRD Pro",
+      "price": "PKR 28,611,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/tacoma/trd-pro/"
+    }
+  ]
+}

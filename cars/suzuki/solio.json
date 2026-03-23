@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Solio",
+  "brand": "Suzuki",
+  "model": "Solio",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6243/medium/Suzuki_Solio_Front_Right_Angled.jpg?1768566895",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/solio/",
+  "specifications": {
+    "Price": "PKR 70.00 lacs",
+    "Body Type": "Mini Van",
+    "Dimensions (Length x Width x Height)": "3790 x 1645 x 1745 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "1242 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "90 hp",
+    "Torque": "118 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "960 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "14 - 16 KM/L",
+    "Fuel Tank Capacity": "30 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "155 KM/H",
+    "Tyre Size": "165/70/R14"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Solio G",
+      "price": "PKR 7,000,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/solio/g--9/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Town Ace",
+  "brand": "Toyota",
+  "model": "Town Ace",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6117/medium/Toyota_Town_Ace_Left_Aligned_Front.jpg?1768568174",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/townace/",
+  "specifications": {
+    "Price": "PKR 20.40 lacs",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "4045 x 1665 x 1930 mm",
+    "Ground Clearance": "190 mm",
+    "Displacement": "1498 cc",
+    "Transmission": "Manual",
+    "Horse Power": "97 hp",
+    "Torque": "134 Nm",
+    "Boot Space": "485 L",
+    "Kerb Weight": "1280 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "43 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "165/80/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Town Ace 1.5 DX",
+      "price": "PKR 2,039,999",
+      "link": "https://www.pakwheels.com/new-cars/toyota/townace/1-5-dx/"
+    }
+  ]
+}

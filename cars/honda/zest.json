@@ -1,0 +1,70 @@
+{
+  "name": "Honda Zest",
+  "brand": "Honda",
+  "model": "Zest",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/3149/medium/1st_Gen.jpg?1448966216",
+  "price_range": "PKR 13.00 - 27.77 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/honda/zest/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1650 mm",
+    "Ground Clearance": "140 - 160 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "51 - 64 hp",
+    "Torque": "61 - 93 Nm",
+    "Boot Space": "210 - 260 L",
+    "Kerb Weight": "890 - 970 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 20 KM/L",
+    "Fuel Tank Capacity": "31 - 35 L",
+    "Seating Capacity": "4 - 5 - Persons",
+    "Top Speed": "140 - 180 KM/H",
+    "Tyre Size": "155/65/R13"
+  },
+  "variants": [
+    {
+      "name": "Honda Zest D",
+      "price": "PKR 1,805,500",
+      "link": "https://www.pakwheels.com/new-cars/honda/zest/d--2/"
+    },
+    {
+      "name": "Honda Zest Dynamic Special",
+      "price": "PKR 1,300,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/zest/dynamic-special/"
+    },
+    {
+      "name": "Honda Zest G",
+      "price": "PKR 1,952,500",
+      "link": "https://www.pakwheels.com/new-cars/honda/zest/g--19/"
+    },
+    {
+      "name": "Honda Zest G Turbo",
+      "price": "PKR 1,873,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/zest/g-turbo/"
+    },
+    {
+      "name": "Honda Zest Special",
+      "price": "PKR 1,896,500",
+      "link": "https://www.pakwheels.com/new-cars/honda/zest/special--3/"
+    },
+    {
+      "name": "Honda Zest Sports G Turbo",
+      "price": "PKR 1,465,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/zest/sports-g-turbo/"
+    },
+    {
+      "name": "Honda Zest W",
+      "price": "PKR 2,467,618",
+      "link": "https://www.pakwheels.com/new-cars/honda/zest/w/"
+    },
+    {
+      "name": "Honda Zest W Turbo",
+      "price": "PKR 2,777,222",
+      "link": "https://www.pakwheels.com/new-cars/honda/zest/w-turbo/"
+    }
+  ]
+}

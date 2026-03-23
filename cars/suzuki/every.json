@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Every",
+  "brand": "Suzuki",
+  "model": "Every",
+  "status": "new",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/16753/medium/Cover.jpg?1768990933",
+  "price_range": "PKR 29.65 lacs",
+  "reviews": 16,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/every/",
+  "specifications": {
+    "Price": "PKR 29.65 lacs",
+    "Body Type": "Micro Van",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1895 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Manual",
+    "Horse Power": "43 hp",
+    "Torque": "58 Nm",
+    "Boot Space": "650 L",
+    "Kerb Weight": "890 - 900 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "16 - 18 KM/L",
+    "Fuel Tank Capacity": "37 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "145/80/R12"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Every VXR",
+      "price": "PKR 2,965,200",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/every/vxr--2/"
+    }
+  ]
+}

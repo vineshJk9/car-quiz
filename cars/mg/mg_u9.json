@@ -1,0 +1,35 @@
+{
+  "name": "MG U9",
+  "brand": "Mg",
+  "model": "MG U9",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/10035/medium/MG_U9.jpg?1762858179",
+  "price_range": "PKR 2.27 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/mg/u9--2/",
+  "specifications": {
+    "Price": "PKR 2.27 crore",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "5500 x 1997 x 1874 mm",
+    "Ground Clearance": "220 mm",
+    "Displacement": "2498 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "215 hp",
+    "Torque": "520 Nm",
+    "Boot Space": "1200 L",
+    "Kerb Weight": "2550 KG",
+    "Fuel Type": "Diesel",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "80 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "275/55/R20"
+  },
+  "variants": [
+    {
+      "name": "MG U9 Explore Pro",
+      "price": "PKR 22,749,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/u9--2/explore-pro/"
+    }
+  ]
+}

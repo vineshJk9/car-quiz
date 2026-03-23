@@ -1,0 +1,35 @@
+{
+  "name": "Honda N-Van",
+  "brand": "Honda",
+  "model": "N-Van",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7251/medium/honda-n-van-2018-2022-1624337262.9713054.jpg?1768564422",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/n-van/",
+  "specifications": {
+    "Price": "PKR 22.90 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1960 mm",
+    "Ground Clearance": "155 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Manual",
+    "Horse Power": "53 hp",
+    "Torque": "65 Nm",
+    "Boot Space": "350 L",
+    "Kerb Weight": "980 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "16 - 18 KM/L",
+    "Fuel Tank Capacity": "27 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "145/80/R12"
+  },
+  "variants": [
+    {
+      "name": "Honda N-Van G",
+      "price": "PKR 2,290,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/n-van/g--60/"
+    }
+  ]
+}

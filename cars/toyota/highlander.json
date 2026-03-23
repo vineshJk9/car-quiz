@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Highlander",
+  "brand": "Toyota",
+  "model": "Highlander",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6583/medium/2021-toyota-highlander-le-fwd-natl-angular-front-exterior-view_100767712_l.jpg?1768567358",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/highlander/",
+  "specifications": {
+    "Price": "PKR 3.40 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4950 x 1930 x 1730 mm",
+    "Ground Clearance": "203 mm",
+    "Displacement": "3456 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "265 hp",
+    "Torque": "422 Nm",
+    "Boot Space": "453 L",
+    "Kerb Weight": "1885 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "7 - 9 KM/L",
+    "Fuel Tank Capacity": "68 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "235/55/R20"
+  },
+  "variants": [
+    {
+      "name": "Toyota Highlander Platinum",
+      "price": "PKR 34,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/highlander/platinum--3/"
+    }
+  ]
+}

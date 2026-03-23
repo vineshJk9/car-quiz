@@ -1,0 +1,60 @@
+{
+  "name": "Toyota Corolla",
+  "brand": "Toyota",
+  "model": "Corolla",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/5361/medium/Corolla-X-Cars-Cropped-Pictures-for-Website.jpg?1606903674",
+  "price_range": "PKR 60.99 - 77.09 lacs",
+  "reviews": 648,
+  "link": "https://www.pakwheels.com/new-cars/toyota/corolla/",
+  "specifications": {
+    "Price": "PKR 60.99 - 77.09 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4620 x 1775 x 1460 mm",
+    "Ground Clearance": "140 - 175 mm",
+    "Displacement": "1298 - 1800 cc",
+    "Transmission": "Manual & Automatic",
+    "Horse Power": "84 - 138 hp",
+    "Torque": "121 - 173 Nm",
+    "Boot Space": "470 L",
+    "Kerb Weight": "1265 - 1320 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 17 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 - 240 KM/H",
+    "Tyre Size": "195/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Corolla Altis X Manual 1.6",
+      "price": "PKR 6,099,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla/altis-x-manual-1-6/"
+    },
+    {
+      "name": "Toyota Corolla Altis 1.6 X CVT-i",
+      "price": "PKR 6,699,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla/altis-1-6-x-cvt-i/"
+    },
+    {
+      "name": "Toyota Corolla Altis X CVT-i 1.8",
+      "price": "PKR 7,029,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla/altis-x-cvt-i-1-8/"
+    },
+    {
+      "name": "Toyota Corolla Altis 1.6 X CVT-i Special Edition",
+      "price": "PKR 7,339,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla/altis-1-6-x-cvt-i-special-edition/"
+    },
+    {
+      "name": "Toyota Corolla Altis Grande X CVT-i 1.8 Beige Interior",
+      "price": "PKR 7,669,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla/altis-grande-x-cvt-i-1-8-beige/"
+    },
+    {
+      "name": "Toyota Corolla Altis Grande X CVT-i 1.8 Black Interior",
+      "price": "PKR 7,709,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla/altis-grande-x-cvt-i-1-8-black-interior/"
+    }
+  ]
+}

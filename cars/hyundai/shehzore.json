@@ -1,0 +1,45 @@
+{
+  "name": "Hyundai Shehzore",
+  "brand": "Hyundai",
+  "model": "Shehzore",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12454/medium/Cover.jpg?1768564609",
+  "price_range": "PKR 23.40 - 24.40 lacs",
+  "reviews": 4,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/shehzore/",
+  "specifications": {
+    "Price": "PKR 25.00 - 29.50 lacs",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "4750 x 1690 x 1930 mm",
+    "Ground Clearance": "185 mm",
+    "Displacement": "2600 cc",
+    "Transmission": "Manual",
+    "Horse Power": "85 hp",
+    "Torque": "166 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1930 KG",
+    "Fuel Type": "Diesel",
+    "Mileage": "8 - 11 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/80/R15"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Shehzore Pickup H-100",
+      "price": "PKR 2,440,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/shehzore/pickup-h-100/"
+    },
+    {
+      "name": "Hyundai Shehzore Pickup H-100 (Flat Bed)",
+      "price": "PKR 2,340,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/shehzore/pickup-h-100-flat-bed/"
+    },
+    {
+      "name": "Hyundai Shehzore Pickup H-100 (With Deck and Side Wall)",
+      "price": "PKR 2,420,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/shehzore/pickup-h-100-with-deck-side-wall/"
+    }
+  ]
+}

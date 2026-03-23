@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Sequoia",
+  "brand": "Toyota",
+  "model": "Sequoia",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6622/medium/Toyota-Sequoia-Platinum-2020.jpg?1768567657",
+  "price_range": "PKR 3.00 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/sequoia/",
+  "specifications": {
+    "Price": "PKR 3.00 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "5210 x 2030 x 1955 mm",
+    "Ground Clearance": "176 mm",
+    "Displacement": "5696 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "381 hp",
+    "Torque": "544 Nm",
+    "Boot Space": "535 L",
+    "Kerb Weight": "2721 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "5 - 6 KM/L",
+    "Fuel Tank Capacity": "120 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "275/55/R20"
+  },
+  "variants": [
+    {
+      "name": "Toyota Sequoia Platinum",
+      "price": "PKR 30,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/sequoia/platinum--4/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "KIA Stonic",
+  "brand": "Kia",
+  "model": "KIA Stonic",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16838/medium/Cover.jpg?1769009520",
+  "price_range": "PKR 48.62 - 59.99 lacs",
+  "reviews": 28,
+  "link": "https://www.pakwheels.com/new-cars/kia/stonic/",
+  "specifications": {
+    "Price": "PKR 48.62 - 59.99 lacs",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4140 x 1760 x 1500 mm",
+    "Ground Clearance": "165 mm",
+    "Displacement": "1368 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "100 hp",
+    "Torque": "133 Nm",
+    "Boot Space": "352 L",
+    "Kerb Weight": "1185 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 16 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "185/65/R15"
+  },
+  "variants": [
+    {
+      "name": "KIA Stonic EX",
+      "price": "PKR 4,862,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/stonic/ex--3/"
+    },
+    {
+      "name": "KIA Stonic EX+",
+      "price": "PKR 5,999,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/stonic/ex--4/"
+    }
+  ]
+}

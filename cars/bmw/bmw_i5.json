@@ -1,0 +1,42 @@
+{
+  "name": "BMW i5",
+  "brand": "Bmw",
+  "model": "BMW i5",
+  "status": "new",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/8990/medium/Cover.jpg?1750830471",
+  "price_range": "PKR 3.89 - 5.26 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/i5/",
+  "specifications": {
+    "Price": "PKR 3.89 - 5.26 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "5060 x 1900 x 1515 mm",
+    "Ground Clearance": "146 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "340 - 601 hp",
+    "Torque": "-",
+    "Boot Space": "490 L",
+    "Kerb Weight": "2205 - 2390 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "81.2 kWh",
+    "Range": "501 - 516 km",
+    "Charging Time": "8.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "193 - 230 KM/H",
+    "Tyre Size": "245/40/R20"
+  },
+  "variants": [
+    {
+      "name": "BMW i5 eDrive40 M Sport",
+      "price": "PKR 38,874,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/i5/edrive40-m-sport/"
+    },
+    {
+      "name": "BMW i5 M60 xDrive",
+      "price": "PKR 52,635,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/i5/m60-xdrive/"
+    }
+  ]
+}

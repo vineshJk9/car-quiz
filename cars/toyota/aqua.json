@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Aqua",
+  "brand": "Toyota",
+  "model": "Aqua",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/15499/medium/Cover.jpg?1768567041",
+  "price_range": null,
+  "reviews": 34,
+  "link": "https://www.pakwheels.com/new-cars/toyota/aqua/",
+  "specifications": {
+    "Price": "PKR 39.50 - 77.00 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4050 x 1695 x 1485 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "1490 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "91 hp (Combined)",
+    "Torque": "120 Nm (Combined)",
+    "Boot Space": "0 - 485 L",
+    "Kerb Weight": "1130 - 1150 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "20 - 30 KM/L",
+    "Fuel Tank Capacity": "36 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/65/15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Aqua GR Sport",
+      "price": "PKR 5,700,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/aqua/gr-sport/2021-present/"
+    },
+    {
+      "name": "Toyota Aqua Z",
+      "price": "PKR 6,457,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/aqua/z--4/"
+    }
+  ]
+}

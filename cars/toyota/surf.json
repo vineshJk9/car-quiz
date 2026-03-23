@@ -1,0 +1,70 @@
+{
+  "name": "Toyota Surf",
+  "brand": "Toyota",
+  "model": "Surf",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/4337/medium/surf_new.jpg?1481635690",
+  "price_range": "PKR 45.60 - 91.00 lacs",
+  "reviews": 8,
+  "link": "https://www.pakwheels.com/new-cars/toyota/surf/",
+  "specifications": {
+    "Price": "PKR 45.60 - 91.00 lacs",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4770 x 1875 x 1790 mm",
+    "Ground Clearance": "195 - 205 mm",
+    "Displacement": "2693 - 3955 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "163 - 245 hp",
+    "Torque": "246 - 380 Nm",
+    "Boot Space": "0 - 1263 L",
+    "Kerb Weight": "1830 - 1980 KG",
+    "Fuel Type": "Petrol & Diesel",
+    "Mileage": "7 - 17 KM/L",
+    "Fuel Tank Capacity": "87 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "265/70/R16"
+  },
+  "variants": [
+    {
+      "name": "Toyota Surf SSR-G 2.7",
+      "price": "PKR 5,875,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/surf/ssr-g-2-7/"
+    },
+    {
+      "name": "Toyota Surf SSR-G 3.0D",
+      "price": "PKR 6,755,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/surf/ssr-g-3-0d/"
+    },
+    {
+      "name": "Toyota Surf SSR-G 3.4",
+      "price": "PKR 5,690,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/surf/ssr-g-3-4/"
+    },
+    {
+      "name": "Toyota Surf SSR-G 4.0",
+      "price": "PKR 9,100,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/surf/ssr-g-4-0/"
+    },
+    {
+      "name": "Toyota Surf SSR-X 2.7",
+      "price": "PKR 6,030,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/surf/ssr-x-2-7/"
+    },
+    {
+      "name": "Toyota Surf SSR-X 3.0D",
+      "price": "PKR 5,250,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/surf/ssr-x-3-0d/"
+    },
+    {
+      "name": "Toyota Surf SSR-X 3.4",
+      "price": "PKR 4,560,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/surf/ssr-x-3-4/"
+    },
+    {
+      "name": "Toyota Surf SSR-X 4.0",
+      "price": "PKR 7,350,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/surf/ssr-x-4-0/"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Honda N One",
+  "brand": "Honda",
+  "model": "N One",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/12171/medium/Cover.jpg?1768564440",
+  "price_range": null,
+  "reviews": 9,
+  "link": "https://www.pakwheels.com/new-cars/honda/none/",
+  "specifications": {
+    "Price": "PKR 34.10 - 39.29 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1630 mm",
+    "Ground Clearance": "135 mm",
+    "Displacement": "658 - 660 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "58 - 63 hp",
+    "Torque": "65 - 104 Nm",
+    "Boot Space": "280 L",
+    "Kerb Weight": "840 - 920 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 20 KM/L",
+    "Fuel Tank Capacity": "27 - 30 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "165/60/15"
+  },
+  "variants": [
+    {
+      "name": "Honda N One Premium Tourer",
+      "price": "PKR 3,410,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/none/premium-tourer/"
+    },
+    {
+      "name": "Honda N One RS",
+      "price": "PKR 3,795,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/none/rs--16/"
+    },
+    {
+      "name": "Honda N One Style + Urban",
+      "price": "PKR 3,929,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/none/style-urban/"
+    }
+  ]
+}

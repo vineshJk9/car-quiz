@@ -1,0 +1,55 @@
+{
+  "name": "Honda Thats",
+  "brand": "Honda",
+  "model": "Thats",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/12247/medium/Cover.jpg?1768564474",
+  "price_range": "PKR 14.04 - 15.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/thats/",
+  "specifications": {
+    "Price": "PKR 14.04 - 15.00 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1620 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "656 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "52 - 64 hp",
+    "Torque": "61 - 93 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "820 - 880 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 20 KM/L",
+    "Fuel Tank Capacity": "31 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "145/80/R12"
+  },
+  "variants": [
+    {
+      "name": "Honda Thats Base Grade",
+      "price": "PKR 1,404,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/thats/base-grade--5/"
+    },
+    {
+      "name": "Honda Thats Item",
+      "price": "PKR 1,450,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/thats/item/"
+    },
+    {
+      "name": "Honda Thats Item Turbo",
+      "price": "PKR 1,500,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/thats/item-turbo/"
+    },
+    {
+      "name": "Honda Thats Special Edition",
+      "price": "PKR 1,490,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/thats/special-edition/"
+    },
+    {
+      "name": "Honda Thats Special Edition Turbo",
+      "price": "PKR 1,420,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/thats/special-edition-turbo/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Crown",
+  "brand": "Toyota",
+  "model": "Crown",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/7703/medium/pic.jpg?1712558963",
+  "price_range": null,
+  "reviews": 4,
+  "link": "https://www.pakwheels.com/new-cars/toyota/crown/",
+  "specifications": {
+    "Price": "PKR 1.49 - 4.75 crore",
+    "Body Type": "Sedan, Crossover",
+    "Dimensions (Length x Width x Height)": "4980 x 1839 x 1539 mm",
+    "Ground Clearance": "145 - 147 mm",
+    "Displacement": "2393 - 2400 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "268 - 340 hp (Combined)",
+    "Torque": "400 - 460 Nm (Combined)",
+    "Boot Space": "430 L",
+    "Kerb Weight": "1969 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "8 - 30 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "240 KM/H",
+    "Tyre Size": "255/45/R21"
+  },
+  "variants": [
+    {
+      "name": "Toyota Crown Platinum",
+      "price": "PKR 14,864,059",
+      "link": "https://www.pakwheels.com/new-cars/toyota/crown/platinum--5/"
+    },
+    {
+      "name": "Toyota Crown RS Crossover",
+      "price": "PKR 47,500,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/crown/rs-crossover/"
+    }
+  ]
+}

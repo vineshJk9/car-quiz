@@ -1,0 +1,70 @@
+{
+  "name": "Toyota C-HR",
+  "brand": "Toyota",
+  "model": "C-HR",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7474/medium/C-HR-%28cover-photo%29..jpg?1768567097",
+  "price_range": "PKR 57.00 - 83.10 lacs",
+  "reviews": 7,
+  "link": "https://www.pakwheels.com/new-cars/toyota/c-hr/",
+  "specifications": {
+    "Price": "PKR 53.90 - 82.00 lacs",
+    "Body Type": "Crossover,SUV",
+    "Dimensions (Length x Width x Height)": "4385 x 1795 x 1550 mm",
+    "Ground Clearance": "140 - 150 mm",
+    "Displacement": "1197 - 1797 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "96 - 114 hp (Combined)",
+    "Torque": "142 - 185 Nm (Combined)",
+    "Boot Space": "0 - 377 L",
+    "Kerb Weight": "1375 - 1450 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "13 - 35 KM/L",
+    "Fuel Tank Capacity": "43 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "215/60/R17"
+  },
+  "variants": [
+    {
+      "name": "Toyota C-HR 1.2 Turbo",
+      "price": "PKR 5,700,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/c-hr/turbo-1-2-l/"
+    },
+    {
+      "name": "Toyota C-HR G",
+      "price": "PKR 6,600,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/c-hr/g--61/"
+    },
+    {
+      "name": "Toyota C-HR G Nero",
+      "price": "PKR 8,310,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/c-hr/g-nero/"
+    },
+    {
+      "name": "Toyota C-HR G-LED",
+      "price": "PKR 6,375,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/c-hr/g-led/"
+    },
+    {
+      "name": "Toyota C-HR Koba",
+      "price": "PKR 7,790,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/c-hr/koba/"
+    },
+    {
+      "name": "Toyota C-HR S",
+      "price": "PKR 6,080,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/c-hr/s--32/"
+    },
+    {
+      "name": "Toyota C-HR S-GR Package",
+      "price": "PKR 7,200,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/c-hr/s-gr-package/"
+    },
+    {
+      "name": "Toyota C-HR S-LED",
+      "price": "PKR 6,500,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/c-hr/s-led/"
+    }
+  ]
+}

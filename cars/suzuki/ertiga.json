@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Ertiga",
+  "brand": "Suzuki",
+  "model": "Ertiga",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6472/medium/Suzuki_Ertiga.jpg?1768566809",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/ertiga/",
+  "specifications": {
+    "Price": "PKR 75.97 lacs",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "4395 x 1735 x 1690 mm",
+    "Ground Clearance": "0 mm",
+    "Displacement": "1462 cc",
+    "Transmission": "Manual",
+    "Horse Power": "103 hp (Combined)",
+    "Torque": "138 Nm (Combined)",
+    "Boot Space": "209 L",
+    "Kerb Weight": "1170 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "19 - 26 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "185/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Ertiga ZXI+",
+      "price": "PKR 7,597,220",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/ertiga/zxi/"
+    }
+  ]
+}

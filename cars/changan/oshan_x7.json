@@ -1,0 +1,45 @@
+{
+  "name": "Changan Oshan X7",
+  "brand": "Changan",
+  "model": "Oshan X7",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16816/medium/Cover.jpg?1769000052",
+  "price_range": "PKR 79.49 - 92.99 lacs",
+  "reviews": 74,
+  "link": "https://www.pakwheels.com/new-cars/changan/oshan-x7/",
+  "specifications": {
+    "Price": "PKR 79.49 - 92.99 lacs",
+    "Body Type": "Compact SUV",
+    "Dimensions (Length x Width x Height)": "4730 x 1870 x 1720 mm",
+    "Ground Clearance": "200 mm",
+    "Displacement": "1499 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "185 hp",
+    "Torque": "300 Nm",
+    "Boot Space": "1407 L",
+    "Kerb Weight": "1551 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 14 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "5 - 7 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "225/55/R19"
+  },
+  "variants": [
+    {
+      "name": "Changan Oshan X7 Comfort",
+      "price": "PKR 7,949,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/oshan-x7/comfort--2/"
+    },
+    {
+      "name": "Changan Oshan X7 FutureSense",
+      "price": "PKR 8,699,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/oshan-x7/futuresense/"
+    },
+    {
+      "name": "Changan Oshan X7 FutureSense 7 Seat",
+      "price": "PKR 9,299,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/oshan-x7/futuresense-7-seat/"
+    }
+  ]
+}

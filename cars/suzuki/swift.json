@@ -1,0 +1,45 @@
+{
+  "name": "Suzuki Swift",
+  "brand": "Suzuki",
+  "model": "Swift",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7311/medium/White-Base-PS.jpg?1768566947",
+  "price_range": "PKR 44.60 - 47.66 lacs",
+  "reviews": 209,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/swift/",
+  "specifications": {
+    "Price": "PKR 44.60 - 47.66 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3845 x 1735 x 1520 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "1197 cc",
+    "Transmission": "Manual & Automatic",
+    "Horse Power": "82 hp",
+    "Torque": "113 Nm",
+    "Boot Space": "265 L",
+    "Kerb Weight": "855 - 895 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 18 KM/L",
+    "Fuel Tank Capacity": "37 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 - 220 KM/H",
+    "Tyre Size": "185/55/16"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Swift GL Manual",
+      "price": "PKR 4,460,160",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/swift/gl-manual/"
+    },
+    {
+      "name": "Suzuki Swift GL CVT",
+      "price": "PKR 4,605,600",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/swift/gl-cvt/"
+    },
+    {
+      "name": "Suzuki Swift GLX CVT",
+      "price": "PKR 4,766,190",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/swift/glx-cvt/"
+    }
+  ]
+}

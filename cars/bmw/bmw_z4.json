@@ -1,0 +1,35 @@
+{
+  "name": "BMW Z4",
+  "brand": "Bmw",
+  "model": "BMW Z4",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6380/medium/BMW_Z4_Front_Right_Angled.jpg?1768563489",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/z4/",
+  "specifications": {
+    "Price": "PKR 6.50 crore",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "4324 x 1864 x 1304 mm",
+    "Ground Clearance": "114 mm",
+    "Displacement": "2998 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "335 hp",
+    "Torque": "500 Nm",
+    "Boot Space": "281 L",
+    "Kerb Weight": "1535 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 11 KM/L",
+    "Fuel Tank Capacity": "52 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "255/40/R18"
+  },
+  "variants": [
+    {
+      "name": "BMW Z4 M40i",
+      "price": "PKR 65,000,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/z4/m40i/"
+    }
+  ]
+}

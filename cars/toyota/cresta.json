@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Cresta",
+  "brand": "Toyota",
+  "model": "Cresta",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6236/medium/Toyota_Cresta_Front_Right_Angled.png?1768567229",
+  "price_range": "PKR 36.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/cresta/",
+  "specifications": {
+    "Price": "PKR 36.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4760 x 1755 x 1420 mm",
+    "Ground Clearance": "0 mm",
+    "Displacement": "1988 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "160 hp",
+    "Torque": "200 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1340 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "7 - 10 KM/L",
+    "Fuel Tank Capacity": "70 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "225/35/R17"
+  },
+  "variants": [
+    {
+      "name": "Toyota Cresta X100",
+      "price": "PKR 3,600,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/cresta/x100/"
+    }
+  ]
+}

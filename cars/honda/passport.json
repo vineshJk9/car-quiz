@@ -1,0 +1,35 @@
+{
+  "name": "Honda Passport",
+  "brand": "Honda",
+  "model": "Passport",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12208/medium/Cover.jpg?1768564455",
+  "price_range": "PKR 2.50 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/passport/",
+  "specifications": {
+    "Price": "PKR 2.50 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4839 x 2279 x 1835 mm",
+    "Ground Clearance": "205 mm",
+    "Displacement": "3471 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "280 hp",
+    "Torque": "355 Nm",
+    "Boot Space": "1430 L",
+    "Kerb Weight": "1914 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 11 KM/L",
+    "Fuel Tank Capacity": "74 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "265/45/R20"
+  },
+  "variants": [
+    {
+      "name": "Honda Passport Touring",
+      "price": "PKR 25,000,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/passport/touring--2/"
+    }
+  ]
+}

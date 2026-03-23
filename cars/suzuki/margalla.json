@@ -1,0 +1,45 @@
+{
+  "name": "Suzuki Margalla",
+  "brand": "Suzuki",
+  "model": "Margalla",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/7484/medium/3.jpg?1768566851",
+  "price_range": "PKR 3.96 - 5.85 lacs",
+  "reviews": 9,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/margalla/",
+  "specifications": {
+    "Price": "PKR 3.80 - 7.80 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "3745 x 1575 x 1350 mm",
+    "Ground Clearance": "155 mm",
+    "Displacement": "1324 cc",
+    "Transmission": "Manual",
+    "Horse Power": "60 hp",
+    "Torque": "90 Nm",
+    "Boot Space": "289 L",
+    "Kerb Weight": "740 - 800 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 13 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "145/70/R13"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Margalla GL",
+      "price": "PKR 395,500",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/margalla/gl--5/"
+    },
+    {
+      "name": "Suzuki Margalla GL Plus",
+      "price": "PKR 431,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/margalla/plus/"
+    },
+    {
+      "name": "Suzuki Margalla GLX",
+      "price": "PKR 585,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/margalla/glx/"
+    }
+  ]
+}

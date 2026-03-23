@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Avensis",
+  "brand": "Toyota",
+  "model": "Avensis",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/15557/medium/Cover.jpg?1768567069",
+  "price_range": "PKR 1.10 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/avensis/",
+  "specifications": {
+    "Price": "PKR 1.10 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4710 x 1810 x 1480 mm",
+    "Ground Clearance": "155 mm",
+    "Displacement": "2231 cc",
+    "Transmission": "Manual",
+    "Horse Power": "177 hp",
+    "Torque": "400 Nm",
+    "Boot Space": "543 L",
+    "Kerb Weight": "1595 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "225/55/R16"
+  },
+  "variants": [
+    {
+      "name": "Toyota Avensis Premium",
+      "price": "PKR 11,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/avensis/premium--7/"
+    }
+  ]
+}

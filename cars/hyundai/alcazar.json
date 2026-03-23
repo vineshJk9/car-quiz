@@ -1,0 +1,35 @@
+{
+  "name": "Hyundai Alcazar",
+  "brand": "Hyundai",
+  "model": "Alcazar",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8555/medium/Cover.jpg?1768564543",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/alcazar/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4560 x 1800 x 1710 mm",
+    "Ground Clearance": "172 mm",
+    "Displacement": "1482 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "160 hp",
+    "Torque": "253 Nm",
+    "Boot Space": "513 L",
+    "Kerb Weight": "1500 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "215/55/R18"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Alcazar Signature",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/alcazar/signature--2/"
+    }
+  ]
+}

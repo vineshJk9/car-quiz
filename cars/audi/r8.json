@@ -1,0 +1,35 @@
+{
+  "name": "Audi R8",
+  "brand": "Audi",
+  "model": "R8",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10555/medium/Cover.jpg?1768563274",
+  "price_range": "PKR 7.12 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/audi/r8/",
+  "specifications": {
+    "Price": "PKR 7.12 crore",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "4426 x 1940 x 1240 mm",
+    "Ground Clearance": "110 mm",
+    "Displacement": "5204 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "610 hp",
+    "Torque": "560 Nm",
+    "Boot Space": "112 L",
+    "Kerb Weight": "1630 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "6 - 11 KM/L",
+    "Fuel Tank Capacity": "83 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "330 KM/H",
+    "Tyre Size": "235/35/R19"
+  },
+  "variants": [
+    {
+      "name": "Audi R8 V10 Plus",
+      "price": "PKR 71,228,800",
+      "link": "https://www.pakwheels.com/new-cars/audi/r8/v10-plus/"
+    }
+  ]
+}

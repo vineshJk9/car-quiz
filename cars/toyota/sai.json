@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Sai",
+  "brand": "Toyota",
+  "model": "Sai",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16341/medium/Cover.jpg?1768567653",
+  "price_range": "PKR 61.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/sai/",
+  "specifications": {
+    "Price": "PKR 61.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4610 x 1770 x 1495 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "2362 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "150 hp (Combined)",
+    "Torque": "187 Nm (Combined)",
+    "Boot Space": "400 L",
+    "Kerb Weight": "1590 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "19 - 24 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "240 KM/H",
+    "Tyre Size": "205/60/R16"
+  },
+  "variants": [
+    {
+      "name": "Toyota Sai G",
+      "price": "PKR 6,100,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/sai/g--57/"
+    }
+  ]
+}

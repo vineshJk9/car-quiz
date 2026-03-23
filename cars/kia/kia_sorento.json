@@ -1,0 +1,45 @@
+{
+  "name": "KIA Sorento",
+  "brand": "Kia",
+  "model": "KIA Sorento",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/8830/medium/Cover.jpg?1746622927",
+  "price_range": "PKR 1.36 - 1.67 crore",
+  "reviews": 22,
+  "link": "https://www.pakwheels.com/new-cars/kia/sorento/",
+  "specifications": {
+    "Price": "PKR 1.36 - 1.67 crore",
+    "Body Type": "Compact SUV,SUV",
+    "Dimensions (Length x Width x Height)": "4815 x 1900 x 1700 mm",
+    "Ground Clearance": "176 mm",
+    "Displacement": "1598 - 3470 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "238 - 269 hp (Combined)",
+    "Torque": "331 - 367 Nm (Combined)",
+    "Boot Space": "179 L",
+    "Kerb Weight": "1909 KG",
+    "Fuel Type": "Petrol & Hybrid",
+    "Mileage": "8 - 18 KM/L",
+    "Fuel Tank Capacity": "67 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "235/60/R18"
+  },
+  "variants": [
+    {
+      "name": "KIA Sorento 3.5 FWD",
+      "price": "PKR 13,649,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/sorento/3-5-fwd/"
+    },
+    {
+      "name": "KIA Sorento 1.6T HEV FWD",
+      "price": "PKR 15,299,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/sorento/1-6t-hev-fwd/"
+    },
+    {
+      "name": "KIA Sorento 1.6T HEV AWD",
+      "price": "PKR 16,699,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/sorento/1-6t-hev-awd/"
+    }
+  ]
+}

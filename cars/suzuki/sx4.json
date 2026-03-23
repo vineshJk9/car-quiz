@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Sx4",
+  "brand": "Suzuki",
+  "model": "Sx4",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6469/medium/Suzuki_SX4.jpg?1768566952",
+  "price_range": "PKR 21.70 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/sx4/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4490 x 1730 x 1545 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "1490 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "110 hp",
+    "Torque": "145 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1180 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 14 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Sx4 1.5 G",
+      "price": "PKR 2,170,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/sx4/g-1-5--2/"
+    }
+  ]
+}

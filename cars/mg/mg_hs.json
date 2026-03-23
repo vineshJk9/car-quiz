@@ -1,0 +1,40 @@
+{
+  "name": "MG HS",
+  "brand": "Mg",
+  "model": "MG HS",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16946/medium/Cover_%2832%29.jpg?1771925074",
+  "price_range": "PKR 83.99 - 98.99 lacs",
+  "reviews": 47,
+  "link": "https://www.pakwheels.com/new-cars/mg/hs--2/",
+  "specifications": {
+    "Price": "PKR 83.99 - 98.99 lacs",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4574 x 1876 x 1664 mm",
+    "Ground Clearance": "175 mm",
+    "Displacement": "1490 - 1995 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "160 - 267 hp (Combined)",
+    "Torque": "250 - 480 Nm (Combined)",
+    "Boot Space": "448 - 463 L",
+    "Kerb Weight": "1265 - 1775 KG",
+    "Fuel Type": "Petrol & PHEV",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "37 - 55 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 - 210 KM/H",
+    "Tyre Size": "235/50/R18"
+  },
+  "variants": [
+    {
+      "name": "MG HS Trophy",
+      "price": "PKR 8,399,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/hs--2/trophy/"
+    },
+    {
+      "name": "MG HS PHEV",
+      "price": "PKR 9,899,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/hs--2/ehs/"
+    }
+  ]
+}

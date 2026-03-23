@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Platz",
+  "brand": "Toyota",
+  "model": "Platz",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16187/medium/Cover.jpg?1768567499",
+  "price_range": "PKR 14.10 - 15.20 lacs",
+  "reviews": 6,
+  "link": "https://www.pakwheels.com/new-cars/toyota/platz/",
+  "specifications": {
+    "Price": "PKR 14.10 - 15.20 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4180 x 1660 x 1500 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "997 - 1297 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "70 - 87 hp",
+    "Torque": "93 - 120 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "900 - 1000 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "13 - 15 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "155/80/R13"
+  },
+  "variants": [
+    {
+      "name": "Toyota Platz F 1.0",
+      "price": "PKR 1,410,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/platz/f-1-0/"
+    },
+    {
+      "name": "Toyota Platz F 1.3",
+      "price": "PKR 1,520,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/platz/f-1-3/"
+    }
+  ]
+}

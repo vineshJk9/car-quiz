@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Yaris Cross",
+  "brand": "Toyota",
+  "model": "Yaris Cross",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16533/medium/Cover.jpg?1768568230",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/yaris-cross/",
+  "specifications": {
+    "Price": "PKR 65.35 - 66.62 lacs",
+    "Body Type": "SUV, Crossover",
+    "Dimensions (Length x Width x Height)": "3940 x 1695 x 1500 mm",
+    "Ground Clearance": "170 mm",
+    "Displacement": "1490 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "90 - 92 hp (Combined)",
+    "Torque": "120 Nm (Combined)",
+    "Boot Space": "320 - 390 L",
+    "Kerb Weight": "1170 - 1250 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "22 - 27 KM/L",
+    "Fuel Tank Capacity": "36 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "205/65/R16"
+  },
+  "variants": [
+    {
+      "name": "Toyota Yaris Cross Hybrid X",
+      "price": "PKR 6,535,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/yaris-cross/hybrid-x--3/"
+    },
+    {
+      "name": "Toyota Yaris Cross Hybrid Z",
+      "price": "PKR 6,662,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/yaris-cross/hybrid-z--2/"
+    }
+  ]
+}

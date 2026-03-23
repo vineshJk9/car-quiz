@@ -1,0 +1,65 @@
+{
+  "name": "Toyota Yaris Hatchback",
+  "brand": "Toyota",
+  "model": "Yaris Hatchback",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16544/medium/Cover.jpg?1768568234",
+  "price_range": null,
+  "reviews": 6,
+  "link": "https://www.pakwheels.com/new-cars/toyota/yaris-hatchback/",
+  "specifications": {
+    "Price": "PKR 42.00 - 54.91 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3950 x 1695 x 1495 mm",
+    "Ground Clearance": "125 - 145 mm",
+    "Displacement": "996 - 1490 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "68 - 120 hp (Combined)",
+    "Torque": "92 - 145 Nm (Combined)",
+    "Boot Space": "209 - 286 L",
+    "Kerb Weight": "1100 - 1245 KG",
+    "Fuel Type": "Petrol & Hybrid",
+    "Mileage": "13 - 21 KM/L",
+    "Fuel Tank Capacity": "36 - 50 L",
+    "Seating Capacity": "4 - 5 - Persons",
+    "Top Speed": "180 - 200 KM/H",
+    "Tyre Size": "175/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Yaris Hatchback 1.5L SE+",
+      "price": "PKR 4,615,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/yaris-hatchback/1-5l-se/"
+    },
+    {
+      "name": "Toyota Yaris Hatchback G",
+      "price": "PKR 4,624,500",
+      "link": "https://www.pakwheels.com/new-cars/toyota/yaris-hatchback/g--63/"
+    },
+    {
+      "name": "Toyota Yaris Hatchback G 1.0",
+      "price": "PKR 4,310,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/yaris-hatchback/g-1-0/"
+    },
+    {
+      "name": "Toyota Yaris Hatchback GR RS",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/toyota/yaris-hatchback/gr-rs/"
+    },
+    {
+      "name": "Toyota Yaris Hatchback Hybrid X",
+      "price": "PKR 4,260,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/yaris-hatchback/hybrid-x--5/"
+    },
+    {
+      "name": "Toyota Yaris Hatchback Hybrid Z",
+      "price": "PKR 5,491,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/yaris-hatchback/hybrid-z--3/"
+    },
+    {
+      "name": "Toyota Yaris Hatchback X",
+      "price": "PKR 4,200,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/yaris-hatchback/x--50/"
+    }
+  ]
+}

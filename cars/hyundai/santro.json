@@ -1,0 +1,60 @@
+{
+  "name": "Hyundai Santro",
+  "brand": "Hyundai",
+  "model": "Santro",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/350/medium/santro-prime-club-gv-white-colour.jpg?1424227001",
+  "price_range": "PKR 8.86 - 10.03 lacs",
+  "reviews": 43,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/santro/",
+  "specifications": {
+    "Price": "PKR 8.86 - 10.03 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3495 x 1495 x 1580 mm",
+    "Ground Clearance": "155 mm",
+    "Displacement": "999 - 1086 cc",
+    "Transmission": "Manual",
+    "Horse Power": "61 hp",
+    "Torque": "97 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "845 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "35 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "155/70/R13"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Santro Club",
+      "price": "PKR 913,300",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/santro/club-2/"
+    },
+    {
+      "name": "Hyundai Santro Club GV",
+      "price": "PKR 1,003,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/santro/club-gv-cng/"
+    },
+    {
+      "name": "Hyundai Santro Exec",
+      "price": "PKR 929,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/santro/exec-2/"
+    },
+    {
+      "name": "Hyundai Santro Exec GV",
+      "price": "PKR 985,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/santro/exec-gv-cng/"
+    },
+    {
+      "name": "Hyundai Santro Prime",
+      "price": "PKR 885,500",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/santro/prime/"
+    },
+    {
+      "name": "Hyundai Santro Prime GV",
+      "price": "PKR 949,600",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/santro/prime-gv/"
+    }
+  ]
+}

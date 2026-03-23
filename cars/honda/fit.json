@@ -1,0 +1,35 @@
+{
+  "name": "Honda Fit",
+  "brand": "Honda",
+  "model": "Fit",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/12016/medium/Cover.jpg?1768564347",
+  "price_range": null,
+  "reviews": 11,
+  "link": "https://www.pakwheels.com/new-cars/honda/fit/",
+  "specifications": {
+    "Price": "PKR 51.80 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4043 x 1694 x 1537 mm",
+    "Ground Clearance": "141 mm",
+    "Displacement": "1498 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "119 hp",
+    "Torque": "145 Nm",
+    "Boot Space": "309 L",
+    "Kerb Weight": "1124 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "11 - 14 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "240 KM/H",
+    "Tyre Size": "185/55/R16"
+  },
+  "variants": [
+    {
+      "name": "Honda Fit 1.5 EXECUTIVE",
+      "price": "PKR 5,180,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/fit/1-5-executive/"
+    }
+  ]
+}

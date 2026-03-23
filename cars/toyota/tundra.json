@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Tundra",
+  "brand": "Toyota",
+  "model": "Tundra",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/3147/medium/2nd_Gen.jpg?1448965799",
+  "price_range": "PKR 72.90 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/tundra/",
+  "specifications": {
+    "Price": "PKR 175.00 lacs",
+    "Body Type": "Double Cabin",
+    "Dimensions (Length x Width x Height)": "5809 x 2029 x 1930 mm",
+    "Ground Clearance": "264 mm",
+    "Displacement": "5663 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "381 hp",
+    "Torque": "543 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1887 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "4 - 5 KM/L",
+    "Fuel Tank Capacity": "100 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "165/65/R17"
+  },
+  "variants": [
+    {
+      "name": "Toyota Tundra 5.7i",
+      "price": "PKR 7,290,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/tundra/5-7i/"
+    }
+  ]
+}

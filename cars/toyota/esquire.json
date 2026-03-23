@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Esquire",
+  "brand": "Toyota",
+  "model": "Esquire",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/15877/medium/Cover.jpg?1768567301",
+  "price_range": "PKR 48.95 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/esquire/",
+  "specifications": {
+    "Price": "PKR 48.95 lacs",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "4695 x 1695 x 1825 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1797 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "100 hp",
+    "Torque": "142 Nm",
+    "Boot Space": "474 L",
+    "Kerb Weight": "1620 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "7 - 10 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Esquire Gi",
+      "price": "PKR 4,895,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/esquire/gi/"
+    }
+  ]
+}

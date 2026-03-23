@@ -1,0 +1,35 @@
+{
+  "name": "MG 3",
+  "brand": "Mg",
+  "model": "MG 3",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8643/medium/Cover.jpg?1744798811",
+  "price_range": null,
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/mg/3/",
+  "specifications": {
+    "Price": "PKR 92.20 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4113 x 1797 x 1502 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "1498 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "101 hp (Combined)",
+    "Torque": "128 Nm (Combined)",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1298 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "12 - 16 KM/L",
+    "Fuel Tank Capacity": "36 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "170 KM/H",
+    "Tyre Size": "195/65/R16"
+  },
+  "variants": [
+    {
+      "name": "MG 3 Hybrid+ SE",
+      "price": "PKR 9,220,000",
+      "link": "https://www.pakwheels.com/new-cars/mg/3/hybrid-se/"
+    }
+  ]
+}

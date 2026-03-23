@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Noah",
+  "brand": "Toyota",
+  "model": "Noah",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16147/medium/Cover.jpg?1768567470",
+  "price_range": "PKR 48.35 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/toyota/noah/",
+  "specifications": {
+    "Price": "PKR 48.35 lacs",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "4695 x 1730 x 1845 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1797 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "134 hp (Combined)",
+    "Torque": "207 Nm (Combined)",
+    "Boot Space": "680 L",
+    "Kerb Weight": "1620 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "195/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Noah G",
+      "price": "PKR 4,835,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/noah/g--56/"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Toyota Pixis Epoch",
+  "brand": "Toyota",
+  "model": "Pixis Epoch",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/4747/medium/Toyota_Pixis_Epoch_.jpg?1768567490",
+  "price_range": null,
+  "reviews": 2,
+  "link": "https://www.pakwheels.com/new-cars/toyota/pixis/",
+  "specifications": {
+    "Price": "PKR 31.95 - 38.10 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1500 mm",
+    "Ground Clearance": "155 - 156 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "48 hp",
+    "Torque": "57 Nm",
+    "Boot Space": "0 - 250 L",
+    "Kerb Weight": "650 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 26 KM/L",
+    "Fuel Tank Capacity": "28 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "155/70/R13"
+  },
+  "variants": [
+    {
+      "name": "Toyota Pixis Epoch B",
+      "price": "PKR 3,195,400",
+      "link": "https://www.pakwheels.com/new-cars/toyota/pixis/b--2/"
+    },
+    {
+      "name": "Toyota Pixis Epoch G",
+      "price": "PKR 3,810,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/pixis/g--55/"
+    },
+    {
+      "name": "Toyota Pixis Epoch L",
+      "price": "PKR 3,420,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/pixis/l--26/"
+    },
+    {
+      "name": "Toyota Pixis Epoch X",
+      "price": "PKR 3,290,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/pixis/x--38/"
+    }
+  ]
+}

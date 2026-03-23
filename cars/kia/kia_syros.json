@@ -1,0 +1,35 @@
+{
+  "name": "KIA Syros",
+  "brand": "Kia",
+  "model": "KIA Syros",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8541/medium/Cover.jpg?1742364242",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/kia/syros/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Compact SUV",
+    "Dimensions (Length x Width x Height)": "3995 x 1805 x 1680 mm",
+    "Ground Clearance": "165 mm",
+    "Displacement": "998 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "118 hp",
+    "Torque": "172 Nm",
+    "Boot Space": "465 L",
+    "Kerb Weight": "1185 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 16 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "215/55/R17"
+  },
+  "variants": [
+    {
+      "name": "KIA Syros HTX",
+      "price": "-",
+      "link": "https://www.pakwheels.com/new-cars/kia/syros/htx/"
+    }
+  ]
+}

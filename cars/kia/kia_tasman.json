@@ -1,0 +1,35 @@
+{
+  "name": "KIA Tasman",
+  "brand": "Kia",
+  "model": "KIA Tasman",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8533/medium/Cover.jpg?1742360991",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/kia/tasman/",
+  "specifications": {
+    "Price": "PKR 2.50 crore",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "5400 x 1930 x 1920 mm",
+    "Ground Clearance": "252 mm",
+    "Displacement": "2497 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "277 hp",
+    "Torque": "422 Nm",
+    "Boot Space": "1000 L",
+    "Kerb Weight": "2150 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "75 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "150 KM/H",
+    "Tyre Size": "265/60/R18"
+  },
+  "variants": [
+    {
+      "name": "KIA Tasman X-Pro",
+      "price": "PKR 25,000,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/tasman/x-pro/"
+    }
+  ]
+}

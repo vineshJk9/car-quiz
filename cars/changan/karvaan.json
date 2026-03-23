@@ -1,0 +1,40 @@
+{
+  "name": "Changan Karvaan",
+  "brand": "Changan",
+  "model": "Karvaan",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/4835/medium/Changan_Karvaan_.jpg?1536237811",
+  "price_range": "PKR 31.49 - 32.99 lacs",
+  "reviews": 24,
+  "link": "https://www.pakwheels.com/new-cars/changan/karvaan/",
+  "specifications": {
+    "Price": "PKR 31.49 - 32.99 lacs",
+    "Body Type": "MPV, Mini Van",
+    "Dimensions (Length x Width x Height)": "3980 x 1620 x 1890 mm",
+    "Ground Clearance": "165 mm",
+    "Displacement": "998 - 1243 cc",
+    "Transmission": "Manual",
+    "Horse Power": "72 - 97 hp",
+    "Torque": "119 Nm",
+    "Boot Space": "0 - 120 L",
+    "Kerb Weight": "0 - 1140 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "120 - 180 KM/H",
+    "Tyre Size": "165/70/R14"
+  },
+  "variants": [
+    {
+      "name": "Changan Karvaan Comfort",
+      "price": "PKR 3,149,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/karvaan/comfort--5/"
+    },
+    {
+      "name": "Changan Karvaan Plus 1.2",
+      "price": "PKR 3,299,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/karvaan/plus-1-2/"
+    }
+  ]
+}

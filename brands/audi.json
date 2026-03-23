@@ -1,0 +1,159 @@
+{
+  "new_cars": [
+    {
+      "name": "Audi Q3",
+      "model": "Q3",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6476/medium/Audi_Q3.jpg?1768563246",
+      "price_range": "PKR 2.19 crore",
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/audi/q3/"
+    },
+    {
+      "name": "Audi Q6 e-tron",
+      "model": "Q6 e-tron",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/10040/medium/Cover.jpg?1762865872",
+      "price_range": "PKR 2.78 - 4.20 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/q6-e-tron/"
+    },
+    {
+      "name": "Audi A6 e-tron",
+      "model": "A6 e-tron",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/10365/medium/Cover.jpg?1768471992",
+      "price_range": "PKR 2.90 - 4.20 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/a6-e-tron/"
+    },
+    {
+      "name": "Audi e-tron GT",
+      "model": "e-tron GT",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/5519/medium/audi-gt-etron.jpg?1768563232",
+      "price_range": "PKR 5.70 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/e-tron-gt/"
+    },
+    {
+      "name": "Audi Q7",
+      "model": "Q7",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/10416/medium/Cover.jpg?1768563179",
+      "price_range": "PKR 7.60 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/q7/"
+    },
+    {
+      "name": "Audi Q8",
+      "model": "Q8",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16754/medium/Cover.jpg?1768992281",
+      "price_range": "PKR 8.65 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/q8/"
+    }
+  ],
+  "upcoming_cars": [],
+  "discontinued_cars": [
+    {
+      "name": "Audi A6",
+      "model": "A6",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6393/medium/Audi_A6_Front.jpg?1768563203",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/a6/"
+    },
+    {
+      "name": "Audi A4",
+      "model": "A4",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/10428/medium/Cover.jpg?1768563189",
+      "price_range": null,
+      "reviews": 8,
+      "link": "https://www.pakwheels.com/new-cars/audi/a4/"
+    },
+    {
+      "name": "Audi A5",
+      "model": "A5",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/4394/medium/Audi_A5_2017.jpg?1768563196",
+      "price_range": "PKR 1.29 - 2.28 crore",
+      "reviews": 4,
+      "link": "https://www.pakwheels.com/new-cars/audi/a5/"
+    },
+    {
+      "name": "Audi A3",
+      "model": "A3",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/5683/medium/61f9b21c0de14e30a4d7ae577e8cb4dc.jpg?1768563180",
+      "price_range": null,
+      "reviews": 6,
+      "link": "https://www.pakwheels.com/new-cars/audi/a3/"
+    },
+    {
+      "name": "Audi Q5",
+      "model": "Q5",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/10519/medium/Cover.jpg?1768563254",
+      "price_range": "PKR 1.30 crore",
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/audi/q5/"
+    },
+    {
+      "name": "Audi A8",
+      "model": "A8",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/8200/medium/Cover.jpg?1768563222",
+      "price_range": null,
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/audi/a8/"
+    },
+    {
+      "name": "Audi Q4 e-tron",
+      "model": "Q4 e-tron",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7887/medium/Cover..jpg?1735294499",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/q4-e-tron/"
+    },
+    {
+      "name": "Audi Q2",
+      "model": "Q2",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6398/medium/Audi_Q2_Front.jpg?1768563236",
+      "price_range": null,
+      "reviews": 2,
+      "link": "https://www.pakwheels.com/new-cars/audi/q2/"
+    },
+    {
+      "name": "Audi TT",
+      "model": "TT",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/10566/medium/Cover.jpg?1768563286",
+      "price_range": "PKR 1.94 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/tt/"
+    },
+    {
+      "name": "Audi A1",
+      "model": "A1",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10406/medium/Cover.jpg?1768563174",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/a1/"
+    },
+    {
+      "name": "Audi A7",
+      "model": "A7",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6396/medium/Audi_A7_Front.jpg?1768563212",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/a7/"
+    },
+    {
+      "name": "Audi R8",
+      "model": "R8",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10555/medium/Cover.jpg?1768563274",
+      "price_range": "PKR 7.12 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/r8/"
+    },
+    {
+      "name": "Audi S5",
+      "model": "S5",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7554/medium/latest-s5.jpg?1768563279",
+      "price_range": "PKR 2.50 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/audi/s5/"
+    }
+  ]
+}

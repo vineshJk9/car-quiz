@@ -1,0 +1,304 @@
+{
+  "new_cars": [
+    {
+      "name": "Suzuki Every",
+      "model": "Every",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/16753/medium/Cover.jpg?1768990933",
+      "price_range": "PKR 29.65 lacs",
+      "reviews": 16,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/every/"
+    },
+    {
+      "name": "Suzuki Alto",
+      "model": "Alto",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16749/medium/Cover.jpg?1768990406",
+      "price_range": "PKR 29.95 - 33.26 lacs",
+      "reviews": 238,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/alto/"
+    },
+    {
+      "name": "Suzuki Cultus",
+      "model": "Cultus",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6014/medium/Suzuki_Cultus_-_PNG.png?1768562638",
+      "price_range": "PKR 40.89 - 45.91 lacs",
+      "reviews": 276,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/cultus/"
+    },
+    {
+      "name": "Suzuki Swift",
+      "model": "Swift",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7311/medium/White-Base-PS.jpg?1768566947",
+      "price_range": "PKR 44.60 - 47.66 lacs",
+      "reviews": 209,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/swift/"
+    }
+  ],
+  "upcoming_cars": [
+    {
+      "name": "2026 Suzuki Fronx",
+      "model": "Fronx",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/10050/medium/Cover_%2811%29.jpg?1763460001",
+      "price_range": "Call For Price",
+      "reviews": null,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/fronx/2026/"
+    }
+  ],
+  "discontinued_cars": [
+    {
+      "name": "Suzuki Bolan",
+      "model": "Bolan",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/2975/medium/Suzuki_Bolan_2012.jpg?1768566786",
+      "price_range": "PKR 9.00 - 19.14 lacs",
+      "reviews": 13,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/bolan/"
+    },
+    {
+      "name": "Suzuki Khyber",
+      "model": "Khyber",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15162/medium/Cover.jpg?1768566842",
+      "price_range": "PKR 3.00 - 5.50 lacs",
+      "reviews": 8,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/khyber/"
+    },
+    {
+      "name": "Suzuki Baleno",
+      "model": "Baleno",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/8389/medium/Cover.jpg?1740638264",
+      "price_range": "PKR 10.80 lacs",
+      "reviews": 20,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/baleno/"
+    },
+    {
+      "name": "Suzuki Liana",
+      "model": "Liana",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/1026/medium/liana.jpg?1429727416",
+      "price_range": "PKR 7.00 - 17.64 lacs",
+      "reviews": 75,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/liana/"
+    },
+    {
+      "name": "Suzuki Margalla",
+      "model": "Margalla",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/7484/medium/3.jpg?1768566851",
+      "price_range": "PKR 3.96 - 5.85 lacs",
+      "reviews": 9,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/margalla/"
+    },
+    {
+      "name": "Suzuki FX",
+      "model": "FX",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15104/medium/Cover.jpg?1768566813",
+      "price_range": "PKR 1.84 lacs",
+      "reviews": 3,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/fx/"
+    },
+    {
+      "name": "Suzuki Jimny",
+      "model": "Jimny",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6828/medium/Controls.jpg?1768566836",
+      "price_range": null,
+      "reviews": 7,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/jimny/"
+    },
+    {
+      "name": "Suzuki Hustler",
+      "model": "Hustler",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15126/medium/Cover.jpg?1768566821",
+      "price_range": null,
+      "reviews": 8,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/hustler/"
+    },
+    {
+      "name": "Suzuki Every Wagon",
+      "model": "Every Wagon",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/9208/medium/Cover.jpg?1754398706",
+      "price_range": null,
+      "reviews": 3,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/every-wagon/"
+    },
+    {
+      "name": "Suzuki Spacia",
+      "model": "Spacia",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/15252/medium/Cover.jpg?1768566899",
+      "price_range": "PKR 24.08 - 42.00 lacs",
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/spacia/"
+    },
+    {
+      "name": "Suzuki Alto Lapin",
+      "model": "Alto Lapin",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8863/medium/Cover.jpg?1747046945",
+      "price_range": null,
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/alto-lapin/"
+    },
+    {
+      "name": "Suzuki Ciaz",
+      "model": "Ciaz",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/4439/medium/Suzuki_Ciaz_2017_%285%29.jpg?1768566798",
+      "price_range": "PKR 29.30 - 30.70 lacs",
+      "reviews": 38,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/ciaz/"
+    },
+    {
+      "name": "Suzuki Vitara",
+      "model": "Vitara",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/4306/medium/Suzuki_Vitara_2016_Pakistan.jpg?1768566968",
+      "price_range": "PKR 37.30 - 46.20 lacs",
+      "reviews": 14,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/vitara/"
+    },
+    {
+      "name": "Suzuki Kei",
+      "model": "Kei",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15161/medium/Cover.jpg?1768566842",
+      "price_range": "PKR 13.94 - 15.08 lacs",
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/kei/"
+    },
+    {
+      "name": "Suzuki Xbee",
+      "model": "Xbee",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6466/medium/Suzuki_Xbee.jpg?1768566986",
+      "price_range": null,
+      "reviews": 2,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/xbee/"
+    },
+    {
+      "name": "Suzuki MR Wagon",
+      "model": "MR Wagon",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6465/medium/Suzuki_MR_Wagon.jpg?1768566876",
+      "price_range": "PKR 14.00 - 25.56 lacs",
+      "reviews": 5,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/"
+    },
+    {
+      "name": "Suzuki Cervo",
+      "model": "Cervo",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6468/medium/Suzuki_Cervo.jpg?1768566796",
+      "price_range": "PKR 13.72 - 17.54 lacs",
+      "reviews": 3,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/cervo/"
+    },
+    {
+      "name": "Suzuki Mega Carry Xtra",
+      "model": "Mega Carry Xtra",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/4725/medium/Suzuki_Mega_Carry.jpg?1768566852",
+      "price_range": "PKR 20.30 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mega-carry/"
+    },
+    {
+      "name": "Suzuki Kizashi",
+      "model": "Kizashi",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/2382/medium/2.jpg?1433246197",
+      "price_range": "PKR 41.50 lacs",
+      "reviews": 6,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/kizashi/"
+    },
+    {
+      "name": "Suzuki Samurai",
+      "model": "Samurai",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6244/medium/Suzuki_Samurai_Front_Right_Angled_%282%29.jpg?1768566891",
+      "price_range": "PKR 10.23 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/samurai/"
+    },
+    {
+      "name": "Suzuki Palette",
+      "model": "Palette",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6212/medium/Suzuki_Palatte_Front_Right_Angled.jpg?1768566882",
+      "price_range": "PKR 18.40 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/palette/"
+    },
+    {
+      "name": "Suzuki Solio",
+      "model": "Solio",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6243/medium/Suzuki_Solio_Front_Right_Angled.jpg?1768566895",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/solio/"
+    },
+    {
+      "name": "Suzuki Aerio",
+      "model": "Aerio",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/10054/medium/Cover_%2814%29.jpg?1764226685",
+      "price_range": "PKR 16.50 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/aerio/"
+    },
+    {
+      "name": "Suzuki Cappuccino",
+      "model": "Cappuccino",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6470/medium/Suzuki_Cappuccino.jpg?1768566792",
+      "price_range": "PKR 14.60 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/cappuccino/"
+    },
+    {
+      "name": "Suzuki Ignis",
+      "model": "Ignis",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/15139/medium/Cover.jpg?1768566825",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/ignis/"
+    },
+    {
+      "name": "Suzuki Landy",
+      "model": "Landy",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6333/medium/Suzuki_Landy_Front_Right_Angled.jpg?1768566850",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/landy/"
+    },
+    {
+      "name": "Suzuki Splash",
+      "model": "Splash",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6264/medium/Suzuki_Splash_Front_RIght_Angled.jpg?1768566904",
+      "price_range": "PKR 41.00 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/splash/"
+    },
+    {
+      "name": "Suzuki Sx4",
+      "model": "Sx4",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6469/medium/Suzuki_SX4.jpg?1768566952",
+      "price_range": "PKR 21.70 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/sx4/"
+    },
+    {
+      "name": "Suzuki Celerio",
+      "model": "Celerio",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/9257/medium/Cover.jpg?1757941632",
+      "price_range": "PKR 27.88 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/celerio/"
+    },
+    {
+      "name": "Suzuki Ertiga",
+      "model": "Ertiga",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6472/medium/Suzuki_Ertiga.jpg?1768566809",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/ertiga/"
+    },
+    {
+      "name": "Suzuki S Cross",
+      "model": "S Cross",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6429/medium/Suzuki_S_Cross_Front.jpg?1768566957",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/s-cross/"
+    },
+    {
+      "name": "Suzuki Twin",
+      "model": "Twin",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6471/medium/Suzuki_Twin.jpg?1768566961",
+      "price_range": "PKR 10.00 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/suzuki/twin/"
+    }
+  ]
+}

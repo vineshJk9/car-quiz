@@ -1,0 +1,75 @@
+{
+  "name": "Suzuki MR Wagon",
+  "brand": "Suzuki",
+  "model": "MR Wagon",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6465/medium/Suzuki_MR_Wagon.jpg?1768566876",
+  "price_range": "PKR 14.00 - 25.56 lacs",
+  "reviews": 5,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Mini Van, Micro Van,Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1625 mm",
+    "Ground Clearance": "155 - 160 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "51 - 54 hp",
+    "Torque": "63 Nm",
+    "Boot Space": "210 L",
+    "Kerb Weight": "790 - 820 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "15 - 20 KM/L",
+    "Fuel Tank Capacity": "27 - 30 L",
+    "Seating Capacity": "4 - 5 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "145/80/R13"
+  },
+  "variants": [
+    {
+      "name": "Suzuki MR Wagon 10TH ANNIVERSARY LIMITED",
+      "price": "PKR 2,267,500",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/10th-anniversary-limited--11/"
+    },
+    {
+      "name": "Suzuki MR Wagon ECO-L",
+      "price": "PKR 2,005,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/eco-l--2/"
+    },
+    {
+      "name": "Suzuki MR Wagon ECO-X",
+      "price": "PKR 1,610,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/eco-x/"
+    },
+    {
+      "name": "Suzuki MR Wagon ECO-X SELECTION",
+      "price": "PKR 2,556,460",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/eco-x-selection/"
+    },
+    {
+      "name": "Suzuki MR Wagon G",
+      "price": "PKR 1,852,500",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/g--7/"
+    },
+    {
+      "name": "Suzuki MR Wagon L",
+      "price": "PKR 1,400,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/l/"
+    },
+    {
+      "name": "Suzuki MR Wagon X",
+      "price": "PKR 1,630,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/x--11/"
+    },
+    {
+      "name": "Suzuki MR Wagon X IDLING STOP",
+      "price": "PKR 1,850,500",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/x-idling-stop/"
+    },
+    {
+      "name": "Suzuki MR Wagon X SELECTION",
+      "price": "PKR 1,600,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mr-wagon/x-selection--2/"
+    }
+  ]
+}

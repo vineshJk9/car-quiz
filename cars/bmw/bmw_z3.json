@@ -1,0 +1,35 @@
+{
+  "name": "BMW Z3",
+  "brand": "Bmw",
+  "model": "BMW Z3",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/5903/medium/BMW_Z3_2002.jpg?1768563480",
+  "price_range": "PKR 39.95 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/z3/",
+  "specifications": {
+    "Price": "PKR 39.95 lacs",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "4025 x 1740 x 1266 mm",
+    "Ground Clearance": "0 mm",
+    "Displacement": "3201 cc",
+    "Transmission": "Manual",
+    "Horse Power": "320 hp",
+    "Torque": "350 Nm",
+    "Boot Space": "165 L",
+    "Kerb Weight": "1425 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "5 - 7 KM/L",
+    "Fuel Tank Capacity": "51 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "225 KM/H",
+    "Tyre Size": "225/40/R18"
+  },
+  "variants": [
+    {
+      "name": "BMW Z3 M Roadster",
+      "price": "PKR 3,995,027",
+      "link": "https://www.pakwheels.com/new-cars/bmw/z3/m-roadster--2/"
+    }
+  ]
+}

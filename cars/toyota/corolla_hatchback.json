@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Corolla Hatchback",
+  "brand": "Toyota",
+  "model": "Corolla Hatchback",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/15760/medium/Cover.jpg?1768567196",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/corolla-hatchback/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4375 x 1790 x 1435 mm",
+    "Ground Clearance": "139 mm",
+    "Displacement": "1797 - 1798 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "96 hp (Combined)",
+    "Torque": "142 Nm (Combined)",
+    "Boot Space": "503 L",
+    "Kerb Weight": "1390 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "25 - 28 KM/L",
+    "Fuel Tank Capacity": "43 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "205/55/R18"
+  },
+  "variants": [
+    {
+      "name": "Toyota Corolla Hatchback Sport",
+      "price": "PKR 7,850,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-hatchback/sports--3/"
+    },
+    {
+      "name": "Toyota Corolla Hatchback Sport Hybrid GZ",
+      "price": "PKR 7,330,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/corolla-hatchback/sport-hybrid-gz/"
+    }
+  ]
+}

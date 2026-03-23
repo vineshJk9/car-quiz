@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Mega Carry Xtra",
+  "brand": "Suzuki",
+  "model": "Mega Carry Xtra",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/4725/medium/Suzuki_Mega_Carry.jpg?1768566852",
+  "price_range": "PKR 20.30 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/mega-carry/",
+  "specifications": {
+    "Price": "PKR 22.00 - 28.00 lacs",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "4405 x 1750 x 1865 mm",
+    "Ground Clearance": "190 mm",
+    "Displacement": "1493 cc",
+    "Transmission": "Manual",
+    "Horse Power": "124 hp",
+    "Torque": "126 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1100 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "11 - 13 KM/L",
+    "Fuel Tank Capacity": "46 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/70/R14"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Mega Carry Xtra Manual",
+      "price": "PKR 2,030,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/mega-carry/manual--3/"
+    }
+  ]
+}

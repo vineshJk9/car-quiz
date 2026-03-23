@@ -1,0 +1,35 @@
+{
+  "name": "Hyundai Accent",
+  "brand": "Hyundai",
+  "model": "Accent",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/4737/medium/Hyundai_Accent.jpg?1768564539",
+  "price_range": "PKR 50.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/accent/",
+  "specifications": {
+    "Price": "PKR 50.00 lacs",
+    "Body Type": "Compact sedan",
+    "Dimensions (Length x Width x Height)": "4535 x 1765 x 1475 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "1600 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "130 hp",
+    "Torque": "162 Nm",
+    "Boot Space": "370 L",
+    "Kerb Weight": "1170 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "11 - 16 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/65/15"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Accent LE",
+      "price": "PKR 5,000,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/accent/le/"
+    }
+  ]
+}

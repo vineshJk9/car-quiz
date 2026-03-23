@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Palette",
+  "brand": "Suzuki",
+  "model": "Palette",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6212/medium/Suzuki_Palatte_Front_Right_Angled.jpg?1768566882",
+  "price_range": "PKR 18.40 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/palette/",
+  "specifications": {
+    "Price": "PKR 18.40 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1735 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "54 hp",
+    "Torque": "63 Nm",
+    "Boot Space": "310 L",
+    "Kerb Weight": "940 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "15 - 18 KM/L",
+    "Fuel Tank Capacity": "30 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "165/55/R14"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Palette SW Limited",
+      "price": "PKR 1,840,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/palette/sw-limited/"
+    }
+  ]
+}

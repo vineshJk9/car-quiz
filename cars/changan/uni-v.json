@@ -1,0 +1,35 @@
+{
+  "name": "Changan UNI-V",
+  "brand": "Changan",
+  "model": "UNI-V",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/9819/medium/Cover.jpg?1760610239",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/changan/uni-v/",
+  "specifications": {
+    "Price": "PKR 1.70 crore",
+    "Body Type": "Compact sedan",
+    "Dimensions (Length x Width x Height)": "4705 x 1838 x 1430 mm",
+    "Ground Clearance": "154 mm",
+    "Displacement": "1999 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "229 hp",
+    "Torque": "390 Nm",
+    "Boot Space": "409 L",
+    "Kerb Weight": "1396 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "11 - 14 KM/L",
+    "Fuel Tank Capacity": "51 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "235/45/R18"
+  },
+  "variants": [
+    {
+      "name": "Changan UNI-V Sport",
+      "price": "PKR 17,000,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/uni-v/sport--4/"
+    }
+  ]
+}

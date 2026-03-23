@@ -1,0 +1,45 @@
+{
+  "name": "Changan Alsvin",
+  "brand": "Changan",
+  "model": "Alsvin",
+  "status": "new",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6015/medium/Alsvin_-_PNG.png?1768563564",
+  "price_range": "PKR 37.89 - 45.99 lacs",
+  "reviews": 116,
+  "link": "https://www.pakwheels.com/new-cars/changan/alsvin/",
+  "specifications": {
+    "Price": "PKR 37.89 - 45.99 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4390 x 1725 x 1490 mm",
+    "Ground Clearance": "151 mm",
+    "Displacement": "1370 - 1480 cc",
+    "Transmission": "Manual & Automatic",
+    "Horse Power": "99 - 105 hp",
+    "Torque": "135 - 145 Nm",
+    "Boot Space": "0 - 436 L",
+    "Kerb Weight": "1100 - 1120 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 18 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 - 200 KM/H",
+    "Tyre Size": "185/55/R15"
+  },
+  "variants": [
+    {
+      "name": "Changan Alsvin 1.3L MT Comfort",
+      "price": "PKR 3,789,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/alsvin/1-3l-mt-comfort/"
+    },
+    {
+      "name": "Changan Alsvin 1.5L DCT Lumiere",
+      "price": "PKR 4,499,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/alsvin/1-5l-dct-lumiere/"
+    },
+    {
+      "name": "Changan Alsvin Black Edition",
+      "price": "PKR 4,599,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/alsvin/black-edition--2/"
+    }
+  ]
+}

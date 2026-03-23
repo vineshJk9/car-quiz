@@ -1,0 +1,45 @@
+{
+  "name": "Suzuki Cultus",
+  "brand": "Suzuki",
+  "model": "Cultus",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/6014/medium/Suzuki_Cultus_-_PNG.png?1768562638",
+  "price_range": "PKR 40.89 - 45.91 lacs",
+  "reviews": 276,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/cultus/",
+  "specifications": {
+    "Price": "PKR 40.89 - 45.91 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3600 x 1600 x 1540 mm",
+    "Ground Clearance": "145 mm",
+    "Displacement": "998 cc",
+    "Transmission": "Manual & Automatic",
+    "Horse Power": "67 hp",
+    "Torque": "90 Nm",
+    "Boot Space": "254 L",
+    "Kerb Weight": "785 - 795 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "16 - 18 KM/L",
+    "Fuel Tank Capacity": "35 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "165/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Cultus VXR",
+      "price": "PKR 4,089,490",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/cultus/vxr/"
+    },
+    {
+      "name": "Suzuki Cultus VXL",
+      "price": "PKR 4,359,160",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/cultus/vxl-2/"
+    },
+    {
+      "name": "Suzuki Cultus Auto Gear Shift",
+      "price": "PKR 4,591,460",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/cultus/auto-gear-shift-vxl/"
+    }
+  ]
+}

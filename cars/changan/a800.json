@@ -1,0 +1,35 @@
+{
+  "name": "Changan A800",
+  "brand": "Changan",
+  "model": "A800",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/10963/medium/Cover.jpg?1768563560",
+  "price_range": "PKR 1.30 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/changan/a800/",
+  "specifications": {
+    "Price": "PKR 1.30 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4810 x 1795 x 1750 mm",
+    "Ground Clearance": "143 mm",
+    "Displacement": "1499 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "154 hp",
+    "Torque": "225 Nm",
+    "Boot Space": "349 L",
+    "Kerb Weight": "1396 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 15 KM/L",
+    "Fuel Tank Capacity": "65 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "200 KM/H",
+    "Tyre Size": "205/55/R16"
+  },
+  "variants": [
+    {
+      "name": "Changan A800 1.5T",
+      "price": "PKR 13,000,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/a800/1-5t--2/"
+    }
+  ]
+}

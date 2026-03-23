@@ -1,0 +1,60 @@
+{
+  "name": "Toyota Hilux",
+  "brand": "Toyota",
+  "model": "Hilux",
+  "status": "new",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/16960/medium/Cover.jpg?1772165892",
+  "price_range": "PKR 1.14 - 1.58 crore",
+  "reviews": 27,
+  "link": "https://www.pakwheels.com/new-cars/toyota/hilux/",
+  "specifications": {
+    "Price": "PKR 1.14 - 1.58 crore",
+    "Body Type": "Double Cabin, Pick Up,Truck",
+    "Dimensions (Length x Width x Height)": "5325 x 1855 x 1815 mm",
+    "Ground Clearance": "215 - 310 mm",
+    "Displacement": "2393 - 2755 cc",
+    "Transmission": "Automatic & Manual",
+    "Horse Power": "120 - 201 hp",
+    "Torque": "360 - 500 Nm",
+    "Boot Space": "0 - 744 L",
+    "Kerb Weight": "1990 - 2060 KG",
+    "Fuel Type": "Diesel",
+    "Mileage": "8 - 13 KM/L",
+    "Fuel Tank Capacity": "80 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 - 200 KM/H",
+    "Tyre Size": "265/60/18"
+  },
+  "variants": [
+    {
+      "name": "Toyota Hilux E",
+      "price": "PKR 11,379,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/hilux/e--9/"
+    },
+    {
+      "name": "Toyota Hilux Revo G 2.8",
+      "price": "PKR 12,329,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/hilux/revo-g-2-8/"
+    },
+    {
+      "name": "Toyota Hilux Revo G Automatic 2.8",
+      "price": "PKR 12,939,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/hilux/revo-g-automatic-2-8/"
+    },
+    {
+      "name": "Toyota Hilux Revo V Automatic 2.8",
+      "price": "PKR 14,279,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/hilux/revo-v-automatic-2-8/"
+    },
+    {
+      "name": "Toyota Hilux Revo Rocco",
+      "price": "PKR 14,869,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/hilux/revo-rocco/"
+    },
+    {
+      "name": "Toyota Hilux Revo GR-S",
+      "price": "PKR 15,839,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/hilux/revo-gr-s/"
+    }
+  ]
+}

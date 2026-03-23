@@ -1,0 +1,35 @@
+{
+  "name": "Changan UNI-T",
+  "brand": "Changan",
+  "model": "UNI-T",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6053/medium/Uni_T_-_PNG.png?1768563651",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/changan/uni-t/",
+  "specifications": {
+    "Price": "PKR 1.46 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4515 x 1870 x 1565 mm",
+    "Ground Clearance": "0 mm",
+    "Displacement": "1987 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "179 hp",
+    "Torque": "300 Nm",
+    "Boot Space": "350 L",
+    "Kerb Weight": "1570 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "9 - 11 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "215 KM/H",
+    "Tyre Size": "245/45/R20"
+  },
+  "variants": [
+    {
+      "name": "Changan UNI-T 2.0T",
+      "price": "PKR 14,600,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/uni-t/2-0t/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "BMW Z8",
+  "brand": "Bmw",
+  "model": "BMW Z8",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6239/medium/BMW-Z8-Front-Right-Angled.jpg?1768563494",
+  "price_range": "PKR 3.90 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/z8/",
+  "specifications": {
+    "Price": "PKR 3.90 crore",
+    "Body Type": "Convertible",
+    "Dimensions (Length x Width x Height)": "4399 x 1829 x 1318 mm",
+    "Ground Clearance": "120 mm",
+    "Displacement": "4941 cc",
+    "Transmission": "Manual",
+    "Horse Power": "400 hp",
+    "Torque": "500 Nm",
+    "Boot Space": "144 L",
+    "Kerb Weight": "1585 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "7 - 9 KM/L",
+    "Fuel Tank Capacity": "73 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "275/40/R18"
+  },
+  "variants": [
+    {
+      "name": "BMW Z8 Roadster",
+      "price": "PKR 39,000,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/z8/roadster--2/"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Honda Life",
+  "brand": "Honda",
+  "model": "Life",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/1107/medium/10202012_201206cin.jpg?1768564414",
+  "price_range": "PKR 7.00 - 23.03 lacs",
+  "reviews": 3,
+  "link": "https://www.pakwheels.com/new-cars/honda/life/",
+  "specifications": {
+    "Price": "PKR 7.00 - 23.03 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1630 mm",
+    "Ground Clearance": "143 - 155 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "51 - 63 hp",
+    "Torque": "20 - 95 Nm",
+    "Boot Space": "150 - 254 L",
+    "Kerb Weight": "840 - 950 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 23 KM/L",
+    "Fuel Tank Capacity": "30 - 31 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "155/65/R13"
+  },
+  "variants": [
+    {
+      "name": "Honda Life C",
+      "price": "PKR 2,136,500",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/c/"
+    },
+    {
+      "name": "Honda Life C Special Edition Comfort Special",
+      "price": "PKR 2,211,500",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/c-special-edition-comfort-special/"
+    },
+    {
+      "name": "Honda Life Diva",
+      "price": "PKR 2,070,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/diva-2/"
+    },
+    {
+      "name": "Honda Life Diva Cool Select",
+      "price": "PKR 1,300,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/diva-cool-select/"
+    },
+    {
+      "name": "Honda Life Diva Smart Special",
+      "price": "PKR 1,295,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/diva-smart-special/"
+    },
+    {
+      "name": "Honda Life Diva Smart Style",
+      "price": "PKR 2,200,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/diva-smart-style/"
+    },
+    {
+      "name": "Honda Life Diva Turbo",
+      "price": "PKR 1,650,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/diva-turbo/"
+    },
+    {
+      "name": "Honda Life Diva Turbo Cool Select",
+      "price": "PKR 700,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/diva-turbo-cool-select/"
+    },
+    {
+      "name": "Honda Life Diva Turbo Package",
+      "price": "PKR 1,385,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/diva-turbo-package/"
+    },
+    {
+      "name": "Honda Life Diva Turbo Smart Style",
+      "price": "PKR 1,550,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/diva-turbo-smart-style/"
+    },
+    {
+      "name": "Honda Life G",
+      "price": "PKR 2,055,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/g/"
+    },
+    {
+      "name": "Honda Life G Comfort Select",
+      "price": "PKR 1,888,500",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/g-comfort-select/"
+    },
+    {
+      "name": "Honda Life G Smart Plus",
+      "price": "PKR 1,927,500",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/g-smart-plus/"
+    },
+    {
+      "name": "Honda Life G Special Edition HID Smart Special",
+      "price": "PKR 2,302,500",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/g-special-edition-hid-smart-special/"
+    },
+    {
+      "name": "Honda Life Pastel HID Special",
+      "price": "PKR 1,891,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/pastel-hid-special/"
+    },
+    {
+      "name": "Honda Life Pastel Turbo",
+      "price": "PKR 1,290,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/pastel-turbo/"
+    },
+    {
+      "name": "Honda Life Pastel Turbo HID Special",
+      "price": "PKR 1,290,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/pastel-turbo-hid-special/"
+    },
+    {
+      "name": "Honda Life Special",
+      "price": "PKR 1,941,300",
+      "link": "https://www.pakwheels.com/new-cars/honda/life/special/"
+    }
+  ]
+}

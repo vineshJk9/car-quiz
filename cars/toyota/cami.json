@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Cami",
+  "brand": "Toyota",
+  "model": "Cami",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/15617/medium/Cover.jpg?1768567099",
+  "price_range": "PKR 17.70 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/cami/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "3785 x 1555 x 1760 mm",
+    "Ground Clearance": "195 mm",
+    "Displacement": "1300 cc",
+    "Transmission": "Manual",
+    "Horse Power": "92 hp",
+    "Torque": "107 Nm",
+    "Boot Space": "260 L",
+    "Kerb Weight": "1070 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "46 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "205/70/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Cami Q",
+      "price": "PKR 1,770,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/cami/q/"
+    }
+  ]
+}

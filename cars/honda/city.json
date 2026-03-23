@@ -1,0 +1,45 @@
+{
+  "name": "Honda City",
+  "brand": "Honda",
+  "model": "City",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16740/medium/Cover.jpg?1768988801",
+  "price_range": "PKR 47.37 - 61.49 lacs",
+  "reviews": 476,
+  "link": "https://www.pakwheels.com/new-cars/honda/city/",
+  "specifications": {
+    "Price": "PKR 47.37 - 61.49 lacs",
+    "Body Type": "Compact sedan,Sedan",
+    "Dimensions (Length x Width x Height)": "4441 x 1694 x 1498 mm",
+    "Ground Clearance": "172 mm",
+    "Displacement": "1199 - 1497 cc",
+    "Transmission": "Manual & Automatic",
+    "Horse Power": "88 - 118 hp",
+    "Torque": "110 - 145 Nm",
+    "Boot Space": "510 L",
+    "Kerb Weight": "1178 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 16 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 - 200 KM/H",
+    "Tyre Size": "175/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Honda City 1.2L CVT",
+      "price": "PKR 4,737,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/city/1-2l-cvt/"
+    },
+    {
+      "name": "Honda City 1.5L ASPIRE CVT",
+      "price": "PKR 6,069,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/city/1-5l-aspire-cvt/"
+    },
+    {
+      "name": "Honda City 1.5L ASPIRE S CVT",
+      "price": "PKR 6,149,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/city/1-5l-aspire-s-cvt/"
+    }
+  ]
+}

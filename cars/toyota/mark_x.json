@@ -1,0 +1,85 @@
+{
+  "name": "Toyota Mark X",
+  "brand": "Toyota",
+  "model": "Mark X",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/2877/medium/Toyota_Mark_X_2nd.jpg?1768567457",
+  "price_range": "PKR 31.00 lacs - 1.02 crore",
+  "reviews": 7,
+  "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/",
+  "specifications": {
+    "Price": "PKR 31.00 lacs - 1.02 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4770 x 1795 x 1435 mm",
+    "Ground Clearance": "0 - 155 mm",
+    "Displacement": "2499 - 3456 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "200 - 318 hp",
+    "Torque": "243 - 387 Nm",
+    "Boot Space": "0 - 437 L",
+    "Kerb Weight": "1510 - 1580 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "6 - 15 KM/L",
+    "Fuel Tank Capacity": "71 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "235/45/R18"
+  },
+  "variants": [
+    {
+      "name": "Toyota Mark X 250 G Four",
+      "price": "PKR 3,100,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/250-g-four/"
+    },
+    {
+      "name": "Toyota Mark X 250 RDS",
+      "price": "PKR 3,250,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/250-rds/"
+    },
+    {
+      "name": "Toyota Mark X 250G",
+      "price": "PKR 6,540,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/250g-2/"
+    },
+    {
+      "name": "Toyota Mark X 250G F Package",
+      "price": "PKR 8,900,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/250g-f-package/"
+    },
+    {
+      "name": "Toyota Mark X 250G Four Black Leather Limited",
+      "price": "PKR 8,500,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/250g-four-black-leather-limited/"
+    },
+    {
+      "name": "Toyota Mark X 250G Four Black Limited",
+      "price": "PKR 10,150,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/250g-four-black-limited/"
+    },
+    {
+      "name": "Toyota Mark X 250G Relax Selection Black Leather Limited",
+      "price": "PKR 7,805,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/250g-relax-selection-black-leather-limited/"
+    },
+    {
+      "name": "Toyota Mark X 250G S Package",
+      "price": "PKR 10,050,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/250g-s-package/"
+    },
+    {
+      "name": "Toyota Mark X 250G S Package Relax Selection",
+      "price": "PKR 7,350,500",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/250g-s-package-relax-selection/"
+    },
+    {
+      "name": "Toyota Mark X 350 RDS",
+      "price": "PKR 9,600,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/350-rds/"
+    },
+    {
+      "name": "Toyota Mark X Premium",
+      "price": "PKR 8,510,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/mark-x/premium/"
+    }
+  ]
+}

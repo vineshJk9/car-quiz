@@ -1,0 +1,175 @@
+{
+  "new_cars": [
+    {
+      "name": "KIA Picanto",
+      "model": "KIA Picanto",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6017/medium/Picanto_-_PNG.png?1768564737",
+      "price_range": "PKR 40.90 lacs",
+      "reviews": 109,
+      "link": "https://www.pakwheels.com/new-cars/kia/picanto/"
+    },
+    {
+      "name": "KIA Shehzore K2700",
+      "model": "KIA Shehzore K2700",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/7729/medium/Kia-shezore-singlecabin.png?1717588161",
+      "price_range": "PKR 42.59 - 74.99 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/shehzore--3/"
+    },
+    {
+      "name": "KIA Stonic",
+      "model": "KIA Stonic",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16838/medium/Cover.jpg?1769009520",
+      "price_range": "PKR 48.62 - 59.99 lacs",
+      "reviews": 28,
+      "link": "https://www.pakwheels.com/new-cars/kia/stonic/"
+    },
+    {
+      "name": "KIA Sportage L",
+      "model": "KIA Sportage L",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8102/medium/Cover.jpg?1738231817",
+      "price_range": "PKR 88.99 lacs - 1.13 crore",
+      "reviews": 11,
+      "link": "https://www.pakwheels.com/new-cars/kia/sportage-l/"
+    },
+    {
+      "name": "KIA Sorento",
+      "model": "KIA Sorento",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/8830/medium/Cover.jpg?1746622927",
+      "price_range": "PKR 1.36 - 1.67 crore",
+      "reviews": 22,
+      "link": "https://www.pakwheels.com/new-cars/kia/sorento/"
+    },
+    {
+      "name": "KIA Carnival",
+      "model": "KIA Carnival",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7988/medium/Cover.jpg?1737101800",
+      "price_range": "PKR 1.82 crore",
+      "reviews": 11,
+      "link": "https://www.pakwheels.com/new-cars/kia/carnival/"
+    },
+    {
+      "name": "KIA EV5",
+      "model": "KIA EV5",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/8818/medium/Cover.jpg?1746442671",
+      "price_range": "PKR 1.85 - 2.35 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/ev5/"
+    },
+    {
+      "name": "KIA EV9",
+      "model": "KIA EV9",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8137/medium/Cover.jpg?1738825619",
+      "price_range": "PKR 4.32 crore",
+      "reviews": 2,
+      "link": "https://www.pakwheels.com/new-cars/kia/ev9/"
+    }
+  ],
+  "upcoming_cars": [],
+  "discontinued_cars": [
+    {
+      "name": "KIA Sportage",
+      "model": "KIA Sportage",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7734/medium/Sportage_white.jpeg?1768564766",
+      "price_range": "PKR 57.78 - 86.11 lacs",
+      "reviews": 59,
+      "link": "https://www.pakwheels.com/new-cars/kia/sportage/"
+    },
+    {
+      "name": "KIA Classic",
+      "model": "KIA Classic",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/12637/medium/Cover.jpg?1768564723",
+      "price_range": "PKR 3.59 lacs",
+      "reviews": 2,
+      "link": "https://www.pakwheels.com/new-cars/kia/classic/"
+    },
+    {
+      "name": "KIA Spectra",
+      "model": "KIA Spectra",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/12699/medium/Cover.jpg?1768564760",
+      "price_range": "PKR 5.82 - 6.22 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/spectra/"
+    },
+    {
+      "name": "KIA Pride",
+      "model": "KIA Pride",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12673/medium/Cover.jpg?1768564741",
+      "price_range": "PKR 3.85 - 4.72 lacs",
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/kia/pride/"
+    },
+    {
+      "name": "KIA Rio",
+      "model": "KIA Rio",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6056/medium/RIO_-_PNG.png?1637143903",
+      "price_range": "PKR 40.35 lacs",
+      "reviews": 2,
+      "link": "https://www.pakwheels.com/new-cars/kia/rio/"
+    },
+    {
+      "name": "KIA Ceres",
+      "model": "KIA Ceres",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7896/medium/Cover_%289%29.jpg?1735732128",
+      "price_range": "PKR 12.60 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/ceres/"
+    },
+    {
+      "name": "KIA Carens",
+      "model": "KIA Carens",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/8520/medium/Cover.jpg?1742360780",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/carens/"
+    },
+    {
+      "name": "KIA Cerato",
+      "model": "KIA Cerato",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6461/medium/KIA_Cerato.jpg?1768564722",
+      "price_range": "PKR 90.00 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/cerato/"
+    },
+    {
+      "name": "KIA K5",
+      "model": "KIA K5",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7502/medium/kia-K5.jpg?1768564729",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/k5/"
+    },
+    {
+      "name": "KIA Niro",
+      "model": "KIA Niro",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/12666/medium/Cover.jpg?1768564733",
+      "price_range": "PKR 60.00 - 85.00 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/niro/"
+    },
+    {
+      "name": "KIA Stinger",
+      "model": "KIA Stinger",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/12721/medium/Cover.jpg?1768564776",
+      "price_range": "PKR 5.70 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/stinger/"
+    },
+    {
+      "name": "KIA Syros",
+      "model": "KIA Syros",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8541/medium/Cover.jpg?1742364242",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/syros/"
+    },
+    {
+      "name": "KIA Tasman",
+      "model": "KIA Tasman",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8533/medium/Cover.jpg?1742360991",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/kia/tasman/"
+    }
+  ]
+}

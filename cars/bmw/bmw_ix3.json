@@ -1,0 +1,37 @@
+{
+  "name": "BMW iX3",
+  "brand": "Bmw",
+  "model": "BMW iX3",
+  "status": "new",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/16793/medium/Cover.jpg?1768995631",
+  "price_range": "PKR 3.30 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/ix3/",
+  "specifications": {
+    "Price": "PKR 3.30 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4734 x 2138 x 1668 mm",
+    "Ground Clearance": "190 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "286 hp",
+    "Torque": "-",
+    "Boot Space": "510 L",
+    "Kerb Weight": "2260 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "73.8 kWh",
+    "Range": "458 km",
+    "Charging Time": "7.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "245/50/R19"
+  },
+  "variants": [
+    {
+      "name": "BMW iX3 M Sport",
+      "price": "PKR 33,000,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/ix3/m-sport/"
+    }
+  ]
+}

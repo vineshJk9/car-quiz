@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Cappuccino",
+  "brand": "Suzuki",
+  "model": "Cappuccino",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6470/medium/Suzuki_Cappuccino.jpg?1768566792",
+  "price_range": "PKR 14.60 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/cappuccino/",
+  "specifications": {
+    "Price": "PKR 14.60 lacs",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "3295 x 1395 x 1185 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "657 cc",
+    "Transmission": "Manual",
+    "Horse Power": "64 hp",
+    "Torque": "85 Nm",
+    "Boot Space": "108 L",
+    "Kerb Weight": "700 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 16 KM/L",
+    "Fuel Tank Capacity": "30 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "165/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Cappuccino 0.7",
+      "price": "PKR 1,460,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/cappuccino/0-7/"
+    }
+  ]
+}

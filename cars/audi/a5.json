@@ -1,0 +1,40 @@
+{
+  "name": "Audi A5",
+  "brand": "Audi",
+  "model": "A5",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/4394/medium/Audi_A5_2017.jpg?1768563196",
+  "price_range": "PKR 1.29 - 2.28 crore",
+  "reviews": 4,
+  "link": "https://www.pakwheels.com/new-cars/audi/a5/",
+  "specifications": {
+    "Price": "PKR 1.29 - 2.28 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4733 x 1843 x 1386 mm",
+    "Ground Clearance": "114 - 120 mm",
+    "Displacement": "1395 - 1984 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "150 - 204 hp",
+    "Torque": "250 - 320 Nm",
+    "Boot Space": "465 - 480 L",
+    "Kerb Weight": "1500 - 1660 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "14 - 20 KM/L",
+    "Fuel Tank Capacity": "54 - 58 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "210 KM/H",
+    "Tyre Size": "245/40/R18"
+  },
+  "variants": [
+    {
+      "name": "Audi A5 1.4 TFSI Sportback",
+      "price": "PKR 12,900,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a5/sportsback/"
+    },
+    {
+      "name": "Audi A5 40 TFSI quattro S tronic",
+      "price": "PKR 22,800,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/a5/40-tfsi-quattro-s-tronic--2/"
+    }
+  ]
+}

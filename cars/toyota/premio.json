@@ -1,0 +1,120 @@
+{
+  "name": "Toyota Premio",
+  "brand": "Toyota",
+  "model": "Premio",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10375/medium/Cover.jpg?1768556672",
+  "price_range": "PKR 21.50 - 71.80 lacs",
+  "reviews": 13,
+  "link": "https://www.pakwheels.com/new-cars/toyota/premio/",
+  "specifications": {
+    "Price": "PKR 28.90 - 75.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4595 x 1695 x 1475 mm",
+    "Ground Clearance": "157 - 160 mm",
+    "Displacement": "1496 - 1986 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "109 - 152 hp",
+    "Torque": "136 - 195 Nm",
+    "Boot Space": "0 - 475 L",
+    "Kerb Weight": "1200 - 1330 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "14 - 20 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Premio F 1.5",
+      "price": "PKR 3,663,500",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/1-5l-f/"
+    },
+    {
+      "name": "Toyota Premio F EX Package 1.5",
+      "price": "PKR 7,180,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/f-ex-package-1-5/"
+    },
+    {
+      "name": "Toyota Premio F L Package 1.5",
+      "price": "PKR 4,290,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/f-l-package-1-5/"
+    },
+    {
+      "name": "Toyota Premio F L Package Prime Green Selection 1.5",
+      "price": "PKR 5,835,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/f-l-package-prime-green-selection-1-5/"
+    },
+    {
+      "name": "Toyota Premio F L Package Prime Selection 1.5",
+      "price": "PKR 4,700,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/f-l-package-prime-selection-1-5/"
+    },
+    {
+      "name": "Toyota Premio F Prime Selection 1.5",
+      "price": "PKR 3,912,500",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/x-prime-selection-1-5/"
+    },
+    {
+      "name": "Toyota Premio F Version C 1.5",
+      "price": "PKR 4,123,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/f-version-c-1-5/"
+    },
+    {
+      "name": "Toyota Premio G 2.0",
+      "price": "PKR 2,150,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/g-2-0/"
+    },
+    {
+      "name": "Toyota Premio G EX Package 2.0",
+      "price": "PKR 2,250,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/g-ex-package-2-0/"
+    },
+    {
+      "name": "Toyota Premio G Superior 2.0",
+      "price": "PKR 6,600,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/g-superior-2-0/"
+    },
+    {
+      "name": "Toyota Premio G Superior Package 2.0",
+      "price": "PKR 5,860,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/g-superior-package-2-0/"
+    },
+    {
+      "name": "Toyota Premio X 1.8",
+      "price": "PKR 4,500,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/1-8l-x/"
+    },
+    {
+      "name": "Toyota Premio X EX Package 1.8",
+      "price": "PKR 4,815,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/x-ex-package-1-8/"
+    },
+    {
+      "name": "Toyota Premio X L Package 1.8",
+      "price": "PKR 4,300,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/x-l-package-1-8/"
+    },
+    {
+      "name": "Toyota Premio X L Package Prime Green Selection 1.8",
+      "price": "PKR 3,700,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/x-l-package-prime-green-selection-1-8/"
+    },
+    {
+      "name": "Toyota Premio X L Package Prime Selection 1.8",
+      "price": "PKR 5,210,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/x-l-package-prime-selection-1-8/"
+    },
+    {
+      "name": "Toyota Premio X Prime Selection 1.8",
+      "price": "PKR 3,816,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/f-prime-selection-1-8/"
+    },
+    {
+      "name": "Toyota Premio X Version C 1.8",
+      "price": "PKR 2,950,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/premio/x-version-c-1-8/"
+    }
+  ]
+}

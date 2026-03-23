@@ -1,0 +1,45 @@
+{
+  "name": "Honda Insight",
+  "brand": "Honda",
+  "model": "Insight",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7247/medium/1.jpg?1768564382",
+  "price_range": "PKR 80.75 - 87.55 lacs",
+  "reviews": 6,
+  "link": "https://www.pakwheels.com/new-cars/honda/insight/",
+  "specifications": {
+    "Price": "PKR 76.00 - 108.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4663 x 1878 x 1411 mm",
+    "Ground Clearance": "130 - 150 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "109 hp (Combined)",
+    "Torque": "134 Nm (Combined)",
+    "Boot Space": "416 L",
+    "Kerb Weight": "1399 KG",
+    "Fuel Type": "Hybrid & Petrol",
+    "Mileage": "20 - 25 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "260 KM/H",
+    "Tyre Size": "215/50/R17"
+  },
+  "variants": [
+    {
+      "name": "Honda Insight EX",
+      "price": "PKR 8,075,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/insight/ex--5/"
+    },
+    {
+      "name": "Honda Insight EX Black Style",
+      "price": "PKR 8,755,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/insight/ex-black-style--2/"
+    },
+    {
+      "name": "Honda Insight Touring",
+      "price": "PKR 8,420,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/insight/touring--3/"
+    }
+  ]
+}

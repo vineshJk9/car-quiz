@@ -1,0 +1,45 @@
+{
+  "name": "Toyota Rav4",
+  "brand": "Toyota",
+  "model": "Rav4",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6474/medium/Toyota_Rav_4.jpg?1768567629",
+  "price_range": null,
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/toyota/rav4/",
+  "specifications": {
+    "Price": "PKR 1.62 - 1.75 crore",
+    "Body Type": "SUV, Crossover",
+    "Dimensions (Length x Width x Height)": "4600 x 1855 x 1685 mm",
+    "Ground Clearance": "190 - 195 mm",
+    "Displacement": "2493 - 2500 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "176 - 222 hp (Combined)",
+    "Torque": "221 Nm (Combined)",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1825 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "12 - 14 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "235/55/R18"
+  },
+  "variants": [
+    {
+      "name": "Toyota Rav4 AWD Hybrid",
+      "price": "PKR 16,200,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/rav4/hybrid-awd--2/"
+    },
+    {
+      "name": "Toyota Rav4 Hybrid G",
+      "price": "PKR 16,200,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/rav4/hybrid-g--4/"
+    },
+    {
+      "name": "Toyota Rav4 Hybrid X",
+      "price": "PKR 17,500,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/rav4/hybrid-x--7/"
+    }
+  ]
+}

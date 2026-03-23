@@ -1,0 +1,135 @@
+{
+  "new_cars": [
+    {
+      "name": "MG Binguo",
+      "model": "MG Binguo",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/10303/medium/Cover.jpg?1767165808",
+      "price_range": "PKR 59.99 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/binguo/"
+    },
+    {
+      "name": "MG HS",
+      "model": "MG HS",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16946/medium/Cover_%2832%29.jpg?1771925074",
+      "price_range": "PKR 83.99 - 98.99 lacs",
+      "reviews": 47,
+      "link": "https://www.pakwheels.com/new-cars/mg/hs--2/"
+    },
+    {
+      "name": "MG ZS EV",
+      "model": "MG ZS EV",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7572/medium/cover.jpg?1768565769",
+      "price_range": "PKR 96.90 lacs - 1.50 crore",
+      "reviews": 5,
+      "link": "https://www.pakwheels.com/new-cars/mg/zs-ev/"
+    },
+    {
+      "name": "MG 5 EV",
+      "model": "MG 5 EV",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/13594/medium/Cover.jpg?1768565653",
+      "price_range": "PKR 1.15 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/5-ev/"
+    },
+    {
+      "name": "MG U9",
+      "model": "MG U9",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/10035/medium/MG_U9.jpg?1762858179",
+      "price_range": "PKR 2.27 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/u9--2/"
+    },
+    {
+      "name": "MG Cyberster",
+      "model": "MG Cyberster",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8778/medium/Cover.jpg?1746017676",
+      "price_range": "PKR 2.70 - 2.99 crore",
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/mg/cyberster/"
+    }
+  ],
+  "upcoming_cars": [],
+  "discontinued_cars": [
+    {
+      "name": "MG ZS",
+      "model": "MG ZS",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/5424/medium/MG_ZS_Cover.jpg?1768565697",
+      "price_range": "PKR 46.00 lacs",
+      "reviews": 13,
+      "link": "https://www.pakwheels.com/new-cars/mg/zs/"
+    },
+    {
+      "name": "MG 3",
+      "model": "MG 3",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8643/medium/Cover.jpg?1744798811",
+      "price_range": null,
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/mg/3/"
+    },
+    {
+      "name": "MG 5",
+      "model": "MG 5",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/13585/medium/Cover.jpg?1768565646",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/5/"
+    },
+    {
+      "name": "MG Hector",
+      "model": "MG Hector",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7898/medium/Cover_%2814%29.jpg?1736423239",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/hector/"
+    },
+    {
+      "name": "MG 7",
+      "model": "MG 7",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/9971/medium/Cover.jpg?1761217585",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/7/"
+    },
+    {
+      "name": "MG EP",
+      "model": "MG EP",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/7249/medium/1.jpg?1768565662",
+      "price_range": "PKR 1.00 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/ep/"
+    },
+    {
+      "name": "MG Extender",
+      "model": "MG Extender",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7496/medium/MG-Extender-cover-photo.jpg?1768565670",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/extender/"
+    },
+    {
+      "name": "MG Gloster",
+      "model": "MG Gloster",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/13618/medium/Cover.jpg?1768565676",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/gloster/"
+    },
+    {
+      "name": "MG RX8",
+      "model": "MG RX8",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6066/medium/RX8_-_PNG.png?1637579917",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/rx8/"
+    },
+    {
+      "name": "MG GT",
+      "model": "MG GT",
+      "image": "https://wsa3.pakwheels.com/assets/default-display-image-car-6873f23250596c4daa082e7223e5bbb5d1fbcaf7bb5d7113003daa9ebd3c66a8.png",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/mg/gt--3/"
+    }
+  ]
+}

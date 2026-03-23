@@ -1,0 +1,35 @@
+{
+  "name": "Honda Clarity",
+  "brand": "Honda",
+  "model": "Clarity",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/5562/medium/03-honda-clarity-phev-2018-exterior--front--green.jpg?1768564303",
+  "price_range": "PKR 1.00 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/clarity/",
+  "specifications": {
+    "Price": "PKR 1.00 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4895 x 1877 x 1478 mm",
+    "Ground Clearance": "134 mm",
+    "Displacement": "1498 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "181 hp (Combined)",
+    "Torque": "99 Nm (Combined)",
+    "Boot Space": "439 L",
+    "Kerb Weight": "1838 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "22 - 26 KM/L",
+    "Fuel Tank Capacity": "27 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "235/45/18"
+  },
+  "variants": [
+    {
+      "name": "Honda Clarity PHEV",
+      "price": "PKR 10,000,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/clarity/phev--2/"
+    }
+  ]
+}

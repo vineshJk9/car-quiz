@@ -1,0 +1,35 @@
+{
+  "name": "Honda Inspire",
+  "brand": "Honda",
+  "model": "Inspire",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12065/medium/Cover.jpg?1768564385",
+  "price_range": "PKR 3.20 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/inspire/",
+  "specifications": {
+    "Price": "PKR 3.20 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4441 x 1864 x 1498 mm",
+    "Ground Clearance": "171 mm",
+    "Displacement": "1498 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "118 hp",
+    "Torque": "145 Nm",
+    "Boot Space": "510 L",
+    "Kerb Weight": "1482 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 14 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "235/45/R18"
+  },
+  "variants": [
+    {
+      "name": "Honda Inspire 1.5L",
+      "price": "PKR 32,000,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/inspire/1-5l--2/"
+    }
+  ]
+}

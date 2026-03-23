@@ -1,0 +1,35 @@
+{
+  "name": "Honda Brio",
+  "brand": "Honda",
+  "model": "Brio",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/11914/medium/Cover.jpg?1768564245",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/brio/",
+  "specifications": {
+    "Price": "PKR 23.60 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3610 x 1680 x 1500 mm",
+    "Ground Clearance": "165 mm",
+    "Displacement": "1200 cc",
+    "Transmission": "Manual",
+    "Horse Power": "88 hp",
+    "Torque": "109 Nm",
+    "Boot Space": "175 L",
+    "Kerb Weight": "920 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "15 - 18 KM/L",
+    "Fuel Tank Capacity": "35 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "175/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Honda Brio 1.2 i-VTEC",
+      "price": "PKR 2,360,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/brio/1-2-i-vtec/2018-present/"
+    }
+  ]
+}

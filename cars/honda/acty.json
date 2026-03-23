@@ -1,0 +1,35 @@
+{
+  "name": "Honda Acty",
+  "brand": "Honda",
+  "model": "Acty",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10269/medium/Honda_Acty_%28%29.jpg?1765800657",
+  "price_range": "PKR 12.50 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/honda/acty/",
+  "specifications": {
+    "Price": "PKR 13.50 lacs",
+    "Body Type": "Mini Van",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1880 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "51 hp",
+    "Torque": "60 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1030 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 20 KM/L",
+    "Fuel Tank Capacity": "35 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "165/70/R13"
+  },
+  "variants": [
+    {
+      "name": "Honda Acty Basegrade",
+      "price": "PKR 1,250,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/acty/basegrade--10/"
+    }
+  ]
+}

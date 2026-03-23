@@ -1,0 +1,45 @@
+{
+  "name": "Honda HR-V",
+  "brand": "Honda",
+  "model": "HR-V",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16746/medium/Cover.jpg?1768989567",
+  "price_range": "PKR 75.49 - 89.99 lacs",
+  "reviews": 32,
+  "link": "https://www.pakwheels.com/new-cars/honda/hr-v/",
+  "specifications": {
+    "Price": "PKR 75.49 - 89.99 lacs",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4346 x 1790 x 1590 mm",
+    "Ground Clearance": "196 mm",
+    "Displacement": "1498 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "105 - 119 hp (Combined)",
+    "Torque": "127 - 145 Nm (Combined)",
+    "Boot Space": "319 - 335 L",
+    "Kerb Weight": "1267 - 1380 KG",
+    "Fuel Type": "Petrol & Hybrid",
+    "Mileage": "12 - 25 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "215/60/R17"
+  },
+  "variants": [
+    {
+      "name": "Honda HR-V VTi",
+      "price": "PKR 7,549,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/hr-v/vti/"
+    },
+    {
+      "name": "Honda HR-V VTi-S",
+      "price": "PKR 7,799,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/hr-v/vti-s/"
+    },
+    {
+      "name": "Honda HR-V e:HEV",
+      "price": "PKR 8,999,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/hr-v/e-hev/"
+    }
+  ]
+}

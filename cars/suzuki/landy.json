@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Landy",
+  "brand": "Suzuki",
+  "model": "Landy",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6333/medium/Suzuki_Landy_Front_Right_Angled.jpg?1768566850",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/landy/",
+  "specifications": {
+    "Price": "PKR 78.00 lacs",
+    "Body Type": "Mini Van",
+    "Dimensions (Length x Width x Height)": "4685 x 1695 x 1865 mm",
+    "Ground Clearance": "175 mm",
+    "Displacement": "1997 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "147 hp",
+    "Torque": "210 Nm",
+    "Boot Space": "120 L",
+    "Kerb Weight": "1610 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Landy S",
+      "price": "PKR 7,800,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/landy/s--2/"
+    }
+  ]
+}

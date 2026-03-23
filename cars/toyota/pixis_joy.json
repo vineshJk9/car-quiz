@@ -1,0 +1,45 @@
+{
+  "name": "Toyota Pixis Joy",
+  "brand": "Toyota",
+  "model": "Pixis Joy",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/7819/medium/Cover.jpg?1732621048",
+  "price_range": "PKR 32.30 - 34.60 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/pixis-joy/",
+  "specifications": {
+    "Price": "PKR 32.30 - 34.60 lacs",
+    "Body Type": "Mini Vehicles,Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1600 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "52 - 64 hp",
+    "Torque": "60 - 94 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "840 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 22 KM/L",
+    "Fuel Tank Capacity": "30 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "165/55/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Pixis Joy F G SA III",
+      "price": "PKR 3,460,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/pixis-joy/f-g-sa-iii/"
+    },
+    {
+      "name": "Toyota Pixis Joy F G Turbo SA III",
+      "price": "PKR 3,440,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/pixis-joy/f-g-turbo-sa-iii/"
+    },
+    {
+      "name": "Toyota Pixis Joy F X SA III",
+      "price": "PKR 3,230,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/pixis-joy/f-x-sa-iii/"
+    }
+  ]
+}

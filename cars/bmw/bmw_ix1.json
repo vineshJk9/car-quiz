@@ -1,0 +1,37 @@
+{
+  "name": "BMW iX1",
+  "brand": "Bmw",
+  "model": "BMW iX1",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/9045/medium/Cover.jpg?1751961020",
+  "price_range": "PKR 2.65 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/ix1/",
+  "specifications": {
+    "Price": "PKR 2.65 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "4500 x 1845 x 1616 mm",
+    "Ground Clearance": "170 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "313 hp",
+    "Torque": "-",
+    "Boot Space": "490 L",
+    "Kerb Weight": "2010 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "64.7 kWh",
+    "Range": "417 km",
+    "Charging Time": "7.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "205/65/R17"
+  },
+  "variants": [
+    {
+      "name": "BMW iX1 xDrive30",
+      "price": "PKR 26,466,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/ix1/xdrive30--2/"
+    }
+  ]
+}

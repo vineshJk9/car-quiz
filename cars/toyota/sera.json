@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Sera",
+  "brand": "Toyota",
+  "model": "Sera",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/6693/medium/1.jpg?1768567660",
+  "price_range": "PKR 10.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/sera/",
+  "specifications": {
+    "Price": "PKR 10.00 lacs",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "3860 x 1650 x 1265 mm",
+    "Ground Clearance": "145 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "110 hp",
+    "Torque": "132 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "950 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "13 - 15 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "175/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Sera Basegrade",
+      "price": "PKR 1,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/sera/basegrade--12/"
+    }
+  ]
+}

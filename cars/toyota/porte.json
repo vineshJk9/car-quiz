@@ -1,0 +1,40 @@
+{
+  "name": "Toyota Porte",
+  "brand": "Toyota",
+  "model": "Porte",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16200/medium/Cover.jpg?1768567510",
+  "price_range": "PKR 16.00 - 20.20 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/porte/",
+  "specifications": {
+    "Price": "PKR 16.00 - 20.20 lacs",
+    "Body Type": "Mini Van",
+    "Dimensions (Length x Width x Height)": "3990 x 1690 x 1720 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "1298 - 1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "87 - 105 hp",
+    "Torque": "121 - 138 Nm",
+    "Boot Space": "435 L",
+    "Kerb Weight": "1090 - 1200 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "14 - 20 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "175/70/R14"
+  },
+  "variants": [
+    {
+      "name": "Toyota Porte 130I",
+      "price": "PKR 2,020,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/porte/130i/"
+    },
+    {
+      "name": "Toyota Porte 150I",
+      "price": "PKR 1,600,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/porte/v/"
+    }
+  ]
+}

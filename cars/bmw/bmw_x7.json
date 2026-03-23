@@ -1,0 +1,35 @@
+{
+  "name": "BMW X7",
+  "brand": "Bmw",
+  "model": "BMW X7",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/5259/medium/x7.jpg?1768563477",
+  "price_range": null,
+  "reviews": 5,
+  "link": "https://www.pakwheels.com/new-cars/bmw/x7/",
+  "specifications": {
+    "Price": "PKR 2.90 crore",
+    "Body Type": "Crossover",
+    "Dimensions (Length x Width x Height)": "5171 x 1999 x 1834 mm",
+    "Ground Clearance": "221 mm",
+    "Displacement": "2998 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "335 hp",
+    "Torque": "447 Nm",
+    "Boot Space": "300 L",
+    "Kerb Weight": "2490 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "83 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "285/45/R21"
+  },
+  "variants": [
+    {
+      "name": "BMW X7 xDrive40i",
+      "price": "PKR 29,000,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/x7/xdrive40i/"
+    }
+  ]
+}

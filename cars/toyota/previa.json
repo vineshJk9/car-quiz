@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Previa",
+  "brand": "Toyota",
+  "model": "Previa",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16252/medium/Cover.jpg?1768567573",
+  "price_range": "PKR 2.50 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/previa/",
+  "specifications": {
+    "Price": "PKR 2.50 crore",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "4795 x 1800 x 1750 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "2362 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "170 hp",
+    "Torque": "224 Nm",
+    "Boot Space": "495 L",
+    "Kerb Weight": "1775 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "7 - 10 KM/L",
+    "Fuel Tank Capacity": "65 L",
+    "Seating Capacity": "8 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "215/55/R17"
+  },
+  "variants": [
+    {
+      "name": "Toyota Previa 8 Seater",
+      "price": "PKR 25,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/previa/8-seater/"
+    }
+  ]
+}

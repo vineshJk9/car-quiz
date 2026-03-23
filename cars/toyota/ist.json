@@ -1,0 +1,45 @@
+{
+  "name": "Toyota IST",
+  "brand": "Toyota",
+  "model": "IST",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16013/medium/Cover.jpg?1768567401",
+  "price_range": "PKR 16.50 - 25.20 lacs",
+  "reviews": 5,
+  "link": "https://www.pakwheels.com/new-cars/toyota/ist/",
+  "specifications": {
+    "Price": "PKR 16.50 - 25.20 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3930 x 1725 x 1540 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "1496 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "101 - 107 hp",
+    "Torque": "132 - 138 Nm",
+    "Boot Space": "435 L",
+    "Kerb Weight": "1150 - 1210 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "11 - 14 KM/L",
+    "Fuel Tank Capacity": "42 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/60/R16"
+  },
+  "variants": [
+    {
+      "name": "Toyota IST 150G",
+      "price": "PKR 2,520,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/ist/g--35/"
+    },
+    {
+      "name": "Toyota IST 150X",
+      "price": "PKR 1,650,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/ist/x--26/"
+    },
+    {
+      "name": "Toyota IST 150X C Package",
+      "price": "PKR 2,220,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/ist/x-c-package/"
+    }
+  ]
+}

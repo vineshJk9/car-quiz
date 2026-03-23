@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Samurai",
+  "brand": "Suzuki",
+  "model": "Samurai",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6244/medium/Suzuki_Samurai_Front_Right_Angled_%282%29.jpg?1768566891",
+  "price_range": "PKR 10.23 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/samurai/",
+  "specifications": {
+    "Price": "PKR 10.23 lacs",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "3450 x 1540 x 1670 mm",
+    "Ground Clearance": "210 mm",
+    "Displacement": "1299 cc",
+    "Transmission": "Manual",
+    "Horse Power": "68 hp",
+    "Torque": "103 Nm",
+    "Boot Space": "3790 L",
+    "Kerb Weight": "930 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "11 - 14 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "205/70/R15"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Samurai SJ",
+      "price": "PKR 1,022,500",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/samurai/sj/"
+    }
+  ]
+}

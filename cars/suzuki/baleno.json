@@ -1,0 +1,35 @@
+{
+  "name": "Suzuki Baleno",
+  "brand": "Suzuki",
+  "model": "Baleno",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/8389/medium/Cover.jpg?1740638264",
+  "price_range": "PKR 10.80 lacs",
+  "reviews": 20,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/baleno/",
+  "specifications": {
+    "Price": "PKR 10.80 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3995 x 1745 x 1510 mm",
+    "Ground Clearance": "170 mm",
+    "Displacement": "998 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "100 hp",
+    "Torque": "150 Nm",
+    "Boot Space": "339 L",
+    "Kerb Weight": "950 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 20 KM/L",
+    "Fuel Tank Capacity": "37 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "195/55/R16"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Baleno RS",
+      "price": "PKR 1,080,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/baleno/rs--15/"
+    }
+  ]
+}

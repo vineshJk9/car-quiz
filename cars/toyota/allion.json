@@ -1,0 +1,60 @@
+{
+  "name": "Toyota Allion",
+  "brand": "Toyota",
+  "model": "Allion",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/15473/medium/Cover.jpg?1768567027",
+  "price_range": "PKR 28.60 - 70.00 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/toyota/allion/",
+  "specifications": {
+    "Price": "PKR 28.60 - 70.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4565 x 1695 x 1475 mm",
+    "Ground Clearance": "135 - 160 mm",
+    "Displacement": "1497 - 1987 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "110 - 155 hp",
+    "Torque": "140 - 195 Nm",
+    "Boot Space": "450 L",
+    "Kerb Weight": "1200 - 1270 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "11 - 14 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "185/65/R15"
+  },
+  "variants": [
+    {
+      "name": "Toyota Allion A15",
+      "price": "PKR 2,860,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/allion/a15/"
+    },
+    {
+      "name": "Toyota Allion A15 G Package",
+      "price": "PKR 2,930,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/allion/a15-g-package/"
+    },
+    {
+      "name": "Toyota Allion A18",
+      "price": "PKR 3,110,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/allion/a18/"
+    },
+    {
+      "name": "Toyota Allion A18 G Package",
+      "price": "PKR 3,080,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/allion/a18-g-package/"
+    },
+    {
+      "name": "Toyota Allion A20",
+      "price": "PKR 7,000,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/allion/a20/"
+    },
+    {
+      "name": "Toyota Allion A20 Leather Package",
+      "price": "PKR 3,600,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/allion/a20-leather-package/"
+    }
+  ]
+}

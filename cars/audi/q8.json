@@ -1,0 +1,35 @@
+{
+  "name": "Audi Q8",
+  "brand": "Audi",
+  "model": "Q8",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16754/medium/Cover.jpg?1768992281",
+  "price_range": "PKR 8.65 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/audi/q8/",
+  "specifications": {
+    "Price": "PKR 8.65 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4978 x 2190 x 1705 mm",
+    "Ground Clearance": "203 mm",
+    "Displacement": "2995 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "340 hp (Combined)",
+    "Torque": "500 Nm (Combined)",
+    "Boot Space": "605 L",
+    "Kerb Weight": "2175 KG",
+    "Fuel Type": "Hybrid & Petrol",
+    "Mileage": "7 - 12 KM/L",
+    "Fuel Tank Capacity": "85 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "275/50/R20"
+  },
+  "variants": [
+    {
+      "name": "Audi Q8 55 TFSI quattro",
+      "price": "PKR 86,500,000",
+      "link": "https://www.pakwheels.com/new-cars/audi/q8/55-tfsi-quattro/"
+    }
+  ]
+}

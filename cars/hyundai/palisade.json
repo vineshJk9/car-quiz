@@ -1,0 +1,40 @@
+{
+  "name": "Hyundai Palisade",
+  "brand": "Hyundai",
+  "model": "Palisade",
+  "status": "new",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16950/medium/Cover.jpg?1772012004",
+  "price_range": "PKR 2.10 - 2.30 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/palisade/",
+  "specifications": {
+    "Price": "PKR 2.10 - 2.30 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "5060 x 1980 x 1805 mm",
+    "Ground Clearance": "203 mm",
+    "Displacement": "2497 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "329 hp (Combined)",
+    "Torque": "353 Nm (Combined)",
+    "Boot Space": "541 L",
+    "Kerb Weight": "2275 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "12 - 14 KM/L",
+    "Fuel Tank Capacity": "72 L",
+    "Seating Capacity": "7 - 8 - Persons",
+    "Top Speed": "220 KM/H",
+    "Tyre Size": "265/45/R21"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Palisade Hybrid Smart",
+      "price": "PKR 20,999,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/palisade/hybrid-smart--2/"
+    },
+    {
+      "name": "Hyundai Palisade Hybrid Calligraphy",
+      "price": "PKR 22,999,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/palisade/hybrid-calligraphy/"
+    }
+  ]
+}

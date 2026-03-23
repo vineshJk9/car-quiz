@@ -1,0 +1,50 @@
+{
+  "name": "Toyota Hiace",
+  "brand": "Toyota",
+  "model": "Hiace",
+  "status": "new",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/16715/medium/Cover.jpg?1768981325",
+  "price_range": "PKR 1.31 - 2.10 crore",
+  "reviews": 2,
+  "link": "https://www.pakwheels.com/new-cars/toyota/hiace/",
+  "specifications": {
+    "Price": "PKR 1.31 - 2.10 crore",
+    "Body Type": "Van",
+    "Dimensions (Length x Width x Height)": "5265 x 1950 x 1990 mm",
+    "Ground Clearance": "179 - 187 mm",
+    "Displacement": "2693 - 2755 cc",
+    "Transmission": "Manual & Automatic",
+    "Horse Power": "111 - 174 hp",
+    "Torque": "241 - 420 Nm",
+    "Boot Space": "0 - 170 L",
+    "Kerb Weight": "2060 - 3500 KG",
+    "Fuel Type": "Diesel & Petrol",
+    "Mileage": "8 - 12 KM/L",
+    "Fuel Tank Capacity": "70 L",
+    "Seating Capacity": "10 - 17 - Persons",
+    "Top Speed": "180 - 220 KM/H",
+    "Tyre Size": "215/75/16"
+  },
+  "variants": [
+    {
+      "name": "Toyota Hiace Standard Roof",
+      "price": "PKR 13,069,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/hiace/standard-roof/"
+    },
+    {
+      "name": "Toyota Hiace High Roof Commuter",
+      "price": "PKR 14,959,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/hiace/hi-roof-commuter/"
+    },
+    {
+      "name": "Toyota Hiace High Roof Tourer",
+      "price": "PKR 17,059,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/hiace/hi-roof-tourer/"
+    },
+    {
+      "name": "Toyota Hiace Luxury Wagon High Grade",
+      "price": "PKR 21,029,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/hiace/luxury-wagon-high-grade/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "KIA Niro",
+  "brand": "Kia",
+  "model": "KIA Niro",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/12666/medium/Cover.jpg?1768564733",
+  "price_range": "PKR 60.00 - 85.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/kia/niro/",
+  "specifications": {
+    "Price": "PKR 60.00 - 85.00 lacs",
+    "Body Type": "Crossover,SUV",
+    "Dimensions (Length x Width x Height)": "4355 x 1800 x 1535 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "1580 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "141 hp (Combined)",
+    "Torque": "0 - 147 Nm (Combined)",
+    "Boot Space": "348 - 436 L",
+    "Kerb Weight": "1500 - 1557 KG",
+    "Fuel Type": "Hybrid & Electric",
+    "Mileage": "24 - 30 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "160 - 180 KM/H",
+    "Tyre Size": "205/60/16"
+  },
+  "variants": [
+    {
+      "name": "KIA Niro EV",
+      "price": "PKR 8,500,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/niro/ev--2/"
+    },
+    {
+      "name": "KIA Niro Hybrid",
+      "price": "PKR 6,000,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/niro/hybrid--8/"
+    }
+  ]
+}

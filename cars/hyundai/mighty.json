@@ -1,0 +1,35 @@
+{
+  "name": "Hyundai Mighty",
+  "brand": "Hyundai",
+  "model": "Mighty",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/4808/medium/Hyundai_Mighty.jpg?1768564591",
+  "price_range": "PKR 55.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/mighty/",
+  "specifications": {
+    "Price": "PKR 55.00 lacs",
+    "Body Type": "Truck",
+    "Dimensions (Length x Width x Height)": "6620 x 2100 x 2285 mm",
+    "Ground Clearance": "210 mm",
+    "Displacement": "3900 cc",
+    "Transmission": "Manual",
+    "Horse Power": "170 hp",
+    "Torque": "608 Nm",
+    "Boot Space": "4840 L",
+    "Kerb Weight": "3950 KG",
+    "Fuel Type": "Diesel",
+    "Mileage": "8 - 12 KM/L",
+    "Fuel Tank Capacity": "100 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "160 KM/H",
+    "Tyre Size": "195/70/R15"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Mighty EX-8",
+      "price": "PKR 5,500,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/mighty/ex-8/"
+    }
+  ]
+}

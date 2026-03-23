@@ -1,0 +1,40 @@
+{
+  "name": "Hyundai Azera",
+  "brand": "Hyundai",
+  "model": "Azera",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/8412/medium/Cover.jpg?1740655484",
+  "price_range": "PKR 40.00 - 56.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/azera/",
+  "specifications": {
+    "Price": "PKR 40.00 - 56.00 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4895 x 1849 x 1491 mm",
+    "Ground Clearance": "160 mm",
+    "Displacement": "3310 - 3778 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "234 - 263 hp",
+    "Torque": "306 - 348 Nm",
+    "Boot Space": "470 L",
+    "Kerb Weight": "1646 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "17 - 26 KM/L",
+    "Fuel Tank Capacity": "75 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "260 KM/H",
+    "Tyre Size": "235/55/R17"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Azera GLS",
+      "price": "PKR 5,600,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/azera/gls--8/"
+    },
+    {
+      "name": "Hyundai Azera Limited",
+      "price": "PKR 4,000,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/azera/limited--15/"
+    }
+  ]
+}

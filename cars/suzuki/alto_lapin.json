@@ -1,0 +1,45 @@
+{
+  "name": "Suzuki Alto Lapin",
+  "brand": "Suzuki",
+  "model": "Alto Lapin",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/8863/medium/Cover.jpg?1747046945",
+  "price_range": null,
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/suzuki/alto-lapin/",
+  "specifications": {
+    "Price": "PKR 28.90 - 39.00 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1510 mm",
+    "Ground Clearance": "155 - 160 mm",
+    "Displacement": "658 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "54 hp",
+    "Torque": "60 - 63 Nm",
+    "Boot Space": "130 L",
+    "Kerb Weight": "680 - 800 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "18 - 20 KM/L",
+    "Fuel Tank Capacity": "27 - 30 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "155/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Suzuki Alto Lapin G",
+      "price": "PKR 3,465,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/alto-lapin/g--5/"
+    },
+    {
+      "name": "Suzuki Alto Lapin L",
+      "price": "PKR 2,837,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/alto-lapin/l--25/"
+    },
+    {
+      "name": "Suzuki Alto Lapin X",
+      "price": "PKR 3,330,000",
+      "link": "https://www.pakwheels.com/new-cars/suzuki/alto-lapin/x--10/"
+    }
+  ]
+}

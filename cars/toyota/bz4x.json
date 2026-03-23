@@ -1,0 +1,37 @@
+{
+  "name": "Toyota bZ4X",
+  "brand": "Toyota",
+  "model": "bZ4X",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/15607/medium/Cover.jpg?1768567088",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/bz4x/",
+  "specifications": {
+    "Price": "PKR 1.66 crore",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "4690 x 1860 x 1650 mm",
+    "Ground Clearance": "180 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "201 hp",
+    "Torque": "-",
+    "Boot Space": "452 L",
+    "Kerb Weight": "1985 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "71.0 kWh",
+    "Range": "436 km",
+    "Charging Time": "11.0 Hours",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "160 KM/H",
+    "Tyre Size": "235/60/R18"
+  },
+  "variants": [
+    {
+      "name": "Toyota bZ4X Z",
+      "price": "PKR 16,550,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/bz4x/z--7/"
+    }
+  ]
+}

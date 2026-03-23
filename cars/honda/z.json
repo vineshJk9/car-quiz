@@ -1,0 +1,35 @@
+{
+  "name": "Honda Z",
+  "brand": "Honda",
+  "model": "Z",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/12292/medium/Cover.jpg?1768564497",
+  "price_range": "PKR 40.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/z/",
+  "specifications": {
+    "Price": "PKR 40.00 lacs",
+    "Body Type": "Compact hatchback",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1675 mm",
+    "Ground Clearance": "195 mm",
+    "Displacement": "656 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "64 hp",
+    "Torque": "93 Nm",
+    "Boot Space": "343 L",
+    "Kerb Weight": "970 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "15 - 18 KM/L",
+    "Fuel Tank Capacity": "35 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "140 KM/H",
+    "Tyre Size": "175/80/R15"
+  },
+  "variants": [
+    {
+      "name": "Honda Z GT",
+      "price": "PKR 4,000,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/z/gt--7/"
+    }
+  ]
+}

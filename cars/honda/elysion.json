@@ -1,0 +1,35 @@
+{
+  "name": "Honda Elysion",
+  "brand": "Honda",
+  "model": "Elysion",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6275/medium/Honda_Elysion_Front_Right_Angled.jpg?1768564334",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/elysion/",
+  "specifications": {
+    "Price": "PKR 3.00 crore",
+    "Body Type": "MPV",
+    "Dimensions (Length x Width x Height)": "4940 x 1845 x 1710 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "2354 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "160 hp",
+    "Torque": "218 Nm",
+    "Boot Space": "378 L",
+    "Kerb Weight": "1941 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "8 - 10 KM/L",
+    "Fuel Tank Capacity": "70 L",
+    "Seating Capacity": "7 - Persons",
+    "Top Speed": "185 KM/H",
+    "Tyre Size": "255/50/R18"
+  },
+  "variants": [
+    {
+      "name": "Honda Elysion 2.4",
+      "price": "PKR 30,000,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/elysion/2-4/"
+    }
+  ]
+}

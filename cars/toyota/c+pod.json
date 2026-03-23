@@ -1,0 +1,42 @@
+{
+  "name": "Toyota C+pod",
+  "brand": "Toyota",
+  "model": "C+pod",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/7781/medium/20201225_02_13_s.jpg?1730095420",
+  "price_range": "PKR 30.93 - 35.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/c-pod/",
+  "specifications": {
+    "Price": "PKR 30.93 - 35.00 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "2490 x 1290 x 1550 mm",
+    "Ground Clearance": "145 mm",
+    "Displacement": "-",
+    "Transmission": "Automatic",
+    "Horse Power": "13 hp",
+    "Torque": "-",
+    "Boot Space": "0 L",
+    "Kerb Weight": "670 KG",
+    "Fuel Type": "Electric",
+    "Mileage": "-",
+    "Battery Capacity": "9.06 kWh",
+    "Range": "150 km",
+    "Charging Time": "5.0 Hours",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "60 KM/H",
+    "Tyre Size": "155/70/R13"
+  },
+  "variants": [
+    {
+      "name": "Toyota C+pod G",
+      "price": "PKR 3,092,500",
+      "link": "https://www.pakwheels.com/new-cars/toyota/c-pod/g--64/"
+    },
+    {
+      "name": "Toyota C+pod X",
+      "price": "PKR 3,500,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/c-pod/x/"
+    }
+  ]
+}

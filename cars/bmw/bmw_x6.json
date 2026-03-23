@@ -1,0 +1,35 @@
+{
+  "name": "BMW X6",
+  "brand": "Bmw",
+  "model": "BMW X6",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/6301/medium/BMW_X6_Series_Front_Right_Angled.jpg?1768563473",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/x6-series/",
+  "specifications": {
+    "Price": "PKR 8.70 crore",
+    "Body Type": "SUV",
+    "Dimensions (Length x Width x Height)": "4935 x 2004 x 1696 mm",
+    "Ground Clearance": "206 mm",
+    "Displacement": "2993 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "340 hp (Combined)",
+    "Torque": "450 Nm (Combined)",
+    "Boot Space": "580 L",
+    "Kerb Weight": "2130 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "9 - 11 KM/L",
+    "Fuel Tank Capacity": "83 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "265/50/R19"
+  },
+  "variants": [
+    {
+      "name": "BMW X6 xDrive40i",
+      "price": "PKR 87,000,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/x6-series/xdrive40i--2/"
+    }
+  ]
+}

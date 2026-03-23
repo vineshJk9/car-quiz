@@ -1,0 +1,75 @@
+{
+  "name": "Honda CR-Z",
+  "brand": "Honda",
+  "model": "CR-Z",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/3715/medium/honda-cr-z-jcoty-2.jpg?1768564318",
+  "price_range": "PKR 23.50 - 39.91 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/honda/cr-z-sports-hybrid/",
+  "specifications": {
+    "Price": "-",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "4075 x 1740 x 1395 mm",
+    "Ground Clearance": "142 - 150 mm",
+    "Displacement": "1496 - 1497 cc",
+    "Transmission": "Automatic & Manual",
+    "Horse Power": "99 - 133 hp (Combined)",
+    "Torque": "172 - 189 Nm (Combined)",
+    "Boot Space": "710 L",
+    "Kerb Weight": "1160 - 1235 KG",
+    "Fuel Type": "Petrol & Hybrid",
+    "Mileage": "18 - 25 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "2 - 4 - Persons",
+    "Top Speed": "180 - 220 KM/H",
+    "Tyre Size": "195/55/R16"
+  },
+  "variants": [
+    {
+      "name": "Honda CR-Z Alpha",
+      "price": "PKR 2,750,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/cr-z-sports-hybrid/alpha/"
+    },
+    {
+      "name": "Honda CR-Z Alpha Black Label",
+      "price": "PKR 3,540,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/cr-z-sports-hybrid/alpha-black-label/"
+    },
+    {
+      "name": "Honda CR-Z Alpha Dressed Label",
+      "price": "PKR 2,715,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/cr-z-sports-hybrid/alpha-dressed-label/"
+    },
+    {
+      "name": "Honda CR-Z Alpha Master Label",
+      "price": "PKR 3,991,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/cr-z-sports-hybrid/alpha-master-label/"
+    },
+    {
+      "name": "Honda CR-Z Base Grade (Metallic Color)",
+      "price": "PKR 2,830,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/cr-z-sports-hybrid/metallic-colors-prosmatec/"
+    },
+    {
+      "name": "Honda CR-Z Base Grade (Solid Color)",
+      "price": "PKR 3,865,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/cr-z-sports-hybrid/milano-red-prosmatec/"
+    },
+    {
+      "name": "Honda CR-Z Base Grade Manual",
+      "price": "PKR 3,117,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/cr-z-sports-hybrid/base-grade-manual/"
+    },
+    {
+      "name": "Honda CR-Z Beta",
+      "price": "PKR 2,860,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/cr-z-sports-hybrid/beta/"
+    },
+    {
+      "name": "Honda CR-Z Japan Car Of The Year Memorial",
+      "price": "PKR 2,350,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/cr-z-sports-hybrid/japan-car-of-the-year-memorial/"
+    }
+  ]
+}

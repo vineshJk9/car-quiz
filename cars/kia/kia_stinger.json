@@ -1,0 +1,40 @@
+{
+  "name": "KIA Stinger",
+  "brand": "Kia",
+  "model": "KIA Stinger",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/12721/medium/Cover.jpg?1768564776",
+  "price_range": "PKR 5.70 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/kia/stinger/",
+  "specifications": {
+    "Price": "PKR 5.70 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4833 x 1869 x 1399 mm",
+    "Ground Clearance": "130 mm",
+    "Displacement": "2497 - 3342 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "300 - 368 hp",
+    "Torque": "422 - 510 Nm",
+    "Boot Space": "406 - 660 L",
+    "Kerb Weight": "1730 - 1793 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "6 - 10 KM/L",
+    "Fuel Tank Capacity": "60 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "260 - 300 KM/H",
+    "Tyre Size": "225/45/18"
+  },
+  "variants": [
+    {
+      "name": "KIA Stinger GT",
+      "price": "PKR 57,000,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/stinger/gt--9/"
+    },
+    {
+      "name": "KIA Stinger GT-Line",
+      "price": "PKR 57,000,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/stinger/gt-line/"
+    }
+  ]
+}

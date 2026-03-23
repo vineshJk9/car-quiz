@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Quiz Master</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚗 Car Quiz Master</h1>
+            <p class="tagline">Test Your Automotive Knowledge!</p>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab-btn active" data-tab="home">Home</button>
+            <button class="tab-btn" data-tab="quiz">Quiz Challenge</button>
+            <button class="tab-btn" data-tab="brand-identifier">Brand Identifier</button>
+            <button class="tab-btn" data-tab="text-identifier">Text Identifier</button>
+            <button class="tab-btn" data-tab="bodytype-quiz">Body Type Quiz</button>
+            <button class="tab-btn" data-tab="complete-quiz">Complete Quiz</button>
+            <button class="tab-btn" data-tab="results">Results</button>
+        </nav>
+
+        <!-- Home Tab -->
+        <div class="tab-content active" id="home">
+            <div class="welcome-section">
+                <h2>Welcome to Car Quiz Master!</h2>
+                <p>Challenge yourself with our comprehensive car knowledge quiz featuring cars from Pakistan's top automotive brands.</p>
+                
+                <div class="quiz-info">
+                    <div class="info-card">
+                        <h3>📝 Quiz Format</h3>
+                        <ul>
+                            <li>Random car models from our database</li>
+                            <li>5 questions per quiz</li>
+                            <li>Multiple choice questions</li>
+                            <li>Instant results after submission</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="info-card">
+                        <h3>❓ Question Types</h3>
+                        <ul>
+                            <li>Identify the brand</li>
+                            <li>Guess the price range</li>
+                            <li>Find the correct image</li>
+                            <li>Select body type</li>
+                            <li>Choose engine displacement (CC)</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <button class="start-quiz-btn" onclick="startQuiz()">Start Quiz 🎯</button>
+            </div>
+        </div>
+
+        <!-- Quiz Tab -->
+        <div class="tab-content" id="quiz">
+            <div class="quiz-header">
+                <h2>Car Knowledge Challenge</h2>
+                <p class="instruction">Select brands to include in your quiz:</p>
+            </div>
+            
+            <!-- Brand Filter Section -->
+            <div class="filter-section" id="brand-filter">
+                <div class="filter-header">
+                    <h3>🔍 Filter by Brand</h3>
+                    <button class="select-all-btn" onclick="toggleAllBrands()">Select All</button>
+                </div>
+                <div class="brand-checkboxes" id="brand-checkboxes">
+                    <!-- Brand checkboxes will be dynamically loaded here -->
+                </div>
+                <button class="apply-filter-btn" onclick="applyFilterAndStartQuiz()">Start Quiz with Selected Brands 🎯</button>
+            </div>
+            
+            <div id="quiz-container" style="display: none;">
+                <div class="loading">Loading quiz questions...</div>
+            </div>
+            
+            <button class="submit-btn" id="submit-quiz" style="display: none;">Submit Quiz 🚀</button>
+        </div>
+
+        <!-- Brand Identifier Tab -->
+        <div class="tab-content" id="brand-identifier">
+            <div class="quiz-header">
+                <h2>🎯 Brand Identifier Challenge</h2>
+                <p class="instruction">Select brands and set discontinued car limit:</p>
+            </div>
+            
+            <!-- Brand Filter Section -->
+            <div class="filter-section" id="brand-id-filter">
+                <div class="filter-header">
+                    <h3>🔍 Select Brands</h3>
+                    <button class="select-all-btn" onclick="toggleAllBrandsIdentifier()">Select All</button>
+                </div>
+                <div class="brand-checkboxes" id="brand-id-checkboxes">
+                    <!-- Brand checkboxes will be dynamically loaded here -->
+                </div>
+                
+                <div style="margin: 25px 0; text-align: center;">
+                    <label style="font-size: 1.1em; font-weight: 600; color: #333; display: block; margin-bottom: 10px;">
+                        📊 Maximum Discontinued Cars per Brand:
+                    </label>
+                    <input type="number" id="discontinued-limit" value="20" min="0" max="100" 
+                           style="padding: 12px 20px; font-size: 1.1em; border: 2px solid #667eea; border-radius: 10px; width: 150px; text-align: center;">
+                </div>
+                
+                <button class="apply-filter-btn" onclick="startBrandIdentifier()">Start Brand Identifier 🎯</button>
+            </div>
+            
+            <!-- Brand Identifier Game -->
+            <div id="brand-id-game" style="display: none;">
+                <div class="car-display-card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 40px; border-radius: 20px; text-align: center; margin-bottom: 30px;">
+                    <h2 style="font-size: 2.5em; margin-bottom: 20px;" id="car-display-name">Loading...</h2>
+                    <img id="car-display-image" src="" alt="Car" style="max-width: 400px; width: 100%; height: 250px; object-fit: cover; border-radius: 15px; margin: 20px auto; display: block; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+                    <p style="font-size: 1.2em; margin-top: 15px;" id="car-display-hint"></p>
+                </div>
+                
+                <div class="brand-options" id="brand-options">
+                    <h3 style="text-align: center; margin-bottom: 20px; color: #333;">Which brand does this car belong to?</h3>
+                    <div class="options-grid" id="brand-option-buttons">
+                        <!-- Brand buttons will be generated here -->
+                    </div>
+                </div>
+                
+                <div style="text-align: center; margin-top: 30px;">
+                    <p id="score-display" style="font-size: 1.3em; font-weight: bold; color: #667eea;">Score: 0 / 0</p>
+                    <button class="retake-btn" onclick="nextCarIdentifier()" id="next-car-btn" style="display: none; margin-top: 15px;">Next Car →</button>
+                    <button class="retake-btn" onclick="finishBrandIdentifier()" style="margin-top: 15px;">Finish & See Results</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Text Identifier Tab -->
+        <div class="tab-content" id="text-identifier">
+            <div class="quiz-header">
+                <h2>📝 Text-Only Brand Identifier</h2>
+                <p class="instruction">Identify brands without seeing car images:</p>
+            </div>
+            
+            <!-- Brand Filter Section -->
+            <div class="filter-section" id="text-id-filter">
+                <div class="filter-header">
+                    <h3>🔍 Select Brands</h3>
+                    <button class="select-all-btn" onclick="toggleAllBrandsTextIdentifier()">Select All</button>
+                </div>
+                <div class="brand-checkboxes" id="text-id-checkboxes">
+                    <!-- Brand checkboxes will be dynamically loaded here -->
+                </div>
+                
+                <div style="margin: 25px 0; text-align: center;">
+                    <label style="font-size: 1.1em; font-weight: 600; color: #333; display: block; margin-bottom: 10px;">
+                        📊 Maximum Discontinued Cars per Brand:
+                    </label>
+                    <input type="number" id="text-discontinued-limit" value="20" min="0" max="100" 
+                           style="padding: 12px 20px; font-size: 1.1em; border: 2px solid #667eea; border-radius: 10px; width: 150px; text-align: center;">
+                </div>
+                
+                <button class="apply-filter-btn" onclick="startTextIdentifier()">Start Text Identifier 📝</button>
+            </div>
+            
+            <!-- Text Identifier Game -->
+            <div id="text-id-game" style="display: none;">
+                <!-- Progress Counter -->
+                <div style="text-align: center; margin-bottom: 25px; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; color: white;">
+                    <h3 style="font-size: 1.8em; margin: 0;" id="text-progress-counter">Answered: 0 / Remaining: 0</h3>
+                </div>
+                                <!-- Car Image (Hidden initially, shown after answer) -->
+                <div id="text-car-image-container" style="display: none; text-align: center; margin-bottom: 30px;">
+                    <img id="text-car-image" src="" alt="Car" style="max-width: 100%; max-height: 400px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+                    <div style="margin-top: 15px;">
+                        <a id="text-car-link" href="" target="_blank" style="display: inline-block; padding: 12px 25px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 10px; font-weight: bold; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">🔗 View Car Details</a>
+                    </div>
+                </div>
+                                <div class="car-display-card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 40px; border-radius: 20px; text-align: center; margin-bottom: 30px;">
+                    <h2 style="font-size: 2.5em; margin-bottom: 20px;" id="text-car-display-name">Loading...</h2>
+                    <p style="font-size: 1.2em; margin-top: 15px;" id="text-car-display-hint"></p>
+                </div>
+                
+                <div class="brand-options" id="text-brand-options">
+                    <h3 style="text-align: center; margin-bottom: 20px; color: #333;">Which brand does this car belong to?</h3>
+                    <div class="options-grid" id="text-brand-option-buttons">
+                        <!-- Brand buttons will be generated here -->
+                    </div>
+                </div>
+                
+                <div style="text-align: center; margin-top: 30px;">
+                    <p id="text-score-display" style="font-size: 1.3em; font-weight: bold; color: #667eea;">Score: 0 / 0</p>
+                    <button class="retake-btn" onclick="nextCarTextIdentifier()" id="text-next-car-btn" style="display: none; margin-top: 15px;">Next Car →</button>
+                    <button class="retake-btn" onclick="finishTextIdentifier()" style="margin-top: 15px;">Finish & See Results</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Body Type Quiz Tab -->
+        <div class="tab-content" id="bodytype-quiz">
+            <div class="quiz-header">
+                <h2>🚗 Body Type Quiz</h2>
+                <p class="instruction">Identify both brand and body type:</p>
+            </div>
+            
+            <!-- Brand Filter Section -->
+            <div class="filter-section" id="bodytype-filter">
+                <div class="filter-header">
+                    <h3>🔍 Select Brands</h3>
+                    <button class="select-all-btn" onclick="toggleAllBrandsBodyType()">Select All</button>
+                </div>
+                <div class="brand-checkboxes" id="bodytype-checkboxes">
+                    <!-- Brand checkboxes will be dynamically loaded here -->
+                </div>
+                
+                <div style="margin: 25px 0; text-align: center;">
+                    <label style="font-size: 1.1em; font-weight: 600; color: #333; display: block; margin-bottom: 10px;">
+                        📊 Maximum Discontinued Cars per Brand:
+                    </label>
+                    <input type="number" id="bodytype-discontinued-limit" value="20" min="0" max="100" 
+                           style="padding: 12px 20px; font-size: 1.1em; border: 2px solid #667eea; border-radius: 10px; width: 150px; text-align: center;">
+                </div>
+                
+                <button class="apply-filter-btn" onclick="startBodyTypeQuiz()">Start Body Type Quiz 🚗</button>
+            </div>
+            
+            <!-- Body Type Quiz Game -->
+            <div id="bodytype-game" style="display: none;">
+                <!-- Progress Counter -->
+                <div style="text-align: center; margin-bottom: 25px; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; color: white;">
+                    <h3 style="font-size: 1.8em; margin: 0;" id="bodytype-progress-counter">Answered: 0 / Remaining: 0</h3>
+                </div>
+                
+                <!-- Car Image (Hidden initially, shown after both answers) -->
+                <div id="bodytype-car-image-container" style="display: none; text-align: center; margin-bottom: 30px;">
+                    <img id="bodytype-car-image" src="" alt="Car" style="max-width: 100%; max-height: 400px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+                    <div style="margin-top: 15px;">
+                        <a id="bodytype-car-link" href="" target="_blank" style="display: inline-block; padding: 12px 25px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 10px; font-weight: bold; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">🔗 View Car Details</a>
+                    </div>
+                </div>
+                
+                <div class="car-display-card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 40px; border-radius: 20px; text-align: center; margin-bottom: 30px;">
+                    <h2 style="font-size: 2.5em; margin-bottom: 20px;" id="bodytype-car-display-name">Loading...</h2>
+                    <p style="font-size: 1.2em; margin-top: 15px;" id="bodytype-car-display-hint"></p>
+                </div>
+                
+                <!-- Question 1: Brand -->
+                <div class="question-card" style="background: #f8f9fa; border-radius: 15px; padding: 25px; margin-bottom: 20px;">
+                    <h3 style="text-align: center; margin-bottom: 20px; color: #333;">1️⃣ Which brand does this car belong to?</h3>
+                    <div class="options-grid" id="bodytype-brand-buttons">
+                        <!-- Brand buttons will be generated here -->
+                    </div>
+                </div>
+                
+                <!-- Question 2: Body Type -->
+                <div class="question-card" style="background: #f8f9fa; border-radius: 15px; padding: 25px; margin-bottom: 20px;">
+                    <h3 style="text-align: center; margin-bottom: 20px; color: #333;">2️⃣ What is the body type of this car? (Select all that apply)</h3>
+                    <div class="options-grid" id="bodytype-type-checkboxes" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+                        <!-- Body type checkboxes will be generated here -->
+                    </div>
+                    <div style="text-align: center; margin-top: 20px;">
+                        <button class="option-label" style="cursor: pointer; padding: 12px 30px; background: #667eea; color: white; border: none; border-radius: 10px; font-weight: bold;" onclick="verifyBodyTypeSelection()">✓ Verify Body Type</button>
+                    </div>
+                </div>
+                
+                <div style="text-align: center; margin-top: 30px;">
+                    <p id="bodytype-score-display" style="font-size: 1.3em; font-weight: bold; color: #667eea;">Score: 0 / 0</p>
+                    <button class="retake-btn" onclick="nextCarBodyType()" id="bodytype-next-car-btn" style="display: none; margin-top: 15px;">Next Car →</button>
+                    <button class="retake-btn" onclick="finishBodyTypeQuiz()" style="margin-top: 15px;">Finish & See Results</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Complete Quiz Tab -->
+        <div class="tab-content" id="complete-quiz">
+            <div class="quiz-header">
+                <h2>🏆 Complete Quiz</h2>
+                <p class="instruction">Identify brand, body type, and status:</p>
+            </div>
+            
+            <!-- Brand Filter Section -->
+            <div class="filter-section" id="complete-filter">
+                <div class="filter-header">
+                    <h3>🔍 Select Brands</h3>
+                    <button class="select-all-btn" onclick="toggleAllBrandsComplete()">Select All</button>
+                </div>
+                <div class="brand-checkboxes" id="complete-checkboxes">
+                    <!-- Brand checkboxes will be dynamically loaded here -->
+                </div>
+                
+                <div style="margin: 25px 0; text-align: center;">
+                    <label style="font-size: 1.1em; font-weight: 600; color: #333; display: block; margin-bottom: 10px;">
+                        📊 Maximum Discontinued Cars per Brand:
+                    </label>
+                    <input type="number" id="complete-discontinued-limit" value="20" min="0" max="100" 
+                           style="padding: 12px 20px; font-size: 1.1em; border: 2px solid #667eea; border-radius: 10px; width: 150px; text-align: center;">
+                </div>
+                
+                <button class="apply-filter-btn" onclick="startCompleteQuiz()">Start Complete Quiz 🏆</button>
+            </div>
+            
+            <!-- Complete Quiz Game -->
+            <div id="complete-game" style="display: none;">
+                <!-- Progress Counter -->
+                <div style="text-align: center; margin-bottom: 25px; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; color: white;">
+                    <h3 style="font-size: 1.8em; margin: 0;" id="complete-progress-counter">Answered: 0 / Remaining: 0</h3>
+                </div>
+                
+                <!-- Car Image (Hidden initially, shown after all answers) -->
+                <div id="complete-car-image-container" style="display: none; text-align: center; margin-bottom: 30px;">
+                    <img id="complete-car-image" src="" alt="Car" style="max-width: 100%; max-height: 400px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+                    <div style="margin-top: 15px;">
+                        <a id="complete-car-link" href="" target="_blank" style="display: inline-block; padding: 12px 25px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 10px; font-weight: bold; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">🔗 View Car Details</a>
+                    </div>
+                </div>
+                
+                <div class="car-display-card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 40px; border-radius: 20px; text-align: center; margin-bottom: 30px;">
+                    <h2 style="font-size: 2.5em; margin-bottom: 20px;" id="complete-car-display-name">Loading...</h2>
+                    <p style="font-size: 1.2em; margin-top: 15px;" id="complete-car-display-hint"></p>
+                </div>
+                
+                <!-- Question 1: Brand -->
+                <div class="question-card" style="background: #f8f9fa; border-radius: 15px; padding: 25px; margin-bottom: 20px;">
+                    <h3 style="text-align: center; margin-bottom: 20px; color: #333;">1️⃣ Which brand does this car belong to?</h3>
+                    <div class="options-grid" id="complete-brand-buttons">
+                        <!-- Brand buttons will be generated here -->
+                    </div>
+                </div>
+                
+                <!-- Question 2: Body Type -->
+                <div class="question-card" style="background: #f8f9fa; border-radius: 15px; padding: 25px; margin-bottom: 20px;">
+                    <h3 style="text-align: center; margin-bottom: 20px; color: #333;">2️⃣ What is the body type of this car? (Select all that apply)</h3>
+                    <div class="options-grid" id="complete-type-checkboxes" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+                        <!-- Body type checkboxes will be generated here -->
+                    </div>
+                    <div style="text-align: center; margin-top: 20px;">
+                        <button class="option-label" style="cursor: pointer; padding: 12px 30px; background: #667eea; color: white; border: none; border-radius: 10px; font-weight: bold;" onclick="verifyCompleteBodyTypeSelection()">✓ Verify Body Type</button>
+                    </div>
+                </div>
+                
+                <!-- Question 3: Status -->
+                <div class="question-card" style="background: #f8f9fa; border-radius: 15px; padding: 25px; margin-bottom: 20px;">
+                    <h3 style="text-align: center; margin-bottom: 20px; color: #333;">3️⃣ What is the status of this car?</h3>
+                    <div class="options-grid" id="complete-status-buttons">
+                        <!-- Status buttons will be generated here -->
+                    </div>
+                </div>
+                
+                <div style="text-align: center; margin-top: 30px;">
+                    <p id="complete-score-display" style="font-size: 1.3em; font-weight: bold; color: #667eea;">Score: 0 / 0</p>
+                    <button class="retake-btn" onclick="nextCarComplete()" id="complete-next-car-btn" style="display: none; margin-top: 15px;">Next Car →</button>
+                    <button class="retake-btn" onclick="finishCompleteQuiz()" style="margin-top: 15px;">Finish & See Results</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Results Tab -->
+        <div class="tab-content" id="results">
+            <div class="results-container">
+                <h2>Quiz Results</h2>
+                <div id="results-content">
+                    <p class="no-results">Complete the quiz to see your results here!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Car Quiz Master © 2026 | Data from PakWheels</p>
+    </footer>
+
+    <script src="js/quiz.js"></script>
+    <script src="js/brand-identifier.js"></script>
+    <script src="js/text-identifier.js"></script>
+    <script src="js/bodytype-quiz.js"></script>
+    <script src="js/complete-quiz.js"></script>
+</body>
+</html>

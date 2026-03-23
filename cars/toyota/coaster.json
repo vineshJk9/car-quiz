@@ -1,0 +1,35 @@
+{
+  "name": "Toyota Coaster",
+  "brand": "Toyota",
+  "model": "Coaster",
+  "status": "new",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/16714/medium/Cover.jpg?1768980540",
+  "price_range": "PKR 2.68 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/toyota/coaster/",
+  "specifications": {
+    "Price": "PKR 2.68 crore",
+    "Body Type": "Van",
+    "Dimensions (Length x Width x Height)": "6990 x 2080 x 2635 mm",
+    "Ground Clearance": "185 mm",
+    "Displacement": "4009 cc",
+    "Transmission": "Manual",
+    "Horse Power": "134 hp",
+    "Torque": "353 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "5670 KG",
+    "Fuel Type": "Diesel",
+    "Mileage": "7 - 9 KM/L",
+    "Fuel Tank Capacity": "95 L",
+    "Seating Capacity": "29 - Persons",
+    "Top Speed": "160 KM/H",
+    "Tyre Size": "215/70/18"
+  },
+  "variants": [
+    {
+      "name": "Toyota Coaster 29 Seater F/L",
+      "price": "PKR 26,789,000",
+      "link": "https://www.pakwheels.com/new-cars/toyota/coaster/29-seater-f-l/"
+    }
+  ]
+}

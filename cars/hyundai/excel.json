@@ -1,0 +1,35 @@
+{
+  "name": "Hyundai Excel",
+  "brand": "Hyundai",
+  "model": "Excel",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/12375/medium/Cover.jpg?1768564557",
+  "price_range": "PKR 4.55 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/hyundai/excel/",
+  "specifications": {
+    "Price": "PKR 3.00 - 14.50 lacs",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4280 x 1610 x 1379 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1463 cc",
+    "Transmission": "Manual",
+    "Horse Power": "81 hp",
+    "Torque": "119 Nm",
+    "Boot Space": "324 L",
+    "Kerb Weight": "930 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "45 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "155/80/R13"
+  },
+  "variants": [
+    {
+      "name": "Hyundai Excel Basegrade",
+      "price": "PKR 455,000",
+      "link": "https://www.pakwheels.com/new-cars/hyundai/excel/basegrade--7/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "BMW 6 Series",
+  "brand": "Bmw",
+  "model": "BMW 6 Series",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10678/medium/Cover.jpg?1768563384",
+  "price_range": "PKR 5.18 crore",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/6-series/",
+  "specifications": {
+    "Price": "PKR 5.18 crore",
+    "Body Type": "Coupe",
+    "Dimensions (Length x Width x Height)": "5007 x 1894 x 1392 mm",
+    "Ground Clearance": "126 mm",
+    "Displacement": "4395 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "445 hp",
+    "Torque": "650 Nm",
+    "Boot Space": "460 L",
+    "Kerb Weight": "1940 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "13 - 18 KM/L",
+    "Fuel Tank Capacity": "70 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "250 KM/H",
+    "Tyre Size": "245/45/R18"
+  },
+  "variants": [
+    {
+      "name": "BMW 6 Series 650i Gran Coupe",
+      "price": "PKR 51,800,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/6-series/650i-gran-coupe/"
+    }
+  ]
+}

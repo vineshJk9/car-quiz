@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "formatters": {
+    "detailed": {
+      "format": "%(asctime)s [%(levelname)s] - %(module)s - Worker: %(process)d - %(message)s"
+    }
+  },
+  "handlers": {
+    "scraper_handler": {
+      "class": "concurrent_log_handler.ConcurrentTimedRotatingFileHandler",
+      "formatter": "detailed",
+      "filename": "./logs/scraper.log",
+      "when": "midnight",
+      "interval": 1,
+      "backupCount": 30,
+      "delay": true
+    }
+  },
+  "loggers": {
+    "scraper": {
+      "handlers": ["scraper_handler"],
+      "level": "DEBUG"
+    }
+  }
+}

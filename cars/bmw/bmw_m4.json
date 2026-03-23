@@ -1,0 +1,40 @@
+{
+  "name": "BMW M4",
+  "brand": "Bmw",
+  "model": "BMW M4",
+  "status": "discontinued",
+  "image": "https://cache1.pakwheels.com/system/car_generation_pictures/8665/medium/Cover.jpg?1744874935",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/m4/",
+  "specifications": {
+    "Price": "PKR 3.75 crore",
+    "Body Type": "Convertible,Coupe",
+    "Dimensions (Length x Width x Height)": "4768 x 1852 x 1383 mm",
+    "Ground Clearance": "92 mm",
+    "Displacement": "2993 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "241 hp",
+    "Torque": "400 Nm",
+    "Boot Space": "440 L",
+    "Kerb Weight": "1775 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "15 - 17 KM/L",
+    "Fuel Tank Capacity": "59 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "240 KM/H",
+    "Tyre Size": "225/50/R17"
+  },
+  "variants": [
+    {
+      "name": "BMW M4 Competition Cabriolet",
+      "price": "PKR 37,500,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/m4/competition-cabriolet/"
+    },
+    {
+      "name": "BMW M4 Competition Coupe",
+      "price": "PKR 37,500,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/m4/competition-coupe/"
+    }
+  ]
+}

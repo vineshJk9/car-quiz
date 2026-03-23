@@ -1,0 +1,35 @@
+{
+  "name": "Changan Kaghan XL",
+  "brand": "Changan",
+  "model": "Kaghan XL",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10982/medium/Cover.jpg?1768563576",
+  "price_range": "PKR 50.00 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/changan/kaghan/",
+  "specifications": {
+    "Price": "PKR 50.00 lacs",
+    "Body Type": "Micro Van",
+    "Dimensions (Length x Width x Height)": "4625 x 1700 x 2100 mm",
+    "Ground Clearance": "175 mm",
+    "Displacement": "1310 cc",
+    "Transmission": "Manual",
+    "Horse Power": "60 hp",
+    "Torque": "103 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1350 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "12 - 14 KM/L",
+    "Fuel Tank Capacity": "55 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "90 KM/H",
+    "Tyre Size": "185/65/R14"
+  },
+  "variants": [
+    {
+      "name": "Changan Kaghan XL Base Grade",
+      "price": "PKR 5,000,000",
+      "link": "https://www.pakwheels.com/new-cars/changan/kaghan/basegrade--5/"
+    }
+  ]
+}

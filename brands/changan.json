@@ -1,0 +1,128 @@
+{
+  "new_cars": [
+    {
+      "name": "Changan M9",
+      "model": "M9",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6408/medium/Changan_M9_Front.jpg?1768563589",
+      "price_range": "PKR 23.49 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/changan/m9/"
+    },
+    {
+      "name": "Changan Karvaan",
+      "model": "Karvaan",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/4835/medium/Changan_Karvaan_.jpg?1536237811",
+      "price_range": "PKR 31.49 - 32.99 lacs",
+      "reviews": 24,
+      "link": "https://www.pakwheels.com/new-cars/changan/karvaan/"
+    },
+    {
+      "name": "Changan Alsvin",
+      "model": "Alsvin",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6015/medium/Alsvin_-_PNG.png?1768563564",
+      "price_range": "PKR 37.89 - 45.99 lacs",
+      "reviews": 116,
+      "link": "https://www.pakwheels.com/new-cars/changan/alsvin/"
+    },
+    {
+      "name": "Changan Oshan X7",
+      "model": "Oshan X7",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/16816/medium/Cover.jpg?1769000052",
+      "price_range": "PKR 79.49 - 92.99 lacs",
+      "reviews": 74,
+      "link": "https://www.pakwheels.com/new-cars/changan/oshan-x7/"
+    }
+  ],
+  "upcoming_cars": [
+    {
+      "name": "2026 Changan Lumin",
+      "model": "Lumin",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/10270/medium/Cover.jpg?1765965783",
+      "price_range": "Call For Price",
+      "reviews": null,
+      "link": "https://www.pakwheels.com/new-cars/changan/lumin/2026/"
+    }
+  ],
+  "discontinued_cars": [
+    {
+      "name": "Changan Kalash",
+      "model": "Kalash",
+      "image": "https://cache3.pakwheels.com/system/car_generation_pictures/3036/medium/Changan-Kalash.jpg?1768563577",
+      "price_range": "PKR 5.00 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/changan/kalash/"
+    },
+    {
+      "name": "Changan CS95",
+      "model": "CS95",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/9753/medium/Cover.jpg?1759925724",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/changan/cs95/"
+    },
+    {
+      "name": "Changan CX70T",
+      "model": "CX70T",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/4845/medium/Changan_CX70T.jpg?1538121387",
+      "price_range": "PKR 71.52 lacs",
+      "reviews": 1,
+      "link": "https://www.pakwheels.com/new-cars/changan/cx70t/"
+    },
+    {
+      "name": "Changan A800",
+      "model": "A800",
+      "image": "https://cache1.pakwheels.com/system/car_generation_pictures/10963/medium/Cover.jpg?1768563560",
+      "price_range": "PKR 1.30 crore",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/changan/a800/"
+    },
+    {
+      "name": "Changan CS35 Plus",
+      "model": "CS35 Plus",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6450/medium/Chanan_CS35_Plus.jpg?1768563572",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/changan/cs35-plus/"
+    },
+    {
+      "name": "Changan CS75 Plus",
+      "model": "CS75 Plus",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/9758/medium/Cover.jpg?1759993480",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/changan/cs75-plus/"
+    },
+    {
+      "name": "Changan UNI-K",
+      "model": "UNI-K",
+      "image": "https://wsa3.pakwheels.com/assets/default-display-image-car-6873f23250596c4daa082e7223e5bbb5d1fbcaf7bb5d7113003daa9ebd3c66a8.png",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/changan/uni-k/"
+    },
+    {
+      "name": "Changan UNI-T",
+      "model": "UNI-T",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/6053/medium/Uni_T_-_PNG.png?1768563651",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/changan/uni-t/"
+    },
+    {
+      "name": "Changan UNI-V",
+      "model": "UNI-V",
+      "image": "https://cache4.pakwheels.com/system/car_generation_pictures/9819/medium/Cover.jpg?1760610239",
+      "price_range": null,
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/changan/uni-v/"
+    },
+    {
+      "name": "Changan Kaghan XL",
+      "model": "Kaghan XL",
+      "image": "https://cache2.pakwheels.com/system/car_generation_pictures/10982/medium/Cover.jpg?1768563576",
+      "price_range": "PKR 50.00 lacs",
+      "reviews": 0,
+      "link": "https://www.pakwheels.com/new-cars/changan/kaghan/"
+    }
+  ]
+}

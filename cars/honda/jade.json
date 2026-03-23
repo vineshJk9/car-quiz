@@ -1,0 +1,35 @@
+{
+  "name": "Honda Jade",
+  "brand": "Honda",
+  "model": "Jade",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/12096/medium/Cover.jpg?1768564399",
+  "price_range": "PKR 44.30 lacs",
+  "reviews": 1,
+  "link": "https://www.pakwheels.com/new-cars/honda/jade-hybrid/",
+  "specifications": {
+    "Price": "PKR 44.30 lacs",
+    "Body Type": "Hatchback",
+    "Dimensions (Length x Width x Height)": "4650 x 1775 x 1530 mm",
+    "Ground Clearance": "140 mm",
+    "Displacement": "1500 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "129 hp (Combined)",
+    "Torque": "155 Nm (Combined)",
+    "Boot Space": "410 L",
+    "Kerb Weight": "1530 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "22 - 26 KM/L",
+    "Fuel Tank Capacity": "40 L",
+    "Seating Capacity": "6 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "215/55/R17"
+  },
+  "variants": [
+    {
+      "name": "Honda Jade Hybrid X",
+      "price": "PKR 4,430,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/jade-hybrid/hybrid-x--2/"
+    }
+  ]
+}

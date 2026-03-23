@@ -1,0 +1,40 @@
+{
+  "name": "Honda Vamos",
+  "brand": "Honda",
+  "model": "Vamos",
+  "status": "discontinued",
+  "image": "https://cache2.pakwheels.com/system/car_generation_pictures/12269/medium/Cover.jpg?1768564482",
+  "price_range": "PKR 12.72 - 13.82 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/honda/vamos/",
+  "specifications": {
+    "Price": "PKR 12.72 - 13.82 lacs",
+    "Body Type": "Mini Van",
+    "Dimensions (Length x Width x Height)": "3395 x 1475 x 1775 mm",
+    "Ground Clearance": "0 - 165 mm",
+    "Displacement": "656 cc",
+    "Transmission": "Automatic & Manual",
+    "Horse Power": "45 - 51 hp",
+    "Torque": "59 - 62 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1030 - 1060 KG",
+    "Fuel Type": "Petrol",
+    "Mileage": "17 - 20 KM/L",
+    "Fuel Tank Capacity": "36 - 37 L",
+    "Seating Capacity": "4 - Persons",
+    "Top Speed": "180 KM/H",
+    "Tyre Size": "155/70/R13"
+  },
+  "variants": [
+    {
+      "name": "Honda Vamos G",
+      "price": "PKR 1,382,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/vamos/g--17/"
+    },
+    {
+      "name": "Honda Vamos M STYLISH PACKAGE",
+      "price": "PKR 1,272,000",
+      "link": "https://www.pakwheels.com/new-cars/honda/vamos/m-stylish-package/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "KIA Ceres",
+  "brand": "Kia",
+  "model": "KIA Ceres",
+  "status": "discontinued",
+  "image": "https://cache3.pakwheels.com/system/car_generation_pictures/7896/medium/Cover_%289%29.jpg?1735732128",
+  "price_range": "PKR 12.60 lacs",
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/kia/ceres/",
+  "specifications": {
+    "Price": "PKR 12.60 lacs",
+    "Body Type": "Pick Up",
+    "Dimensions (Length x Width x Height)": "4585 x 1690 x 1995 mm",
+    "Ground Clearance": "210 mm",
+    "Displacement": "2400 cc",
+    "Transmission": "Manual",
+    "Horse Power": "71 hp",
+    "Torque": "157 Nm",
+    "Boot Space": "0 L",
+    "Kerb Weight": "1410 KG",
+    "Fuel Type": "Diesel",
+    "Mileage": "10 - 12 KM/L",
+    "Fuel Tank Capacity": "50 L",
+    "Seating Capacity": "2 - Persons",
+    "Top Speed": "120 KM/H",
+    "Tyre Size": "185/65/R14"
+  },
+  "variants": [
+    {
+      "name": "KIA Ceres Standard",
+      "price": "PKR 1,260,000",
+      "link": "https://www.pakwheels.com/new-cars/kia/ceres/standard--10/"
+    }
+  ]
+}

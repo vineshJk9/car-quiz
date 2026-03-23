@@ -1,0 +1,35 @@
+{
+  "name": "BMW M5",
+  "brand": "Bmw",
+  "model": "BMW M5",
+  "status": "discontinued",
+  "image": "https://cache4.pakwheels.com/system/car_generation_pictures/8676/medium/Cover.jpg?1744875096",
+  "price_range": null,
+  "reviews": 0,
+  "link": "https://www.pakwheels.com/new-cars/bmw/m5/",
+  "specifications": {
+    "Price": "PKR 4.50 crore",
+    "Body Type": "Sedan",
+    "Dimensions (Length x Width x Height)": "4936 x 1868 x 1466 mm",
+    "Ground Clearance": "150 mm",
+    "Displacement": "1998 cc",
+    "Transmission": "Automatic",
+    "Horse Power": "252 hp (Combined)",
+    "Torque": "290 Nm (Combined)",
+    "Boot Space": "530 L",
+    "Kerb Weight": "1845 KG",
+    "Fuel Type": "Hybrid",
+    "Mileage": "19 - 28 KM/L",
+    "Fuel Tank Capacity": "46 L",
+    "Seating Capacity": "5 - Persons",
+    "Top Speed": "235 KM/H",
+    "Tyre Size": "225/55/R17"
+  },
+  "variants": [
+    {
+      "name": "BMW M5 Saloon",
+      "price": "PKR 45,000,000",
+      "link": "https://www.pakwheels.com/new-cars/bmw/m5/saloon--4/"
+    }
+  ]
+}
